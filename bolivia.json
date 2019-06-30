@@ -1,148 +1,148 @@
 [
-        {
-            "name": "Incahuasi 88.3 FM",
-            "logo": "http://miradios.net/boliva/upload/0141-2019-06-30.png",
-            "url": "http://stm6.xcast.com.br:13246/",
-            "category": "CHUQUISACA"
-        },
-        {
-            "name": "Radio Encuentro 96.3 FM",
-            "logo": "http://miradios.net/boliva/upload/1018-2019-06-30.png",
-            "url": "http://zeus.imd.la:6014/",
-            "category": "CHUQUISACA"
-        },
-        {
-            "name": "Integración 90.3 FM Montero",
-            "logo": "http://miradios.net/boliva/upload/3465-2019-06-30.png",
-            "url": "http://5.199.169.190:2199/",
-            "category": "SANTA CRUZ"
-        },
-        {
-            "name": "El Deber 103.3 FM",
-            "logo": "http://miradios.net/boliva/upload/7352-2019-06-29.png",
-            "url": "http://62.210.24.124:8612/",
-            "category": "SANTA CRUZ"
-        },
-        {
-            "name": "Audio Kiss 90.7 FM",
-            "logo": "http://miradios.net/boliva/upload/4195-2019-06-29.png",
-            "url": "http://streamserver.ml:7040/",
-            "category": "SANTA CRUZ"
-        },
-        {
-            "name": "Loyola 1060 AM",
-            "logo": "http://miradios.net/boliva/upload/6094-2019-06-29.png",
-            "url": "http://108.170.61.114:8222/",
-            "category": "LA PAZ"
-        },
-        {
-            "name": "Radio Sucre 1320 Khz AM",
-            "logo": "http://miradios.net/boliva/upload/8419-2019-06-29.png",
-            "url": "http://radios.imd.com.bo:7791/",
-            "category": "CHUQUISACA"
-        },
-        {
-            "name": "La Bonita FM 94.0",
-            "logo": "http://miradios.net/boliva/upload/5102-2019-06-29.png",
-            "url": "http://radios.istbolivia.com:9986/stream",
-            "category": "COCHABAMBA"
-        },
-        {
-            "name": "Activa 91.9 FM",
-            "logo": "http://miradios.net/boliva/upload/7564-2019-06-29.jpg",
-            "url": "http://streamserver.ml:7002/",
-            "category": "SANTA CRUZ"
-        },
-        {
-            "name": "Splendid 1220 AM",
-            "logo": "http://miradios.net/boliva/upload/9294-2019-06-29.png",
-            "url": "http://stm7.streaming.profesional.bo:11304/",
-            "category": "LA PAZ"
-        },
-        {
-            "name": "La Tremenda 95.9 FM",
-            "logo": "http://miradios.net/boliva/upload/1453-2019-06-29.png",
-            "url": "http://198.27.80.34:8004/",
-            "category": "SANTA CRUZ"
-        },
-        {
-            "name": "Radio Disney Bolivia",
-            "logo": "http://miradios.net/boliva/upload/9870-2019-06-29.png",
-            "url": "http://144.217.67.108:9156/",
-            "category": "LA PAZ"
-        },
-        {
-            "name": "Chacaltaya 93.7 FM",
-            "logo": "http://miradios.net/boliva/upload/1941-2019-06-29.png",
-            "url": "http://stream.servionbolivia.red:9364/stream",
-            "category": "LA PAZ"
-        },
-        {
-            "name": "Radio Urbana 95.2 FM",
-            "logo": "http://miradios.net/boliva/upload/3980-2019-06-29.png",
-            "url": "http://149.56.178.89:8008/stream",
-            "category": "COCHABAMBA"
-        },
-        {
-            "name": "Radio Expresion 106.6 FM",
-            "logo": "http://miradios.net/boliva/upload/9910-2019-06-29.png",
-            "url": "http://icecasthd.net:26399/;stream.mp3",
-            "category": "SANTA CRUZ"
-        },
-        {
-            "name": "Andres Ibañez 97.9 Fm",
-            "logo": "http://miradios.net/boliva/upload/7700-2019-06-28.png",
-            "url": "http://95.211.214.198:8001/rai",
-            "category": "SANTA CRUZ"
-        },
-        {
-            "name": "El Sonido de la Vida",
-            "logo": "http://miradios.net/boliva/upload/8496-2019-06-28.png",
-            "url": "http://realserver2.megalink.com:8120/;",
-            "category": "LA PAZ"
-        },
-        {
-            "name": "Radio Cepja 90.3 FM",
-            "logo": "http://miradios.net/boliva/upload/8543-2019-06-28.png",
-            "url": "http://149.56.178.89:8007/stream",
-            "category": "COCHABAMBA"
-        },
-        {
-            "name": "Radio Centro FM",
-            "logo": "http://miradios.net/boliva/upload/7800-2019-06-28.png",
-            "url": "http://149.56.178.89:8000/stream",
-            "category": "COCHABAMBA"
-        },
-        {
-            "name": "Restauracion 98.8 FM",
-            "logo": "http://miradios.net/boliva/upload/8796-2019-06-28.jpg",
-            "url": "http://cast.miradio.in:8118/stream",
-            "category": "LA PAZ"
-        },
-        {
-            "name": "Radio Suprema de Monteagudo",
-            "logo": "http://miradios.net/boliva/upload/1106-2019-06-28.jpg",
-            "url": "http://radios.istbolivia.com:7909/",
-            "category": "CHUQUISACA"
-        },
-        {
-            "name": "Radio Yotala 93.3 FM",
-            "logo": "http://miradios.net/boliva/upload/2248-2019-06-28.png",
-            "url": "http://athena.imd.la:6034/stream",
-            "category": "CHUQUISACA"
-        },
-        {
-            "name": "Concierto 105.5 FM Yacuiba",
-            "logo": "http://miradios.net/boliva/upload/8202-2019-06-28.jpg",
-            "url": "http://radios.istbolivia.com:9356/stream",
-            "category": "TARIJA"
-        },
-        {
-            "name": "Radio Qhana 98.5 FM",
-            "logo": "http://miradios.net/boliva/upload/8709-2019-06-28.png",
-            "url": "http://163.172.8.18:8017/stream",
-            "category": "LA PAZ"
-        },
+  {
+    "name": "Incahuasi 88.3 FM",
+    "logo": "http://miradios.net/boliva/upload/0141-2019-06-30.png",
+    "url": "http://stm6.xcast.com.br:13246/",
+    "category": "CHUQUISACA"
+  },
+  {
+    "name": "Radio Encuentro 96.3 FM",
+    "logo": "http://miradios.net/boliva/upload/1018-2019-06-30.png",
+    "url": "http://zeus.imd.la:6014/",
+    "category": "CHUQUISACA"
+  },
+  {
+    "name": "Integración 90.3 FM Montero",
+    "logo": "http://miradios.net/boliva/upload/3465-2019-06-30.png",
+    "url": "http://5.199.169.190:2199/",
+    "category": "SANTA CRUZ"
+  },
+  {
+    "name": "El Deber 103.3 FM",
+    "logo": "http://miradios.net/boliva/upload/7352-2019-06-29.png",
+    "url": "http://62.210.24.124:8612/",
+    "category": "SANTA CRUZ"
+  },
+  {
+    "name": "Audio Kiss 90.7 FM",
+    "logo": "http://miradios.net/boliva/upload/4195-2019-06-29.png",
+    "url": "http://streamserver.ml:7040/",
+    "category": "SANTA CRUZ"
+  },
+  {
+    "name": "Loyola 1060 AM",
+    "logo": "http://miradios.net/boliva/upload/6094-2019-06-29.png",
+    "url": "http://108.170.61.114:8222/",
+    "category": "LA PAZ"
+  },
+  {
+    "name": "Radio Sucre 1320 Khz AM",
+    "logo": "http://miradios.net/boliva/upload/8419-2019-06-29.png",
+    "url": "http://radios.imd.com.bo:7791/",
+    "category": "CHUQUISACA"
+  },
+  {
+    "name": "La Bonita FM 94.0",
+    "logo": "http://miradios.net/boliva/upload/5102-2019-06-29.png",
+    "url": "http://radios.istbolivia.com:9986/stream",
+    "category": "COCHABAMBA"
+  },
+  {
+    "name": "Activa 91.9 FM",
+    "logo": "http://miradios.net/boliva/upload/7564-2019-06-29.jpg",
+    "url": "http://streamserver.ml:7002/",
+    "category": "SANTA CRUZ"
+  },
+  {
+    "name": "Splendid 1220 AM",
+    "logo": "http://miradios.net/boliva/upload/9294-2019-06-29.png",
+    "url": "http://stm7.streaming.profesional.bo:11304/",
+    "category": "LA PAZ"
+  },
+  {
+    "name": "La Tremenda 95.9 FM",
+    "logo": "http://miradios.net/boliva/upload/1453-2019-06-29.png",
+    "url": "http://198.27.80.34:8004/",
+    "category": "SANTA CRUZ"
+  },
+  {
+    "name": "Radio Disney Bolivia",
+    "logo": "http://miradios.net/boliva/upload/9870-2019-06-29.png",
+    "url": "http://144.217.67.108:9156/",
+    "category": "LA PAZ"
+  },
+  {
+    "name": "Chacaltaya 93.7 FM",
+    "logo": "http://miradios.net/boliva/upload/1941-2019-06-29.png",
+    "url": "http://stream.servionbolivia.red:9364/stream",
+    "category": "LA PAZ"
+  },
+  {
+    "name": "Radio Urbana 95.2 FM",
+    "logo": "http://miradios.net/boliva/upload/3980-2019-06-29.png",
+    "url": "http://149.56.178.89:8008/stream",
+    "category": "COCHABAMBA"
+  },
+  {
+    "name": "Radio Expresion 106.6 FM",
+    "logo": "http://miradios.net/boliva/upload/9910-2019-06-29.png",
+    "url": "http://icecasthd.net:26399/;stream.mp3",
+    "category": "SANTA CRUZ"
+  },
+  {
+    "name": "Andres Ibañez 97.9 Fm",
+    "logo": "http://miradios.net/boliva/upload/7700-2019-06-28.png",
+    "url": "http://95.211.214.198:8001/rai",
+    "category": "SANTA CRUZ"
+  },
+  {
+    "name": "El Sonido de la Vida",
+    "logo": "http://miradios.net/boliva/upload/8496-2019-06-28.png",
+    "url": "http://realserver2.megalink.com:8120/;",
+    "category": "LA PAZ"
+  },
+  {
+    "name": "Radio Cepja 90.3 FM",
+    "logo": "http://miradios.net/boliva/upload/8543-2019-06-28.png",
+    "url": "http://149.56.178.89:8007/stream",
+    "category": "COCHABAMBA"
+  },
+  {
+    "name": "Radio Centro FM",
+    "logo": "http://miradios.net/boliva/upload/7800-2019-06-28.png",
+    "url": "http://149.56.178.89:8000/stream",
+    "category": "COCHABAMBA"
+  },
+  {
+    "name": "Restauracion 98.8 FM",
+    "logo": "http://miradios.net/boliva/upload/8796-2019-06-28.jpg",
+    "url": "http://cast.miradio.in:8118/stream",
+    "category": "LA PAZ"
+  },
+  {
+    "name": "Radio Suprema de Monteagudo",
+    "logo": "http://miradios.net/boliva/upload/1106-2019-06-28.jpg",
+    "url": "http://radios.istbolivia.com:7909/",
+    "category": "CHUQUISACA"
+  },
+  {
+    "name": "Radio Yotala 93.3 FM",
+    "logo": "http://miradios.net/boliva/upload/2248-2019-06-28.png",
+    "url": "http://athena.imd.la:6034/stream",
+    "category": "CHUQUISACA"
+  },
+  {
+    "name": "Concierto 105.5 FM Yacuiba",
+    "logo": "http://miradios.net/boliva/upload/8202-2019-06-28.jpg",
+    "url": "http://radios.istbolivia.com:9356/stream",
+    "category": "TARIJA"
+  },
+  {
+    "name": "Radio Qhana 98.5 FM",
+    "logo": "http://miradios.net/boliva/upload/8709-2019-06-28.png",
+    "url": "http://163.172.8.18:8017/stream",
+    "category": "LA PAZ"
+  },
   {
     "name": "Radio Fides / La Paz",
     "logo": "http://api.radiosworld.info/files/radio/logo/2e4c6cff9843d41bf6b3b1b9d861861e640a1be2.jpeg",
@@ -2199,5 +2199,5 @@
     "category": "Relax Music",
     "url": "http://mp3channels.webradio.antenne.de/chillout",
     "logo": "https://static-media.streema.com/media/cache/cc/7c/cc7c8472d761593a62a1ccde430e3fd9.jpg"
-  }  
+  }
 ]
