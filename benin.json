@@ -1,0 +1,794 @@
+[
+  {
+    "category": "Local Station",
+    "name": "Capp FM",
+    "logo": "http://radiobondhu.com/APPS/Afghanistan/upload/5139-2018-10-30.jpg",
+    "url": "http://cappfm.ice.infomaniak.ch/cappfm-96.mp3"
+  },
+  {
+    "category": "Local Station",
+    "name": "Radio Tokpa",
+    "logo": "http://radiobondhu.com/APPS/Afghanistan/upload/0891-2018-10-30.jpg",
+    "url": "http://str4uice.streamakaci.com/4uclassicrock.mp3"
+  },
+  {
+    "name": "Am?rica Dance 90's",
+    "category": "Top EuroDance Radio",
+    "url": "http://stm8.srvstm.com:8212/;",
+    "logo": "https://dl.dropbox.com/s/a9uweecjpti99u2/Am%C3%A9rica%20Dance%2090%27s.png"
+  },
+  {
+    "name": "Radio-Dance Classic",
+    "category": "Top EuroDance Radio",
+    "url": "http://144.217.180.30:8095/;stream/1",
+    "logo": "https://dl.dropboxusercontent.com/s/nlhwmjtcx19g6e9/danc.png"
+  },
+  {
+    "name": "C-Dance RETRO",
+    "category": "Top EuroDance Radio",
+    "url": "http://198.100.145.187:18304/;",
+    "logo": "https://dl.dropboxusercontent.com/s/egm9tom7byazhnz/anos90.png"
+  },
+  {
+    "name": "Eurodance90",
+    "category": "Top EuroDance Radio",
+    "url": "https://listen1.myradio24.com/5967?d=",
+    "logo": "https://dl.dropboxusercontent.com/s/egm9tom7byazhnz/anos90.png"
+  },
+  {
+    "name": "A'11 Eurodance 90s",
+    "category": "Top EuroDance Radio",
+    "url": "http://streaming.radionomy.com/A-11-Eurodance-90s",
+    "logo": "https://dl.dropbox.com/s/ommqnv29gpe2yku/A%2711%20Eurodance%2090s.png"
+  },
+  {
+    "name": "Sunset Radio : Hands Up",
+    "category": "Top EuroDance Radio",
+    "url": "http://s.sunset-radio.com:14200/",
+    "logo": "https://dl.dropbox.com/s/1yet61s84rqpby6/Sunset%20Radio.png"
+  },
+  {
+    "name": "Myhitmusic",
+    "category": "Top EuroDance Radio",
+    "url": "http://151.80.43.143:8008/.mp3",
+    "logo": "https://dl.dropbox.com/s/rhsi7135dbadr8a/E-Dance%2090%27s.png"
+  },
+  {
+    "name": "Radio DP",
+    "category": "Top EuroDance Radio",
+    "url": "http://94.23.221.158:9197/stream",
+    "logo": "https://dl.dropboxusercontent.com/s/rwi2totj3ll6665/rdp.png"
+  },
+  {
+    "name": "Eurodance 90",
+    "category": "Top EuroDance Radio",
+    "url": "http://stm15.srvstm.com:16470/;stream/1",
+    "logo": "https://dl.dropboxusercontent.com/s/9ehazeovwmk68ck/euro90.png"
+  },
+  {
+    "name": "gherlafm.ro",
+    "category": "Top EuroDance Radio",
+    "url": "http://89.39.189.52:8000/;stream/1",
+    "logo": "https://dl.dropboxusercontent.com/s/ewaitqgg6rwi3gz/gherla.png"
+  },
+  {
+    "name": "VIPradio EuroDance",
+    "category": "Top EuroDance Radio",
+    "url": "http://149.56.175.167:5429/stream",
+    "logo": "https://dl.dropboxusercontent.com/s/1iuc6laohoa8cjw/VIPradio-EuroDance.png"
+  },
+  {
+    "name": "Radio Caprice",
+    "category": "Top EuroDance Radio",
+    "url": "http://79.120.39.202:9003/",
+    "logo": "https://dl.dropboxusercontent.com/s/kdsux75kqacskqf/Radio-Caprice.png"
+  },
+  {
+    "name": "FFH Eurodances",
+    "category": "Top EuroDance Radio",
+    "url": "http://mp3.ffh.de/ffhchannels/hqeurodance.mp3",
+    "logo": "https://dl.dropbox.com/s/3z1nyzear64clda/FFH%20Eurodance.png"
+  },
+  {
+    "name": "Radio Retro Brazil",
+    "category": "Top EuroDance Radio",
+    "url": "http://50.97.94.44:8076/stream",
+    "logo": "https://dl.dropboxusercontent.com/s/nre53duy4oq1vlo/Eurodance%20Worldwide.png"
+  },
+  {
+    "name": "Eurodance",
+    "category": "Top EuroDance Radio",
+    "url": "https://eurodance.stream.laut.fm/eurodance?t302=2018-02-22_15-45-20&amp;uuid=7fd8084d-52ac-4bf4-a433-f878884b9536&quot;",
+    "logo": "https://dl.dropboxusercontent.com/s/xlt5p9qo6ab2epl/eurodance.png"
+  },
+  {
+    "name": "prj - Eurodance",
+    "category": "Top EuroDance Radio",
+    "url": "http://eurodance.su:8000/;stream.nsv?17",
+    "logo": "https://dl.dropboxusercontent.com/s/em0gag12yybhipi/EuroDanceMedia%20prj.png"
+  },
+  {
+    "name": "Radio Dancefloor",
+    "category": "Top EuroDance Radio",
+    "url": "http://185.92.223.206:443/live-hq",
+    "logo": "https://dl.dropboxusercontent.com/s/j99wvkj4rax7irm/RadioDielli.png"
+  },
+  {
+    "name": "Radio Studio Souto",
+    "category": "Top EuroDance Radio",
+    "url": "http://192.99.150.31:8056/stream",
+    "logo": "https://dl.dropboxusercontent.com/s/n1yuzelygnkx44z/Studio.png"
+  },
+  {
+    "name": "BDJ EURODANCE 90S",
+    "category": "Top EuroDance Radio",
+    "url": "http://streaming.radionomy.com/BDJEurodance90s?lang=en-US%2cen%3bq%3d0.9&br=128",
+    "logo": "https://dl.dropboxusercontent.com/s/ql19eil1oc4jz0a/BDJ%20EURODANCE%2090S.png"
+  },
+  {
+    "name": "Sound Of Nature",
+    "category": "Top EuroDance Radio",
+    "url": "http://188.138.17.212:11854/;",
+    "logo": "https://dl.dropboxusercontent.com/s/f0f8wd0yhe5x7c0/Sounf%20Of%20Nature.png"
+  },
+  {
+    "name": "DI Radio Digital",
+    "category": "Top EuroDance Radio",
+    "url": "http://5.39.71.159:8922/stream",
+    "logo": "https://dl.dropboxusercontent.com/s/fd88c747lkmbssu/DI%20Radio%20Digital.png"
+  },
+  {
+    "name": "Factor Dance",
+    "category": "Top EuroDance Radio",
+    "url": "http://195.154.167.62:9666/stream",
+    "logo": "http://static.radio.net/images/broadcasts/e2/49/106143/1/c175.png"
+  },
+  {
+    "name": "Dance-Fox",
+    "category": "Top EuroDance Radio",
+    "url": "http://188.138.1.220:8300/dancefox.mp3",
+    "logo": "https://dl.dropboxusercontent.com/s/3gns785cqih3xo2/dancefox.png"
+  },
+  {
+    "name": "Radio-angelsfox",
+    "category": "Top EuroDance Radio",
+    "url": "http://62.138.147.36:80/angelsfox-radio.mp3",
+    "logo": "https://dl.dropboxusercontent.com/s/vgug9r0m4yen37f/kurdranj.png"
+  },
+  {
+    "name": "Ballermann Radio",
+    "category": "Top EuroDance Radio",
+    "url": "http://stream.bmr-radio.de/ballermann-radio.mp3",
+    "logo": "https://dl.dropboxusercontent.com/s/8sxymnmbv077j50/balerman.png"
+  },
+  {
+    "name": "prj- DreamDance",
+    "category": "Top EuroDance Radio",
+    "url": "http://eurodance.su:8002/;stream.nsv?43",
+    "logo": "https://dl.dropboxusercontent.com/s/hsftsrnj6dp6hfw/EuroDanceMedia%20prj.%20-%20DreamDance.png"
+  },
+  {
+    "name": "EuroDanceMedia prj",
+    "category": "Top EuroDance Radio",
+    "url": "http://eurodance.su:8004/;stream.nsv?5",
+    "logo": "https://dl.dropboxusercontent.com/s/xlt5p9qo6ab2epl/eurodance.png"
+  },
+  {
+    "name": "Radio 1 MIX",
+    "category": "Top EuroDance Radio",
+    "url": "http://fr1.1mix.co.uk:8060/320",
+    "logo": "https://dl.dropboxusercontent.com/s/37njy2402mycnze/1Mix%20Radio.png"
+  },
+  {
+    "name": "Dance Wave Retro!",
+    "category": "Top EuroDance Radio",
+    "url": "http://stream2.dancewave.online:8080/retrodance.mp3",
+    "logo": "https://dl.dropbox.com/s/0jm77370ditrs6g/Dance%20Wave%20Retro%21.png"
+  },
+  {
+    "name": "1.FM - Absolute 90s",
+    "category": "Top EuroDance Radio",
+    "url": "http://strm112.1.fm/partyzone90s_mobile_mp3",
+    "logo": "https://dl.dropbox.com/s/i0wvyxooxmrq205/1.FM%20-%20Absolute%2090s%20.png"
+  },
+  {
+    "name": "Loca FM Remember",
+    "category": "Top EuroDance Radio",
+    "url": "http://5.39.66.128:8006/live",
+    "logo": "https://dl.dropbox.com/s/f0bn6gn09wb6c9s/Loca%20FM%20Remember.png"
+  },
+  {
+    "name": "90s90s Dance",
+    "category": "Top EuroDance Radio",
+    "url": "http://90s90s.hoerradar.de/90s90s-eurodance-mp3-hq?sABC=",
+    "logo": "https://dl.dropbox.com/s/a7pwopw4bn4i6kr/90s90s%20Dance.png"
+  },
+  {
+    "name": "QMR Hit 90's",
+    "category": "Top EuroDance Radio",
+    "url": "http://78.129.146.97:7078/stream",
+    "logo": "https://dl.dropbox.com/s/14htr004699vvwc/90sDance%20by%2049Sendergruppe.png"
+  },
+  {
+    "name": "Radio Regenbogen - 90er Dance",
+    "category": "Top EuroDance Radio",
+    "url": "http://streams.regenbogen.de/rr-eurodance-128-mp3",
+    "logo": "https://dl.dropbox.com/s/vmxnebcon4sqty5/Radio%20Regenbogen%20-%2090er%20Dance.png"
+  },
+  {
+    "name": "Puls'90s",
+    "category": "Top EuroDance Radio",
+    "url": "http://213.251.190.165/puls90HD.mp3",
+    "logo": "https://dl.dropbox.com/s/ggv70845eozjta1/Puls%2790s.png"
+  },
+  {
+    "name": "handsup",
+    "category": "Top EuroDance Radio",
+    "url": "http://sunshinelive.hoerradar.de/sunshinelive-handsup-mp3-mq",
+    "logo": "https://dl.dropbox.com/s/qyv21lcmi3ipz9m/handsup.jpg"
+  },
+  {
+    "name": "Radio Crisami Romania",
+    "category": "Top EuroDance Radio",
+    "url": "http://listen.radionomy.com/Eurodance-90",
+    "logo": "https://dl.dropboxusercontent.com/s/7cnz9vx2dp9tcom/radiocrisime.png"
+  },
+  {
+    "name": "90s90s Techno",
+    "category": "Top EuroDance Radio",
+    "url": "http://90s90s.hoerradar.de/90s90s-techno-mp3-hq?sABC=",
+    "logo": "https://dl.dropbox.com/s/ios93ldce4llk0p/90s90s%20Techno.png"
+  },
+  {
+    "name": "RETRO90",
+    "category": "Top EuroDance Radio",
+    "url": "http://listen.radioking.com/radio/70363/stream/111184",
+    "logo": "https://dl.dropbox.com/s/876f405h8ww81y4/RETRO90.png"
+  },
+  {
+    "name": "Puls'Dance",
+    "category": "Top EuroDance Radio",
+    "url": "http://87.98.153.24/pulsHD.mp3",
+    "logo": "https://dl.dropbox.com/s/c1qlbb538kn3u8d/Puls%27Dance.png"
+  },
+  {
+    "name": "Puls'2000",
+    "category": "Top EuroDance Radio",
+    "url": "http://87.98.129.202/puls00HD.mp3",
+    "logo": "https://dl.dropbox.com/s/h56c8nieu73liyp/Puls%272000.png"
+  },
+  {
+    "name": "USA Dance Radio",
+    "category": "Top EuroDance Radio",
+    "url": "http://144.217.180.30:8095/stream",
+    "logo": "https://dl.dropbox.com/s/v1u4cebp3k315bg/USA%20Dance%20Radio.png"
+  },
+  {
+    "name": "ARADIO90S JUICE",
+    "category": "Top EuroDance Radio",
+    "url": "http://streaming.radionomy.com/A-RADIO-90s-JUICE?ad=radiono5",
+    "logo": "https://dl.dropboxusercontent.com/s/7vdugh8rvoxx5a3/A%20.RADIO%2090S%20JUICE.png"
+  },
+  {
+    "name": "ABCD Eurodance",
+    "category": "Top EuroDance Radio",
+    "url": "http://aach.stream.tb-group.fm/tb-high.aac",
+    "logo": "https://dl.dropboxusercontent.com/s/h0bzin2fgikik9t/ABCD%20Eurodance.png"
+  },
+  {
+    "name": "Technopop",
+    "category": "Top EuroDance Radio",
+    "url": "http://air.radiorecord.ru:805/technopop_320",
+    "logo": "https://dl.dropboxusercontent.com/s/ulax27hrf2vhw11/Beirut%20Nights.png"
+  },
+  {
+    "name": "??????? ??????",
+    "category": "Top EuroDance Radio",
+    "url": "http://streams.netmindz.net/hhuk.mp3",
+    "logo": "https://dl.dropboxusercontent.com/s/yi5qzmx6xw0u4u8/RADIO%20NOW.png"
+  },
+  {
+    "name": "njoy Radio",
+    "category": "Top EuroDance Radio",
+    "url": "http://80.241.212.157:8000",
+    "logo": "https://dl.dropboxusercontent.com/s/gc5pkdsauf3wkm9/Radio%20Europe%20NonStop.png"
+  },
+  {
+    "name": "Rave",
+    "category": "Top EuroDance Radio",
+    "url": "http://air.radiorecord.ru:8102/rave_320",
+    "logo": "https://dl.dropboxusercontent.com/s/tbfb0skxo0yxr2d/Radio%20BalloBello.png"
+  },
+  {
+    "name": "Italo Dance",
+    "category": "Top EuroDance Radio",
+    "url": "http://s2.slotex.pl:10064/;",
+    "logo": "https://dl.dropboxusercontent.com/s/0a75sebiunhurcf/DanceRadio%20FreestyleFM.png"
+  },
+  {
+    "name": "Energy 93 - Euro EDM",
+    "category": "Top EuroDance Radio",
+    "url": "http://listen.181fm.com:7080/181-energy93_128k.mp3",
+    "logo": "https://dl.dropboxusercontent.com/s/bfs6j7flrf507w3/LVG%20RADIO.png"
+  },
+  {
+    "name": "Eurodance Rekord",
+    "category": "Top EuroDance Radio",
+    "url": "http://air.radiorecord.ru:805/eurodance_320",
+    "logo": "https://dl.dropboxusercontent.com/s/so6liazsidffzlz/Radio%20Europa%20Live.png"
+  },
+  {
+    "name": "Radio Record",
+    "category": "Top EuroDance Radio",
+    "url": "http://air.radiorecord.ru:8102/dc_320",
+    "logo": "https://dl.dropboxusercontent.com/s/4vfo9mh7cv2240h/Auto%20DJ.png"
+  },
+  {
+    "name": "Rouge Dance 90",
+    "category": "Top EuroDance Radio",
+    "url": "http://rouge-dance90.ice.infomaniak.ch/rouge-dance90-128.mp3",
+    "logo": "https://dl.dropboxusercontent.com/s/7xfu8h2ratqlsym/Radio109.png"
+  },
+  {
+    "name": "Rouge Latino",
+    "category": "Top EuroDance Radio",
+    "url": "http://rouge-latino.ice.infomaniak.ch/rouge-latino-128.mp3",
+    "logo": "https://dl.dropboxusercontent.com/s/j4z3gpq6b8yzxl5/Energy%20FM%20Australia%20.png"
+  },
+  {
+    "name": "TaksimFM",
+    "category": "Top EuroDance Radio",
+    "url": "http://95.211.162.32:8016/",
+    "logo": "https://dl.dropboxusercontent.com/s/ccm94baa1n2migr/TaksimFM.png"
+  },
+  {
+    "name": "RADIOTX",
+    "category": "Top EuroDance Radio",
+    "url": "http://janus.shoutca.st:8675/stream",
+    "logo": "https://dl.dropboxusercontent.com/s/t8pp0duzpzwg71g/AvaFM%20Remix.png"
+  },
+  {
+    "name": "Classic Dance Hitz",
+    "category": "Top EuroDance Radio",
+    "url": "http://streams.radio.co/s7a933605c/listen",
+    "logo": "http://static.radio.net/images/broadcasts/e2/2c/106614/2/c175.png"
+  },
+   {
+    "name": "BBC 1 98.8",
+    "category": "Public Radio Stations",
+    "url": "http://sc11.iad.llnw.net/stream/bbcmedia_radio1_mf_p",
+    "logo": "https://static-media.streema.com/media/cache/e7/b1/e7b19bf1a649b5d5ea1a98c08c6a8e38.jpg"
+  },
+  {
+    "name": "BBC 2 89.1",
+    "category": "Public Radio Stations",
+    "url": "http://sc12.iad.llnw.net/stream/bbcmedia_radio2_mf_p",
+    "logo": "https://static-media.streema.com/media/cache/6b/5b/6b5b30ab256c56ccb7e1e7dc3fb4682c.jpg"
+  },
+  {
+    "name": "BBC 3 91.0",
+    "category": "Public Radio Stations",
+    "url": "http://sc12.iad.llnw.net/stream/bbcmedia_radio3_mf_p",
+    "logo": "https://static-media.streema.com/media/cache/9c/75/9c75b01d56774fb707d56c4ca7879bdc.jpg"
+  },
+  {
+    "name": "BBC 4 93.4",
+    "category": "Public Radio Stations",
+    "url": "http://sc10.iad.llnw.net/stream/bbcmedia_radio4fm_mf_p",
+    "logo": "https://static-media.streema.com/media/cache/33/57/33577a37d9c14f7327fa1569648f1657.jpg"
+  },
+  {
+    "name": "BBC 5 AM 909",
+    "category": "Public Radio Stations",
+    "url": "http://sc11.iad.llnw.net/stream/bbcmedia_radio5live_mf_q",
+    "logo": "https://static-media.streema.com/media/cache/32/98/3298fdfcb7cda6f894d167774eba1081.jpg"
+  },
+  {
+    "name": "BBC Radio 6 ",
+    "category": "Public Radio Stations",
+    "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p",
+    "logo": "https://static-media.streema.com/media/cache/cd/87/cd875160fee23832751e5e54903f4500.jpg"
+  },
+  {
+    "name": "BBC Asian Network",
+    "category": "Public Radio Stations",
+    "url": "http://sc11.iad.llnw.net/stream/bbcmedia_asianet_mf_q",
+    "logo": "https://static-media.streema.com/media/cache/0e/dc/0edcb9d38d64dfdbd0ce0a3579dac0a6.jpg"
+  },
+  {
+    "name": "BBC World Service News",
+    "category": "Public Radio Stations",
+    "url": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s24948q.png"
+  },
+  {
+    "name": "BBC World Service UK",
+    "category": "Public Radio Stations",
+    "url": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk_backup",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s50646q.png"
+  },
+  {
+    "name": "BBC World Service West Africa",
+    "category": "Public Radio Stations",
+    "url": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-enafw",
+    "logo": "https://cdn-radiotime-logos.tunein.com/a33829q.png"
+  },
+  {
+    "name": "FOX News",
+    "category": "Public Radio Stations",
+    "url": "https://streaming-ent.shoutcast.com/foxnews",
+    "logo": "http://db.radioline.fr/pictures/radio_6ebf9dd61daeb53aefba709ddd631846/logo200.jpg"
+  },
+  {
+    "name": "VOA English",
+    "category": "Public Radio Stations",
+    "url": "https://www.voanews.com/mp3/voa/english/nnow/NNOW_HEADLINES.mp3",
+    "logo": "http://1radionews.com/icons/voa.png"
+  },
+  {
+    "name": "NPR US",
+    "category": "Public Radio Stations",
+    "url": "http://pd.npr.org/anon.npr-mp3/npr/news/newscast.mp3",
+    "logo": "http://1radionews.com/icons/nprnews.jpg"
+  },
+  {
+    "name": "UK SkyNews Update",
+    "category": "Public Radio Stations",
+    "url": "http://video.news.sky.com/snr/news/snrnews.mp3",
+    "logo": "http://1radionews.com/icons/skynewsheadlines.jpg"
+  },
+  {
+    "name": "IPR News Radio",
+    "category": "Public Radio Stations",
+    "url": "http://17993.live.streamtheworld.com/WICAFM.mp3",
+    "logo": "https://cdn-profiles.tunein.com/s37193/images/logoq.jpg?t=636395"
+  },
+  {
+    "name": "KCRW News",
+    "category": "Public Radio Stations",
+    "url": "http://kcrw.streamguys1.com/kcrw_128k_aac_news_tunein",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s44525q.png"
+  },
+  {
+    "name": "Business Eleven",
+    "category": "Public Radio Stations",
+    "url": "http://16813.live.streamtheworld.com:3690/KTEKAM_SC",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s26600q.png"
+  },
+  {
+    "name": "C-SPAN Radio",
+    "category": "Public Radio Stations",
+    "url": "http://16083.live.streamtheworld.com:3690/CSPANRADIO_SC",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s28047q.png"
+  },
+  {
+    "name": "WNYC-AM",
+    "category": "Public Radio Stations",
+    "url": "http://am820.wnyc.org/wnycam-tunein",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s21605q.png"
+  },
+  {
+    "name": "KQED-FM",
+    "category": "Public Radio Stations",
+    "url": "http://50.31.186.115/kqedradio.mp3",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s34804q.png"
+  },
+  {
+    "name": "NHPR",
+    "category": "Public Radio Stations",
+    "url": "https://nhpr-ice.streamguys1.com/nhpr",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s28632q.png"
+  },
+  {
+    "name": "650 CKOM News",
+    "category": "Public Radio Stations",
+    "url": "http://rawlco.leanstream.co/CKOMAM",
+    "logo": "https://cdn-profiles.tunein.com/s7748/images/logoq.jpg"
+  },
+  {
+    "name": "BFBS Radio 2",
+    "category": "Public Radio Stations",
+    "url": "http://edge-audio-03-gos2.sharp-stream.com/ssvcbfbs2.mp3",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s13888q.png"
+  },
+  {
+    "name": "WUWF News",
+    "category": "Public Radio Stations",
+    "url": "http://15903.live.streamtheworld.com:3690/WUWFFM_SC",
+    "logo": "https://cdn-profiles.tunein.com/s23450/images/logoq.png?t=636372"
+  },
+  {
+    "name": "World Radio Network",
+    "category": "Public Radio Stations",
+    "url": "http://shoutcast.wrn.org:8000/",
+    "logo": "http://1radionews.com/icons/wrn.jpg"
+  },
+  {
+    "name": "MSNBC TV",
+    "category": "Public Radio Stations",
+    "url": "http://tunein.streamguys1.com/msnbc-free",
+    "logo": "http://1radionews.com/icons/msnbc.jpg"
+  },
+  {
+    "name": "KALW",
+    "category": "Public Radio Stations",
+    "url": "http://live.str3am.com:2430/",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s31426q.png"
+  },
+  {
+    "name": "ESPN Fantasy Sports",
+    "category": "Sports",
+    "url": "http://tunein.streamguys1.com/ESPNFantasySports",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s224538q.png"
+  },
+  {
+    "name": "Roma Radio",
+    "category": "Sports",
+    "url": "http://ice2.hystream.com:8000/asroma",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s231817q.png"
+  },
+  {
+    "name": "talkSPORT",
+    "category": "Sports",
+    "url": "http://radio.talksport.com/stream",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s17077q.png"
+  },
+  {
+    "name": "La Futbolera Radio",
+    "category": "Sports",
+    "url": "http://62.210.203.78:8093/",
+    "logo": "https://cdn-profiles.tunein.com/s120467/images/logoq.jpg"
+  },
+  {
+    "name": "YAHOO! Sports",
+    "category": "Sports",
+    "url": "http://18583.live.streamtheworld.com:3690/YAHOOSPORTSRADIO",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s18302q.png"
+  },
+  {
+    "name": "Relaxation Island",
+    "category": "Relax Music",
+    "url": "http://s2.voscast.com:7932/;",
+    "logo": "https://static-media.streema.com/media/cache/c6/dc/c6dc576616c571bf89cf66a45f684f71.jpg"
+  },
+  {
+    "name": "FM Relax",
+    "category": "Relax Music",
+    "url": "http://online-radiorelax.tavrmedia.ua/RadioRelax",
+    "logo": "https://static-media.streema.com/media/cache/a0/08/a00826de9228708bc063faed0e2e5b53.jpg"
+  },
+  {
+    "name": "Vibration 108 - Zen Relax",
+    "category": "Relax Music",
+    "url": "http://icecast.stream2net.eu/vibrationzenrelax-128k.mp3",
+    "logo": "https://static-media.streema.com/media/cache/04/a3/04a3e97efb97e0276b806c4e6965d96e.jpg"
+  },
+  {
+    "name": "Radio Dimensione Relax",
+    "category": "Relax Music",
+    "url": "http://tachyon.shoutca.st:8919/stream",
+    "logo": "https://static-media.streema.com/media/cache/e9/11/e911001a434bc49ce31a51f580aa111c.jpg"
+  },
+  {
+    "name": "Relax FM 104.3",
+    "category": "Relax Music",
+    "url": "http://5.20.223.18/relaxfm128.mp3",
+    "logo": "https://static-media.streema.com/media/cache/77/df/77df9afff1274f19a7386626a8392d6c.jpg"
+  },
+  {
+    "name": "Word of Truth Radio Relaxin",
+    "category": "Relax Music",
+    "url": "http://199.189.86.22:80/",
+    "logo": "https://static-media.streema.com/media/cache/ca/2d/ca2dfbde6ccd48135c76bd31ca0e279b.jpg"
+  },
+  {
+    "name": "Radio Relax",
+    "category": "Relax Music",
+    "url": "http://radiorelax.stream.laut.fm/radio_relax",
+    "logo": "https://static-media.streema.com/media/cache/81/a3/81a328f5209ee852003c95c1567121b6.jpg"
+  },
+  {
+    "name": "Radio Relaxo",
+    "category": "Relax Music",
+    "url": "http://192.99.34.205:8360/stream",
+    "logo": "https://static-media.streema.com/media/cache/1a/27/1a2710989e2582cad95d76f6e3d3b243.jpg"
+  },
+  {
+    "name": "Relax Music",
+    "category": "Relax Music",
+    "url": "http://67.23.242.202:8049/stream",
+    "logo": "https://static-media.streema.com/media/cache/f1/df/f1df2f435c0bfa3762daca4d38ab7373.jpg"
+  },
+  {
+    "name": "MPR - Your Classical",
+    "category": "Relax Music",
+    "url": "http://relax.stream.publicradio.org/relax.mp3",
+    "logo": "https://static-media.streema.com/media/cache/2d/ee/2deecc32c005a16a6dcc509ca44229e5.jpg"
+  },
+  {
+    "name": "Radio Caprice Relax",
+    "category": "Relax Music",
+    "url": "http://79.120.39.202:8002/relaxation",
+    "logo": "https://static-media.streema.com/media/cache/d6/74/d67443277e0788be4049631e984416c9.jpg"
+  },
+  {
+    "name": "San FM Relax",
+    "category": "Relax Music",
+    "url": "http://sanfm.ru:8000/relax",
+    "logo": "https://static-media.streema.com/media/cache/b7/fd/b7fd1475203df35f6a6a0ad79ecd9162.jpg"
+  },
+  {
+    "name": "VIP-Radio.FM - Relax",
+    "category": "Relax Music",
+    "url": "http://149.202.179.123:8045/stream-128kmp3-RelaxZone",
+    "logo": "https://static-media.streema.com/media/cache/8b/e9/8be978aa0003c229c404a703bbad8009.jpg"
+  },
+  {
+    "name": "Radio La Vida - Launge",
+    "category": "Relax Music",
+    "url": "http://98.142.109.211:8017/autodj",
+    "logo": "https://static-media.streema.com/media/cache/5d/f6/5df6b3e4c07c86d2763a159eb64b7a07.jpg"
+  },
+  {
+    "name": "ABC Relax",
+    "category": "Relax Music",
+    "url": "http://91.121.86.78:8141/live",
+    "logo": "https://static-media.streema.com/media/cache/2e/a6/2ea685bba591fba1a2af7378a6c13d00.jpg"
+  },
+  {
+    "name": "RMN Relax",
+    "category": "Relax Music",
+    "url": "http://aacplus.rmnrelax.de:8022/rmnrelax.aac",
+    "logo": "https://static-media.streema.com/media/cache/fd/4c/fd4c802a9fb1ee332ae7d4386d3c00e7.jpg"
+  },
+  {
+    "name": "VIP-Radio.FM",
+    "category": "Relax Music",
+    "url": "http://149.202.179.123:8048/stream-128kmp3-TimeToRelax",
+    "logo": "https://static-media.streema.com/media/cache/df/fb/dffb5f3bcce708e7915520fa6cee1c21.jpg"
+  },
+  {
+    "name": "?????? ??",
+    "category": "Relax Music",
+    "url": "http://ic2.101.ru:8000/v13_1",
+    "logo": "https://static-media.streema.com/media/cache/39/04/3904cac7e595cd3b8bbb9c420ec255e3.jpg"
+  },
+  {
+    "name": "San FM Relax",
+    "category": "Relax Music",
+    "url": "http://sanfm.ru:8000/relax",
+    "logo": "https://static-media.streema.com/media/cache/b7/fd/b7fd1475203df35f6a6a0ad79ecd9162.jpg"
+  },
+  {
+    "name": "Radio Bhudda Bar",
+    "category": "Relax Music",
+    "url": "http://streaming.radionomy.com/buddha-bar",
+    "logo": "https://static-media.streema.com/media/cache/41/b9/41b98e2c9650ceef28a89a26d946278b.jpg"
+  },
+  {
+    "name": "Air-Lounge",
+    "category": "Relax Music",
+    "url": "http://streaming.radionomy.com/JamendoLounge",
+    "logo": "https://static-media.streema.com/media/cache/88/f9/88f9d2ad81a44f3c0061c036ed0b30e8.jpg"
+  },
+  {
+    "name": "Sunshine Fun Radio",
+    "category": "Relax Music",
+    "url": "http://stream.sunshine-fun-radio.de:10000/;",
+    "logo": "https://static-media.streema.com/media/cache/f4/70/f470f1f946036ba789e75a2aa0c51974.jpg"
+  },
+  {
+    "name": "Master of Chillout ",
+    "category": "Relax Music",
+    "url": "http://streaming.radionomy.com/Chill-Relaxing-Positive-Work-Study-Relax",
+    "logo": "https://static-media.streema.com/media/cache/c6/b7/c6b71f40c389e097b68c6c504942a422.jpg"
+  },
+  {
+    "name": "Yimago Radio 4",
+    "category": "Relax Music",
+    "url": "http://199.195.194.94:8109/stream/",
+    "logo": "https://static-media.streema.com/media/cache/93/13/9313a34b3a210e38b29bfb5d31c2a5c5.jpg"
+  },
+  {
+    "name": "Radio Nature",
+    "category": "Relax Music",
+    "url": "http://streaming.radionomy.com/RadioNature",
+    "logo": "https://static-media.streema.com/media/cache/a8/b2/a8b2136770b9e7d3cab0ea2e975233a3.jpg"
+  },
+  {
+    "name": "WRSA-DB Beautiful 97",
+    "category": "Relax Music",
+    "url": "http://streaming.radionomy.com/WRSA-97",
+    "logo": "https://static-media.streema.com/media/cache/22/20/2220a6ebc00a1c8f8383c9134e2beb29.jpg"
+  },
+  {
+    "name": "Radio PLENITUDE",
+    "category": "Relax Music",
+    "url": "https://listen.radioking.com/radio/117271/stream/159004",
+    "logo": "https://static-media.streema.com/media/cache/58/06/5806debb85d4a251bfbc18db38168775.jpg"
+  },
+  {
+    "name": "Radio You & Me",
+    "category": "Relax Music",
+    "url": "http://5.39.82.157:8020/stream",
+    "logo": "https://static-media.streema.com/media/cache/c5/6a/c56acf90644004a77742687e24312733.jpg"
+  },
+  {
+    "name": "Calm Radio - Spa",
+    "category": "Relax Music",
+    "url": "http://148.72.152.10:30328/stream",
+    "logo": "https://static-media.streema.com/media/cache/0f/61/0f612df291090b248745ec189bc2986d.jpg"
+  },
+  {
+    "name": "Calm Radio - Harp",
+    "category": "Relax Music",
+    "url": "http://148.72.152.10:4328/stream",
+    "logo": "https://static-media.streema.com/media/cache/c4/d1/c4d1aeaaffa8c42653caa72d8924a1af.jpg"
+  },
+  {
+    "name": "Calm Radio - Solo Guitar",
+    "category": "Relax Music",
+    "url": "http://148.72.152.10:2628/stream",
+    "logo": "https://static-media.streema.com/media/cache/7c/9c/7c9c3592eb004c7287ddad7b2acce1ec.jpg"
+  },
+  {
+    "name": "Calm Radio - Classical Piano",
+    "category": "Relax Music",
+    "url": "http://148.72.152.10:30928/stream",
+    "logo": "https://static-media.streema.com/media/cache/0f/61/0f612df291090b248745ec189bc2986d.jpg"
+  },
+  {
+    "name": "Calm Radio - Sleep",
+    "category": "Relax Music",
+    "url": "http://148.72.152.10:30628/stream",
+    "logo": "https://static-media.streema.com/media/cache/ab/66/ab66df936b3a459ed3a8d4aeb0ef6c89.jpg"
+  },
+  {
+    "name": "Play Emotions",
+    "category": "Relax Music",
+    "url": "http://91.121.38.216:8054/;",
+    "logo": "https://static-media.streema.com/media/cache/e2/b7/e2b7677a417df980649f1039546f3ade.jpg"
+  },
+  {
+    "name": "Calm Radio - Classical Mix",
+    "category": "Relax Music",
+    "url": "http://148.72.152.10:2828/stream",
+    "logo": "https://static-media.streema.com/media/cache/0f/61/0f612df291090b248745ec189bc2986d.jpg"
+  },
+  {
+    "name": "CROOZE - chillout CROOZE",
+    "category": "Relax Music",
+    "url": "http://84.22.102.11:8006/stream128",
+    "logo": "https://static-media.streema.com/media/cache/2f/ee/2fee8b0e5b3d472371a2a94a15b60a70.jpg"
+  },
+  {
+    "name": "Luxe FM",
+    "category": "Relax Music",
+    "url": "http://streaming.radionomy.com/JamendoLounge",
+    "logo": "https://static-media.streema.com/media/cache/fd/86/fd865ee8fb1352730f6fe80ae9434453.jpg"
+  },
+  {
+    "name": "Costa Del Mar - Chillout",
+    "category": "Relax Music",
+    "url": "http://stream.cdm-chillout.com:8020/stream-mp3-Chill",
+    "logo": "https://static-media.streema.com/media/cache/4e/4e/4e4ebac32ef5049dc1092d9dcb1f6fc8.jpg"
+  },
+  {
+    "name": "1.FM - Chillout Lounge",
+    "category": "Relax Music",
+    "url": "http://sc1c-sjc.1.fm:7008/",
+    "logo": "https://static-media.streema.com/media/cache/f6/50/f650abbcb65be11c7547f847a3468019.jpg"
+  },
+  {
+    "name": "Antenne Bayern - Chillout",
+    "category": "Relax Music",
+    "url": "http://mp3channels.webradio.antenne.de/chillout",
+    "logo": "https://static-media.streema.com/media/cache/cc/7c/cc7c8472d761593a62a1ccde430e3fd9.jpg"
+  },
+  {
+    "name": "M2 Radio - M2 Chillout",
+    "category": "Relax Music",
+    "url": "http://live.m2stream.fr/m2chillout-128.mp3",
+    "logo": "https://static-media.streema.com/media/cache/e3/49/e349ffe521e83b23638d299b3f93a196.jpg"
+  }
+]

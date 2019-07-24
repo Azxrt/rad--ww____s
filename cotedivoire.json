@@ -1,0 +1,614 @@
+﻿[
+  {
+    "category": "Armenia",
+    "name": "Lav Radio",
+    "logo": "http://myradioapp.space/upload/5677-2017-11-05.png",
+    "url": "http://163.172.7.220:8000/;"
+  },
+  {
+    "category": "Armenia",
+    "name": "Lav Radio Mix",
+    "logo": "http://myradioapp.space/upload/6900-2017-11-05.png",
+    "url": "http://163.172.7.220:8006/;"
+  },
+  {
+    "category": "Armenia",
+    "name": "Radio Jan",
+    "logo": "http://myradioapp.space/upload/4394-2017-11-05.jpg",
+    "url": "http://streams4.museter.com:8216/;"
+  },
+  {
+    "category": "Armenia",
+    "name": "Radio Aurora",
+    "logo": "http://myradioapp.space/upload/5969-2017-11-05.png",
+    "url": "http://138.201.55.188:8000/;"
+  },
+  {
+    "category": "Armenia",
+    "name": "Armenian Net Radio",
+    "logo": "http://myradioapp.space/upload/6360-2017-11-05.png",
+    "url": "http://s1.armnetradio.com:8550/1"
+  },
+  {
+    "category": "Armenia",
+    "name": "La Armenian Radio",
+    "logo": "http://myradioapp.space/upload/3588-2017-11-05.jpg",
+    "url": "http://91.121.164.210:8424/;stream.mp3"
+  },
+  {
+    "category": "Armenia",
+    "name": "Radio 1",
+    "logo": "http://myradioapp.space/upload/2522-2017-11-05.png",
+    "url": "http://163.172.7.166:8044/stream"
+  },
+  {
+    "category": "Armenia",
+    "name": "Hay FM",
+    "logo": "http://myradioapp.space/upload/4212-2017-11-05.png",
+    "url": "http://mix.am:8000/rhyerevan"
+  },
+  {
+    "category": "Armenia",
+    "name": "Armenian Pulse",
+    "logo": "http://myradioapp.space/upload/6138-2017-11-05.jpg",
+    "url": "http://50.7.96.210:8134/;stream/1:/;"
+  },
+  {
+    "category": "Armenia",
+    "name": "Armenian News Radio",
+    "logo": "http://myradioapp.space/upload/9789-2017-11-05.png",
+    "url": "http://212.34.233.78:8000/live"
+  },
+  {
+    "category": "Armenia",
+    "name": "Radio Van",
+    "logo": "http://myradioapp.space/upload/1022-2017-11-05.png",
+    "url": "http://media.radiovan.am:8000/96_stereo"
+  },
+  {
+    "category": "Armenia",
+    "name": "Radio Fama",
+    "logo": "http://myradioapp.space/upload/3872-2017-11-05.png",
+    "url": "http://163.172.7.220:8036/;"
+  },
+  {
+    "category": "Armenia",
+    "name": "Armenian Voice Online",
+    "logo": "http://myradioapp.space/upload/5821-2017-11-05.png",
+    "url": "http://64.150.176.42:8004/stream"
+  },
+  {
+    "category": "Armenia",
+    "name": "Radio Yeraz",
+    "logo": "http://myradioapp.space/upload/3789-2017-11-05.png",
+    "url": "http://myradioapp.space/offline/un.mp3"
+  },
+  {
+    "category": "Armenia",
+    "name": "Radio Arev",
+    "logo": "http://myradioapp.space/upload/0608-2017-11-05.png",
+    "url": "http://64.150.176.42:8013/stream"
+  },
+  {
+    "category": "Armenia",
+    "name": "Mig FM",
+    "logo": "http://myradioapp.space/upload/6490-2017-11-05.png",
+    "url": "http://mix.am:8000/mig"
+  },
+  {
+    "category": "Armenia",
+    "name": "Azatutyun am",
+    "logo": "http://myradioapp.space/upload/6896-2017-11-05.png",
+    "url": "http://rfe-channel-02.akacast.akamaistream.net/7/883/229652/v1/ibb.akacast.akamaistream.net/rfe_channel_02.mp3"
+  },
+  {
+    "category": "Armenia",
+    "name": "MFM Radio",
+    "logo": "http://myradioapp.space/upload/5798-2017-11-05.png",
+    "url": "http://163.172.7.220:8012/stream/1/;"
+  },
+  {
+    "category": "Armenia",
+    "name": "TrikTrak Radio",
+    "logo": "http://myradioapp.space/upload/5130-2017-11-05.png",
+    "url": "http://64.118.87.22:8003/;stream.mp3"
+  },
+  {
+    "category": "Armenia",
+    "name": "Radio Rossii",
+    "logo": "http://myradioapp.space/upload/9927-2017-11-05.png",
+    "url": "http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps"
+  },
+  {
+    "category": "Armenia",
+    "name": "Yerevan Nights",
+    "logo": "http://myradioapp.space/upload/6406-2017-11-05.png",
+    "url": "http://radio.yerevannights.com:81/YerevanNights"
+  },
+  {
+    "category": "Armenia",
+    "name": "HayHD",
+    "logo": "http://myradioapp.space/upload/5458-2017-11-05.png",
+    "url": "http://hayhd.com:8000/stream.mp3"
+  },
+  {
+    "category": "Armenia",
+    "name": "Radio Yan",
+    "logo": "http://myradioapp.space/upload/5746-2017-11-05.png",
+    "url": "http://221.121.159.53:8000/;"
+  },
+  {
+    "category": "Armenia",
+    "name": "Yeridasartoutian Tsayne",
+    "logo": "http://myradioapp.space/upload/3416-2017-11-05.png",
+    "url": "http://199.189.111.28:8023/live"
+  },
+  {
+    "category": "Armenia",
+    "name": "Radio Yerevan",
+    "logo": "http://myradioapp.space/upload/6053-2017-11-05.png",
+    "url": "http://199.195.194.92:8029/;"
+  },
+  {
+    "category": "Armenia",
+    "name": "Radio Sevan",
+    "logo": "http://myradioapp.space/upload/1277-2017-11-05.png",
+    "url": "http://sevan.bitwize.me:8018/:/;"
+  },
+  {
+    "category": "Armenia",
+    "name": "Radio Ayk",
+    "logo": "http://myradioapp.space/upload/7862-2017-11-05.png",
+    "url": "http://173.193.219.163:8001/;listen.mp3"
+  },
+  {
+    "category": "Armenia",
+    "name": "Radio Spurk",
+    "logo": "http://myradioapp.space/upload/1823-2017-11-05.jpg",
+    "url": "http://64.150.176.42:8098/;/;"
+  },
+  {
+    "category": "Armenia",
+    "name": "Online Radio Armenia",
+    "logo": "http://myradioapp.space/upload/7156-2017-11-05.png",
+    "url": "http://onlineradio.out.airtime.pro:8000/onlineradio_a"
+  },
+  {
+    "category": "Armenia",
+    "name": "AYP Radio",
+    "logo": "http://myradioapp.space/upload/9167-2017-11-05.png",
+    "url": "http://radioayp.streamakaci.com/;"
+  },
+  {
+    "category": "Armenia",
+    "name": "VEM Radio FM",
+    "logo": "http://myradioapp.space/upload/6630-2017-11-05.jpg",
+    "url": "http://93.94.223.140:8000/live"
+  },
+  {
+    "category": "Armenia",
+    "name": "Voice of Van",
+    "logo": "http://myradioapp.space/upload/1231-2017-11-05.png",
+    "url": "http://23.92.21.22/;stream:/;"
+  },
+  {
+    "category": "Armenia",
+    "name": "Nor Radyo",
+    "logo": "http://myradioapp.space/upload/3390-2017-11-05.png",
+    "url": "http://norradyo.com:8000/live"
+  },
+  {
+    "category": "Armenia",
+    "name": "Radio Arménie FM",
+    "logo": "http://myradioapp.space/upload/6424-2017-11-05.png",
+    "url": "http://94.23.26.193:9029/stream:/;"
+  },
+  {
+    "category": "Armenia",
+    "name": "Radio Arax",
+    "logo": "http://myradioapp.space/upload/8818-2017-11-05.png",
+    "url": "http://radioarax.com/programas/s222479.mp3"
+  },
+  {
+    "category": "Armenia",
+    "name": "LavRadio FM",
+    "logo": "http://myradioapp.space/upload/1751-2017-11-05.png",
+    "url": "http://myradioapp.space/offline/un.mp3"
+  },
+  {
+    "category": "Armenia",
+    "name": "Radio Mariam Armenia",
+    "logo": "http://myradioapp.space/upload/8807-2017-11-05.png",
+    "url": "http://myradioapp.space/offline/un.mp3"
+  },
+  {
+    "category": "Armenia",
+    "name": "Radio Aurora - Yerevan Mal",
+    "logo": "http://myradioapp.space/upload/0337-2017-11-05.png",
+    "url": "http://myradioapp.space/offline/un.mp3"
+  },
+  {
+    "category": "Armenia",
+    "name": "La UFM Estereo FM",
+    "logo": "http://myradioapp.space/upload/7428-2017-11-05.png",
+    "url": "http://myradioapp.space/offline/un.mp3"
+  },
+  {
+    "category": "Armenia",
+    "name": "Radio Toot",
+    "logo": "http://myradioapp.space/upload/1187-2017-11-05.png",
+    "url": "http://myradioapp.space/offline/un.mp3"
+  },
+  {
+    "category": "Armenia",
+    "name": "Radio Ardzagank",
+    "logo": "http://myradioapp.space/upload/3206-2017-11-05.png",
+    "url": "http://myradioapp.space/offline/un.mp3"
+  },
+  {
+    "category": "Armenia",
+    "name": "Radio Mix FM Stepanakert",
+    "logo": "http://myradioapp.space/upload/8563-2017-11-05.png",
+    "url": "http://myradioapp.space/offline/un.mp3"
+  },
+  {
+    "category": "Armenia",
+    "name": "Radio Aurora - Dalma",
+    "logo": "http://myradioapp.space/upload/5705-2017-11-05.png",
+    "url": "http://myradioapp.space/offline/un.mp3"
+  },
+  {
+    "category": "Armenia",
+    "name": "Radio Aurora - Dance",
+    "logo": "http://myradioapp.space/upload/5142-2017-11-05.jpg",
+    "url": "http://myradioapp.space/offline/un.mp3"
+  },
+  {
+    "category": "Armenia",
+    "name": "Radio Aurora - Jazz",
+    "logo": "http://myradioapp.space/upload/2750-2017-11-05.jpg",
+    "url": "http://myradioapp.space/offline/un.mp3"
+  },
+  {
+    "category": "Armenia",
+    "name": "Radio Aurora - KRPAK",
+    "logo": "http://myradioapp.space/upload/0886-2017-11-05.png",
+    "url": "http://myradioapp.space/offline/un.mp3"
+  },
+  {
+    "category": "Armenia",
+    "name": "Radio Aurora - Latino",
+    "logo": "http://myradioapp.space/upload/9434-2017-11-05.jpg",
+    "url": "http://myradioapp.space/offline/un.mp3"
+  },
+  {
+    "category": "Armenia",
+    "name": "Radio Aurora - Lavash",
+    "logo": "http://myradioapp.space/upload/2128-2017-11-05.jpg",
+    "url": "http://myradioapp.space/offline/un.mp3"
+  },
+  {
+    "category": "Armenia",
+    "name": "Radio Aurora - Orange Fitness",
+    "logo": "http://myradioapp.space/upload/1560-2017-11-05.png",
+    "url": "http://myradioapp.space/offline/un.mp3"
+  },
+  {
+    "category": "Armenia",
+    "name": "Radio Aurora - Rock",
+    "logo": "http://myradioapp.space/upload/2092-2017-11-05.jpg",
+    "url": "http://myradioapp.space/offline/un.mp3"
+  },
+  {
+    "category": "Armenia",
+    "name": "Radio Aurora - Shizgara",
+    "logo": "http://myradioapp.space/upload/5336-2017-11-05.jpg",
+    "url": "http://myradioapp.space/offline/un.mp3"
+  },
+  {
+    "category": "Armenia",
+    "name": "Radio Aurora - Shanson",
+    "logo": "http://myradioapp.space/upload/2920-2017-11-05.jpg",
+    "url": "http://myradioapp.space/offline/un.mp3"
+  },
+  {
+    "category": "Armenia",
+    "name": "Radio Aurora - Yerevan City",
+    "logo": "http://myradioapp.space/upload/3076-2017-11-05.png",
+    "url": "http://myradioapp.space/offline/un.mp3"
+  },
+  {
+    "category": "Armenia",
+    "name": "Radio Aurora - Love",
+    "logo": "http://myradioapp.space/upload/2180-2017-11-05.jpg",
+    "url": "http://myradioapp.space/offline/un.mp3"
+  },
+  {
+    "category": "Armenia",
+    "name": "Radio Provincia",
+    "logo": "http://myradioapp.space/upload/8506-2017-12-21.jpg",
+    "url": "http://myradioapp.space/offline/un.mp3"
+  },  
+  {
+    "name": "Ballermann Radio",
+    "category": "Dance",
+    "url": "http://stream.bmr-radio.de/ballermann-radio.mp3",
+    "logo": "https://dl.dropboxusercontent.com/s/8sxymnmbv077j50/balerman.png"
+  },
+  {
+    "name": "Radio-Dance Classic",
+    "category": "Dance",
+    "url": "http://144.217.180.30:8095/;stream/1",
+    "logo": "https://dl.dropboxusercontent.com/s/nlhwmjtcx19g6e9/danc.png"
+  },
+  {
+    "name": "Eurodance",
+    "category": "Dance",
+    "url": "https://eurodance.stream.laut.fm/eurodance?t302=2018-02-22_15-45-20&amp;uuid=7fd8084d-52ac-4bf4-a433-f878884b9536&quot;",
+    "logo": "https://dl.dropboxusercontent.com/s/xlt5p9qo6ab2epl/eurodance.png"
+  },
+  {
+    "name": "Radio-NRG",
+    "category": "Dance",
+    "url": "http://playservistream.net:7030/;",
+    "logo": "https://dl.dropboxusercontent.com/s/dqjzobd0ip1rmmc/nrg.png"
+  },
+  {
+    "name": "Dance-Fox",
+    "category": "Dance",
+    "url": "http://188.138.1.220/;",
+    "logo": "https://dl.dropboxusercontent.com/s/3gns785cqih3xo2/dancefox.png"
+  },
+  {
+    "name": "Radio-angelsfox",
+    "category": "Dance",
+    "url": "http://62.138.147.36:80/angelsfox-radio.mp3",
+    "logo": "https://dl.dropboxusercontent.com/s/vgug9r0m4yen37f/kurdranj.png"
+  }, 
+  {
+    "name": "Radio DP",
+    "category": "Dance",
+    "url": "http://94.23.221.158:9197/stream",
+    "logo": "https://dl.dropboxusercontent.com/s/rwi2totj3ll6665/rdp.png"
+  },
+  {
+    "name": "Radio Crisami Romania",
+    "category": "Dance",
+    "url": "http://5.196.56.208:8130/;",
+    "logo": "https://dl.dropboxusercontent.com/s/7cnz9vx2dp9tcom/radiocrisime.png"
+  },
+  {
+    "name": "Eurodance 90",
+    "category": "Dance",
+    "url": "http://stm15.srvstm.com:16470/;stream/1",
+    "logo": "https://dl.dropboxusercontent.com/s/9ehazeovwmk68ck/euro90.png"
+  },
+  {
+    "name": "gherlafm.ro",
+    "category": "Dance",
+    "url": "http://89.39.189.52:8000/;stream/1",
+    "logo": "https://dl.dropboxusercontent.com/s/ewaitqgg6rwi3gz/gherla.png"
+  },
+  {
+    "name": "PulseEDM Dance",
+    "category": "Dance",
+    "url": "http://pulseedm.cdnstream1.com:8124/1373_128",
+    "logo": "https://dl.dropboxusercontent.com/s/jerlc42irhpc7kx/plusedm.png"
+  },
+  {
+    "name": "RADIO DISCOTECA",
+    "category": "Dance",
+    "url": "http://195.154.167.62:9400/stream",
+    "logo": "https://dl.dropboxusercontent.com/s/ina9zu536adsak1/discar.png"
+  },
+  {
+    "name": "80S 90S SUPER DANCE",
+    "category": "Dance",
+    "url": "http://streaming.radionomy.com/80s90ssuperdance?lang=en-US%2cen%3bq%3d0.9",
+    "logo": "https://dl.dropboxusercontent.com/s/2r4lxq34j8xaids/80S%2090S%20SUPERDANCE.png"
+  },
+  {
+    "name": "ARADIO90S JUICE",
+    "category": "Dance",
+    "url": "http://streaming.radionomy.com/A-RADIO-90s-JUICE?ad=radiono5",
+    "logo": "https://dl.dropboxusercontent.com/s/7vdugh8rvoxx5a3/A%20.RADIO%2090S%20JUICE.png"
+  },
+  {
+    "name": "BDJ EURODANCE 90S",
+    "category": "Dance",
+    "url": "http://streaming.radionomy.com/BDJEurodance90s?lang=en-US%2cen%3bq%3d0.9&br=128",
+    "logo": "https://dl.dropboxusercontent.com/s/ql19eil1oc4jz0a/BDJ%20EURODANCE%2090S.png"
+  },
+  {
+    "name": "Eurodance90",
+    "category": "Dance",
+    "url": "https://listen1.myradio24.com/5967?d=",
+    "logo": "https://dl.dropboxusercontent.com/s/egm9tom7byazhnz/anos90.png"
+  },
+  {
+    "name": "MIXTIME RADIO",
+    "category": "Dance",
+    "url": "http://s3.viastreaming.net:8675/;?_=0.19706521409906141",
+    "logo": "https://dl.dropboxusercontent.com/s/jm4e92nm7ng6ljw/Mixtime-Radio.png"
+  },
+  {
+    "name": "ADDICTIVE-90S",
+    "category": "Dance",
+    "url": "http://listen.radionomy.com/addictive-90s",
+    "logo": "https://dl.dropboxusercontent.com/s/6zkb1o4o4c9k504/ADDICTIVE-90S.png"
+  },
+  {
+    "name": "THE BIG 80S",
+    "category": "Dance",
+    "url": "http://s5.nexuscast.com:8065/;",
+    "logo": "https://dl.dropboxusercontent.com/s/d7dacdxtc463p4f/Big-80s-logo.png"
+  },
+  {
+    "name": "EuroDanceMedia prj",
+    "category": "Dance",
+    "url": "http://eurodance.su:8004/;stream.nsv?5",
+    "logo": "https://dl.dropboxusercontent.com/s/xlt5p9qo6ab2epl/eurodance.png"
+  },
+  {
+    "name": "prj- DreamDance",
+    "category": "Dance",
+    "url": "http://eurodance.su:8002/;stream.nsv?43",
+    "logo": "https://dl.dropboxusercontent.com/s/hsftsrnj6dp6hfw/EuroDanceMedia%20prj.%20-%20DreamDance.png"
+  },
+  {
+    "name": "prj - Eurodance",
+    "category": "Dance",
+    "url": "http://eurodance.su:8000/;stream.nsv?17",
+    "logo": "https://dl.dropboxusercontent.com/s/em0gag12yybhipi/EuroDanceMedia%20prj.png"
+  },
+  {
+    "name": "EURODANCE CLUB 40",
+    "category": "Dance",
+    "url": "http://listen.radionomy.com/eurodanceclub40",
+    "logo": "https://dl.dropboxusercontent.com/s/hzhb51s4d9r30p1/EURODANCE%20CLUB%2040.png"
+  },
+  {
+    "name": "ABCD Eurodance",
+    "category": "Dance",
+    "url": "http://streaming.radionomy.com/ABCD-Eurodance?lang=en-US%2cen%3bq%3d0.9",
+    "logo": "https://dl.dropboxusercontent.com/s/h0bzin2fgikik9t/ABCD%20Eurodance.png"
+  },
+  {
+    "name": "90s-party",
+    "category": "Dance",
+    "url": "http://streaming.radionomy.com/90-s-PARTY?lang=en-US%2cen%3bq%3d0.9",
+    "logo": "https://dl.dropboxusercontent.com/s/z70w3zjq6sgroxg/90s-party.png"
+  },
+  {
+    "name": "Dance Anos 90",
+    "category": "Dance",
+    "url": "http://45.43.200.202:16470//;stream.mp3",
+    "logo": "https://dl.dropboxusercontent.com/s/egm9tom7byazhnz/anos90.png"
+  },
+  {
+    "name": "Eurodance Worldwide",
+    "category": "Dance",
+    "url": "http://188.165.240.90:8574/stream",
+    "logo": "https://dl.dropboxusercontent.com/s/nre53duy4oq1vlo/Eurodance%20Worldwide.png"
+  },
+  {
+    "name": "VIPradio EuroDance",
+    "category": "Dance",
+    "url": "http://149.56.175.167:5429/stream",
+    "logo": "https://dl.dropboxusercontent.com/s/1iuc6laohoa8cjw/VIPradio-EuroDance.png"
+  },
+  {
+    "name": "Radio Studio Souto",
+    "category": "Dance",
+    "url": "http://192.99.150.31:8056/stream",
+    "logo": "https://dl.dropboxusercontent.com/s/n1yuzelygnkx44z/Studio.png"
+  },
+  {
+    "name": "Beirut Nights",
+    "category": "Dance",
+    "url": "http://s2.byblosnights.com:80/",
+    "logo": "https://dl.dropboxusercontent.com/s/ulax27hrf2vhw11/Beirut%20Nights.png"
+  },
+  {
+    "name": "RadioDielli",
+    "category": "Dance",
+    "url": "http://77.92.64.44:8010/",
+    "logo": "https://dl.dropboxusercontent.com/s/j99wvkj4rax7irm/RadioDielli.png"
+  },
+  {
+    "name": "RADIO NOW",
+    "category": "Dance",
+    "url": "http://radio.radionow.es:8600/",
+    "logo": "https://dl.dropboxusercontent.com/s/yi5qzmx6xw0u4u8/RADIO%20NOW.png"
+  },
+  {
+    "name": "Radio Caprice",
+    "category": "Dance",
+    "url": "http://79.120.39.202:9003/",
+    "logo": "https://dl.dropboxusercontent.com/s/kdsux75kqacskqf/Radio-Caprice.png"
+  },
+  {
+    "name": "Radio Europe NonStop",
+    "category": "Dance",
+    "url": "http://149.210.203.246:8020/stream",
+    "logo": "https://dl.dropboxusercontent.com/s/gc5pkdsauf3wkm9/Radio%20Europe%20NonStop.png"
+  },
+  {
+    "name": "Radio BalloBello",
+    "category": "Dance",
+    "url": "http://188.165.192.5:8064/stream",
+    "logo": "https://dl.dropboxusercontent.com/s/tbfb0skxo0yxr2d/Radio%20BalloBello.png"
+  },
+  {
+    "name": "FreestyleFM ",
+    "category": "Dance",
+    "url": "http://178.19.114.74:6312/",
+    "logo": "https://dl.dropboxusercontent.com/s/0a75sebiunhurcf/DanceRadio%20FreestyleFM.png"
+  },
+  {
+    "name": "LVG RADIO",
+    "category": "Dance",
+    "url": "http://s2.voscast.com:12226/",
+    "logo": "https://dl.dropboxusercontent.com/s/bfs6j7flrf507w3/LVG%20RADIO.png"
+  },
+  {
+    "name": "Radio Europa Live",
+    "category": "Dance",
+    "url": "http://212.83.150.15:8348/stream",
+    "logo": "https://dl.dropboxusercontent.com/s/so6liazsidffzlz/Radio%20Europa%20Live.png"
+  },
+  {
+    "name": "Radio Auto DJ",
+    "category": "Dance",
+    "url": "http://185.193.112.155:18444/;",
+    "logo": "https://dl.dropboxusercontent.com/s/4vfo9mh7cv2240h/Auto%20DJ.png"
+  },
+  {
+    "name": "Sounf Of Nature",
+    "category": "Dance",
+    "url": "http://188.138.17.212:11854/;",
+    "logo": "https://dl.dropboxusercontent.com/s/f0f8wd0yhe5x7c0/Sounf%20Of%20Nature.png"
+  },
+  {
+    "name": "Radio109",
+    "category": "Dance",
+    "url": "http://46.105.118.14:9020",
+    "logo": "https://dl.dropboxusercontent.com/s/7xfu8h2ratqlsym/Radio109.png"
+  },
+  {
+    "name": "Energy FM Australia ",
+    "category": "Dance",
+    "url": "http://s3.viastreaming.net:8502/;listen.mp3",
+    "logo": "https://dl.dropboxusercontent.com/s/j4z3gpq6b8yzxl5/Energy%20FM%20Australia%20.png"
+  },
+  {
+    "name": "Radio 1 MIX",
+    "category": "Dance",
+    "url": "http://fr1.1mix.co.uk:8060/320",
+    "logo": "https://dl.dropboxusercontent.com/s/37njy2402mycnze/1Mix%20Radio.png"
+  },
+  {
+    "name": "TaksimFM",
+    "category": "Dance",
+    "url": "http://95.211.162.32:8016/",
+    "logo": "https://dl.dropboxusercontent.com/s/ccm94baa1n2migr/TaksimFM.png"
+  },
+  {
+    "name": "DI Radio Digital",
+    "category": "Dance",
+    "url": "http://5.39.71.159:8922/stream",
+    "logo": "https://dl.dropboxusercontent.com/s/fd88c747lkmbssu/DI%20Radio%20Digital.png"
+  },
+  {
+    "name": "AvaFM Remix",
+    "category": "Dance",
+    "url": "http://142.4.217.133:9044/stream",
+    "logo": "https://dl.dropboxusercontent.com/s/t8pp0duzpzwg71g/AvaFM%20Remix.png"
+  },
+  {
+    "name": "897 FM DANCE",
+    "category": "Dance",
+    "url": "http://88.198.10.229:8108/stream",
+    "logo": "https://dl.dropboxusercontent.com/s/m7wpu5dd6zt1hrt/897%20FM%20DANCE.png"
+  }
+]
