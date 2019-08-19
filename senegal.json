@@ -580,5 +580,35 @@
     "category": "Islamic",
     "url": "http://stereo.nasyidfm.com:8000/",
     "logo": "https://cdn-profiles.tunein.com/s122552/images/logoq.png?t=153322"
-  }	
+  },
+  {
+    "name": "TaksimFM",
+    "category": "Top Eurodance Radio Stations",
+    "url": "http://95.211.162.32:8016/",
+    "logo": "https://dl.dropboxusercontent.com/s/ccm94baa1n2migr/TaksimFM.png"
+  },
+  {
+    "name": "América Dance 90's",
+    "category": "Top Eurodance Radio Stations",
+    "url": "http://stm8.srvstm.com:8212/;",
+    "logo": "https://dl.dropbox.com/s/a9uweecjpti99u2/Am%C3%A9rica%20Dance%2090%27s.png"
+  },
+  {
+    "name": "Rádio Dance Anos 90",
+    "category": "Top Eurodance Radio Stations",
+    "url": "http://stm15.srvstm.com:16470/;",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s191202q.png"
+  },
+  {
+    "name": "Radio-Dance Classic",
+    "category": "Top Eurodance Radio Stations",
+    "url": "http://144.217.180.30:8095/;stream/1",
+    "logo": "https://dl.dropboxusercontent.com/s/nlhwmjtcx19g6e9/danc.png"
+  },
+  {
+    "name": "Eurodance90",
+    "category": "Top Eurodance Radio Stations",
+    "url": "https://listen1.myradio24.com/5967?d=",
+    "logo": "https://dl.dropboxusercontent.com/s/egm9tom7byazhnz/anos90.png"
+  }
  ]
