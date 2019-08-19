@@ -736,4 +736,22 @@
     "category": "Top Eurodance Radio Stations",
     "url": "http://air.radiorecord.ru:8102/dc_320",
     "logo": "https://dl.dropboxusercontent.com/s/4vfo9mh7cv2240h/Auto%20DJ.png"
+  },
+  {
+    "name": "Technopop",
+    "category": "Top Eurodance Radio Stations",
+    "url": "http://air.radiorecord.ru:805/technopop_320",
+    "logo": "https://dl.dropboxusercontent.com/s/ulax27hrf2vhw11/Beirut%20Nights.png"
+  },
+  {
+    "name": "Dance Wave Retro!",
+    "category": "Top Eurodance Radio Stations",
+    "url": "http://stream2.dancewave.online:8080/retrodance.mp3",
+    "logo": "https://dl.dropbox.com/s/0jm77370ditrs6g/Dance%20Wave%20Retro%21.png"
+  },
+  {
+    "name": "Eurodance Rekord",
+    "category": "Top Eurodance Radio Stations",
+    "url": "http://air.radiorecord.ru:805/eurodance_320",
+    "logo": "https://dl.dropboxusercontent.com/s/so6liazsidffzlz/Radio%20Europa%20Live.png"
   }]
