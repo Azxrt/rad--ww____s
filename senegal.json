@@ -652,4 +652,40 @@
     "category": "Top Eurodance Radio Stations",
     "url": "http://mp3.ffh.de/ffhchannels/hqeurodance.mp3",
     "logo": "https://dl.dropbox.com/s/3z1nyzear64clda/FFH%20Eurodance.png"
+  },
+  {
+    "name": "Eurodance",
+    "category": "Top Eurodance Radio Stations",
+    "url": "https://eurodance.stream.laut.fm/eurodance?t302=2018-02-22_15-45-20&amp;uuid=7fd8084d-52ac-4bf4-a433-f878884b9536&quot;",
+    "logo": "https://dl.dropboxusercontent.com/s/xlt5p9qo6ab2epl/eurodance.png"
+  },
+  {
+    "name": "prj - Eurodance",
+    "category": "Top Eurodance Radio Stations",
+    "url": "http://eurodance.su:8000/;stream.nsv?17",
+    "logo": "https://dl.dropboxusercontent.com/s/em0gag12yybhipi/EuroDanceMedia%20prj.png"
+  },
+  {
+    "name": "prj- DreamDance",
+    "category": "Top Eurodance Radio Stations",
+    "url": "http://eurodance.su:8002/;stream.nsv?43",
+    "logo": "https://dl.dropboxusercontent.com/s/hsftsrnj6dp6hfw/EuroDanceMedia%20prj.%20-%20DreamDance.png"
+  },
+  {
+    "name": "EuroDanceMedia prj",
+    "category": "Top Eurodance Radio Stations",
+    "url": "http://eurodance.su:8004/;stream.nsv?5",
+    "logo": "https://dl.dropboxusercontent.com/s/xlt5p9qo6ab2epl/eurodance.png"
+  },
+  {
+    "name": "Radio Studio Souto",
+    "category": "Top Eurodance Radio Stations",
+    "url": "http://192.99.150.31:8056/stream",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s238253q.png"
+  },
+  {
+    "name": "BDJ EURODANCE 90S",
+    "category": "Top Eurodance Radio Stations",
+    "url": "http://streaming.radionomy.com/BDJEurodance90s?lang=en-US%2cen%3bq%3d0.9&br=128",
+    "logo": "https://dl.dropboxusercontent.com/s/ql19eil1oc4jz0a/BDJ%20EURODANCE%2090S.png"
   }]
