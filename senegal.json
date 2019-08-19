@@ -1,4 +1,4 @@
- [
+[
     {
       "name": "Radio  Africa7",
       "logo": "http://www.sunufm.com/appadmin2/upload/1228-2019-05-17.jpeg",
@@ -418,5 +418,167 @@
       "logo": "http://www.sunufm.com/appadmin2/upload/0681-2018-05-14.jpg",
       "url": "http://206.190.135.28:8142/",
       "category": "Al Quran"
-    }
-  ]
+    },
+  {
+    "name": "Radyo Islam",
+    "category": "Islamic",
+    "url": "http://yayin2.canliyayin.org:7676/;",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s82381q.png"
+  },
+  {
+    "name": "Radio Mevlana",
+    "category": "Islamic",
+    "url": "http://radyo.radyobayi.com:9786/;stream.mp3",
+    "logo": "http://static.radio.net/images/broadcasts/58/7d/32623/c44.png"
+  },
+  {
+    "name": "Maher Meaqli Radio",
+    "category": "Islamic",
+    "url": "http://184.173.185.71:8002/;",
+    "logo": "https://dl.dropboxusercontent.com/s/2eg8prgiddh7y29/maher.png"
+  },
+  {
+    "name": "Abdulbasit Abdulsamad",
+    "category": "Islamic",
+    "url": "http://184.173.185.71:9974/;",
+    "logo": "https://dl.dropboxusercontent.com/s/c0aymb5h0hqlkve/abdulbast.png"
+  },
+  {
+    "name": "Mohammed Siddiq",
+    "category": "Islamic",
+    "url": "http://184.173.185.71:9978/;",
+    "logo": "https://dl.dropboxusercontent.com/s/0m03cvdbuivu49v/almanshawe.png"
+  },
+  {
+    "name": "Mishary Alafasi",
+    "category": "Islamic",
+    "url": "http://184.173.185.71:8010/;",
+    "logo": "https://dl.dropboxusercontent.com/s/0m3yf9b8rgc9293/alafasy.png"
+  },
+  {
+    "name": "Idrees Abkr",
+    "category": "Islamic",
+    "url": "http://184.173.185.71:9968/;",
+    "logo": "https://dl.dropboxusercontent.com/s/694c6qnozhfwbjd/idris%20abkar.png"
+  },
+  {
+    "name": "Yasser AlDosari",
+    "category": "Islamic",
+    "url": "http://184.173.185.71:9984/;",
+    "logo": "https://dl.dropboxusercontent.com/s/mefyfifbxmv5xul/yaser.png"
+  },
+  {
+    "name": "Nasser Alqatami",
+    "category": "Islamic",
+    "url": "http://184.173.185.71:9994/;",
+    "logo": "https://dl.dropboxusercontent.com/s/gfa7vhvsksku9ic/naser.png"
+  },
+  {
+    "name": "Mohammed AlLohaidan",
+    "category": "Islamic",
+    "url": "http://184.173.185.71:9832/;",
+    "logo": "https://dl.dropboxusercontent.com/s/fua28w95yr23wbs/mohamad.png"
+  },
+  {
+    "name": "Radio Jebril",
+    "category": "Islamic",
+    "url": "http://192.240.102.3:8908/stream",
+    "logo": "http://static.radio.net/images/broadcasts/64/f9/35900/c175.png"
+  },
+  {
+    "name": "Quran Al Kareem 98.1",
+    "category": "Islamic",
+    "url": "http://18183.live.streamtheworld.com/QURAN_KAREEM.mp3",
+    "logo": "http://static.radio.net/images/broadcasts/46/4d/35992/c175.png"
+  },
+  {
+    "name": "KSA Quran Makkah",
+    "category": "Islamic",
+    "url": "http://mediaserver2.islamicity.com:8000/SaudiTVArabic",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s270277q.png"
+  },
+  {
+    "name": "Channel Islam International",
+    "category": "Islamic",
+    "url": "http://capeant.antfarm.co.za:8000/live-cii",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s105332q.png"
+  },
+  {
+    "name": "Voice of Islam",
+    "category": "Islamic",
+    "url": "http://s6.voscast.com:9980/;",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s265627q.png"
+  },
+  {
+    "name": "abc Islam for Non-Muslims",
+    "category": "Islamic",
+    "url": "http://s10.voscast.com:9276/;",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s240628q.png"
+  },
+  {
+    "name": "Radio Izlam",
+    "category": "Islamic",
+    "url": "http://66.45.232.133:9998/;",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s137934q.png"
+  },
+  {
+    "name": "Lama FM Islamic",
+    "category": "Islamic",
+    "url": "http://159.203.184.24:8000/;",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s250893q.png"
+  },
+  {
+    "name": "Alseraj Radio",
+    "category": "Islamic",
+    "url": "http://eu4.fastcast4u.com:5672/1/",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s230019q.png"
+  },
+  {
+    "name": "Radio Coran",
+    "category": "Islamic",
+    "url": "http://stream3.coran.tk:8005/;",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s230781q.png"
+  },
+  {
+    "name": "Islam Channel",
+    "category": "Islamic",
+    "url": "http://5.9.65.9:8031/live",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s286669q.png"
+  },
+  {
+    "name": "Nida Al-Marifa Islamic Radio",
+    "category": "Islamic",
+    "url": "http://217.74.213.86:8000/stream",
+    "logo": "http://static.radio.net/images/broadcasts/22/08/32556/c175.png"
+  },
+  {
+    "name": "Islam WebRadio",
+    "category": "Islamic",
+    "url": "http://79.137.32.10:8000/;",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s298076q.png"
+  },
+  {
+    "name": "Sirius FM",
+    "category": "Islamic",
+    "url": "http://stream.siriusfm.mobi:7518/stream.mp3",
+    "logo": "https://cdn-profiles.tunein.com/s184960/images/logoq.jpg?t=151448"
+  },
+  {
+    "name": "Radio 786",
+    "category": "Islamic",
+    "url": "http://41.204.205.105:8040/stream",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s6371q.png"
+  },
+  {
+    "name": "Radio Al-Manshuroh",
+    "category": "Islamic",
+    "url": "http://209.58.160.62:11162/;",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s162682q.png"
+  },
+  {
+    "name": "NasheedFM",
+    "category": "Islamic",
+    "url": "http://stereo.nasyidfm.com:8000/",
+    "logo": "https://cdn-profiles.tunein.com/s122552/images/logoq.png?t=153322"
+  }	
+ ]
