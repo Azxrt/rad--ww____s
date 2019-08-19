@@ -622,4 +622,34 @@
     "category": "Top Eurodance Radio Stations",
     "url": "http://94.23.221.158:9197/stream",
     "logo": "https://dl.dropboxusercontent.com/s/rwi2totj3ll6665/rdp.png"
+  },
+  {
+    "name": "Eurodance 90",
+    "category": "Top Eurodance Radio Stations",
+    "url": "http://stm15.srvstm.com:16470/;stream/1",
+    "logo": "https://dl.dropboxusercontent.com/s/9ehazeovwmk68ck/euro90.png"
+  },
+  {
+    "name": "gherlafm.ro",
+    "category": "Top Eurodance Radio Stations",
+    "url": "http://89.39.189.52:8000/;stream/1",
+    "logo": "https://dl.dropboxusercontent.com/s/ewaitqgg6rwi3gz/gherla.png"
+  },
+  {
+    "name": "VIPradio EuroDance",
+    "category": "Top Eurodance Radio Stations",
+    "url": "http://149.56.175.167:5429/stream",
+    "logo": "https://dl.dropboxusercontent.com/s/1iuc6laohoa8cjw/VIPradio-EuroDance.png"
+  },
+  {
+    "name": "Radio Caprice",
+    "category": "Top Eurodance Radio Stations",
+    "url": "http://79.120.39.202:9003/",
+    "logo": "https://dl.dropboxusercontent.com/s/kdsux75kqacskqf/Radio-Caprice.png"
+  },
+  {
+    "name": "FFH Eurodances",
+    "category": "Top Eurodance Radio Stations",
+    "url": "http://mp3.ffh.de/ffhchannels/hqeurodance.mp3",
+    "logo": "https://dl.dropbox.com/s/3z1nyzear64clda/FFH%20Eurodance.png"
   }]
