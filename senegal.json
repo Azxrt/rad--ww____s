@@ -688,4 +688,46 @@
     "category": "Top Eurodance Radio Stations",
     "url": "http://streaming.radionomy.com/BDJEurodance90s?lang=en-US%2cen%3bq%3d0.9&br=128",
     "logo": "https://dl.dropboxusercontent.com/s/ql19eil1oc4jz0a/BDJ%20EURODANCE%2090S.png"
+  },
+  {
+    "name": "Sound Of Nature",
+    "category": "Top Eurodance Radio Stations",
+    "url": "http://188.138.17.212:11854/;",
+    "logo": "https://dl.dropboxusercontent.com/s/f0f8wd0yhe5x7c0/Sounf%20Of%20Nature.png"
+  },
+  {
+    "name": "Radio 1 MIX",
+    "category": "Top Eurodance Radio Stations",
+    "url": "http://fr1.1mix.co.uk:8060/320",
+    "logo": "https://dl.dropboxusercontent.com/s/37njy2402mycnze/1Mix%20Radio.png"
+  },
+  {
+    "name": "DI Radio Digital",
+    "category": "Top Eurodance Radio Stations",
+    "url": "http://5.39.71.159:8922/stream",
+    "logo": "https://dl.dropboxusercontent.com/s/fd88c747lkmbssu/DI%20Radio%20Digital.png"
+  },
+  {
+    "name": "Dance-Fox",
+    "category": "Top Eurodance Radio Stations",
+    "url": "http://188.138.1.220:8300/dancefox.mp3",
+    "logo": "https://dl.dropboxusercontent.com/s/3gns785cqih3xo2/dancefox.png"
+  },
+  {
+    "name": "Radio-angelsfox",
+    "category": "Top Eurodance Radio Stations",
+    "url": "http://62.138.147.36:80/angelsfox-radio.mp3",
+    "logo": "https://dl.dropboxusercontent.com/s/vgug9r0m4yen37f/kurdranj.png"
+  },
+  {
+    "name": "Ballermann Radio",
+    "category": "Top Eurodance Radio Stations",
+    "url": "http://stream.bmr-radio.de/ballermann-radio.mp3",
+    "logo": "https://dl.dropboxusercontent.com/s/8sxymnmbv077j50/balerman.png"
+  },
+  {
+    "name": "auf Foxwahn Radio",
+    "category": "Top Eurodance Radio Stations",
+    "url": "http://144.76.84.153:22042/;",
+    "logo": "https://dl.dropbox.com/s/876f405h8ww81y4/RETRO90.png"
   }]
