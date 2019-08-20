@@ -684,6 +684,66 @@
     "logo": "https://i3.radionomy.com/radios/67/39de47f6-f359-42f7-8d2a-a9bc549cb02c.png"
   },
   {
+    "name": "E-Dance 90's",
+    "category": "Top Eurodance Radio Stations",
+    "url": "http://listen1.myradio24.com:9000/5967",
+    "logo": "https://cdn-profiles.tunein.com/s274874/images/logoq.jpg"
+  },
+  {
+    "name": "Rave (Radio Record)",
+    "category": "Top Eurodance Radio Stations",
+    "url": "http://air.radiorecord.ru:805/rave_128",
+    "logo": "https://static.radio.net/images/broadcasts/f8/d3/114214/2/c175.png"
+  },
+  {
+    "name": "Радио Рекорд Technopop",
+    "category": "Top Eurodance Radio Stations",
+    "url": "http://online.radiorecord.ru:8102/technopop_320",
+    "logo": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/jx7qqtdyzadz.png"
+  },
+  {
+    "name": "Dancecore (Radio Record)",
+    "category": "Top Eurodance Radio Stations",
+    "url": "http://air.radiorecord.ru:8102/dc_320",
+    "logo": "https://static.radio.net/images/broadcasts/93/a2/10022/1/c175.png"
+  },
+  {
+    "name": "Eurodance (Radio Record)",
+    "category": "Top Eurodance Radio Stations",
+    "url": "http://air2.radiorecord.ru:9003/eurodance_320",
+    "logo": "http://top-radio.ru/rr-eurodance.jpg"
+  },
+  {
+    "name": "Old School (Radio Record)",
+    "category": "Top Eurodance Radio Stations",
+    "url": "http://air.radiorecord.ru:805/pump_128",
+    "logo": "https://static.radio.net/images/broadcasts/2e/40/114203/2/c175.png"
+  },
+  {
+    "name": "Die 90er (Sunshine Live)",
+    "category": "Top Eurodance Radio Stations",
+    "url": "http://sunshinelive.hoerradar.de/sunshinelive-90er-mp3-hq",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s237962q.png"
+  },
+  {
+    "name": "eurodance90.fr",
+    "category": "Top Eurodance Radio Stations",
+    "url": "https://listen.openstream.co/3178/audio",
+    "logo": "http://eurodance90.fr/img/logos/logo.png"
+  },
+  {
+    "name": "Energy 93 - Euro EDM (181.Fm)",
+    "category": "Top Eurodance Radio Stations",
+    "url": "http://relay.181.fm:8044/",
+    "logo": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/xv8fazrfgh27.png"
+  },
+  {
+    "name": "danceanos90.com.br",
+    "category": "Top Eurodance Radio Stations",
+    "url": "https://americadance90.com.br/americadance90/",
+    "logo": "https://cdsmixados.com.br/fotos_upload/imagem_remota_2771148022_1000352791_250.jpg"
+  },
+  {
     "name": "Eurodance 90 - Dance Anos 90",
     "category": "Top Eurodance Radio Stations",
     "url": "http://stream.zeno.fm/zx9h2b61u8quv",
@@ -700,30 +760,6 @@
     "category": "Top Eurodance Radio Stations",
     "url": "https://listen1.myradio24.com/5967?d=",
     "logo": "https://dl.dropboxusercontent.com/s/egm9tom7byazhnz/anos90.png"
-  },
-  {
-    "name": "A'11 Eurodance 90s",
-    "category": "Top Eurodance Radio Stations",
-    "url": "http://streaming.radionomy.com/A-11-Eurodance-90s",
-    "logo": "https://dl.dropbox.com/s/ommqnv29gpe2yku/A%2711%20Eurodance%2090s.png"
-  },
-  {
-    "name": "Sunset Radio : EuroDance",
-    "category": "Top Eurodance Radio Stations",
-    "url": "http://s.sunset-radio.com:14020/",
-    "logo": "https://static.radio.net/images/broadcasts/7d/a1/18814/c175.png"
-  },
-  {
-    "name": "Radio DP",
-    "category": "Top Eurodance Radio Stations",
-    "url": "http://94.23.221.158:9197/stream",
-    "logo": "https://dl.dropboxusercontent.com/s/rwi2totj3ll6665/rdp.png"
-  },
-  {
-    "name": "Day Dee Eurodance",
-    "category": "Top Eurodance Radio Stations",
-    "url": "https://daydeeeurodance.stream.laut.fm/daydeeeurodance",
-    "logo": "https://static.radio.net/images/broadcasts/9b/7d/121403/1/c175.png"
   },
   {
     "name": "gherlafm.ro",
@@ -748,6 +784,30 @@
     "category": "Top Eurodance Radio Stations",
     "url": "http://mp3.ffh.de/ffhchannels/hqeurodance.mp3",
     "logo": "https://dl.dropbox.com/s/3z1nyzear64clda/FFH%20Eurodance.png"
+  },
+  {
+    "name": "A'11 Eurodance 90s",
+    "category": "Top Eurodance Radio Stations",
+    "url": "http://streaming.radionomy.com/A-11-Eurodance-90s",
+    "logo": "https://dl.dropbox.com/s/ommqnv29gpe2yku/A%2711%20Eurodance%2090s.png"
+  },
+  {
+    "name": "Sunset Radio : EuroDance",
+    "category": "Top Eurodance Radio Stations",
+    "url": "http://s.sunset-radio.com:14020/",
+    "logo": "https://static.radio.net/images/broadcasts/7d/a1/18814/c175.png"
+  },
+  {
+    "name": "Radio DP",
+    "category": "Top Eurodance Radio Stations",
+    "url": "http://94.23.221.158:9197/stream",
+    "logo": "https://dl.dropboxusercontent.com/s/rwi2totj3ll6665/rdp.png"
+  },
+  {
+    "name": "Day Dee Eurodance",
+    "category": "Top Eurodance Radio Stations",
+    "url": "https://daydeeeurodance.stream.laut.fm/daydeeeurodance",
+    "logo": "https://static.radio.net/images/broadcasts/9b/7d/121403/1/c175.png"
   },
   {
     "name": "Eurodance",
@@ -1116,22 +1176,52 @@
     "logo": "https://static.radio.net/images/broadcasts/28/92/106996/1/c175.png"
   },
   {
-    "name": "eurodance90.fr",
+    "name": "laserbeat-fm",
     "category": "Top Eurodance Radio Stations",
-    "url": "https://listen.openstream.co/3178/audio",
-    "logo": "http://eurodance90.fr/img/logos/logo.png"
-  },
-  {
-    "name": "eurodancetime",
-    "category": "Top Eurodance Radio Stations",
-    "url": "https://stream.laut.fm/eurodancetime",
-    "logo": "https://i.scdn.co/image/48c12189a8a399931087f917dc90566c6bec8cd4"
+    "url": "https://stream.laut.fm/laserbeat-fm",
+    "logo": "https://static.radio.net/images/broadcasts/2b/a6/5339/1/c175.png"
   },
   {
     "name": "Eurodance Time",
     "category": "Top Eurodance Radio Stations",
     "url": "https://stream.laut.fm/eurodancetime",
     "logo": "https://i.scdn.co/image/48c12189a8a399931087f917dc90566c6bec8cd4"
+  },
+  {
+    "name": "Play 90's Radio",
+    "category": "Top Eurodance Radio Stations",
+    "url": "http://streaming.radionomy.com/-Play90-sradio",
+    "logo": "https://static.radio.net/images/broadcasts/ab/42/39116/1/c175.png"
+  },
+  {
+    "name": "NRJ DANCE 90",
+    "category": "Top Eurodance Radio Stations",
+    "url": "http://185.52.127.131/fr/31099/mp3_128.mp3",
+    "logo": "https://static.radio.net/images/broadcasts/43/25/39989/4/c175.png"
+  },
+  {
+    "name": "90 dance radio",
+    "category": "Top Eurodance Radio Stations",
+    "url": "http://159.8.16.16:8064/stream",
+    "logo": "https://static.radio.net/images/broadcasts/f8/f2/38240/1/c175.png"
+  },
+  {
+    "name": "MDT Radio",
+    "category": "Top Eurodance Radio Stations",
+    "url": "http://37.187.63.192:8020/mdtweb",
+    "logo": "https://static.radio.net/images/broadcasts/9f/8e/35749/c175.png"
+  },
+  {
+    "name": "OpenFM - Klub 90",
+    "category": "Top Eurodance Radio Stations",
+    "url": "http://stream.open.fm/8",
+    "logo": "https://static.radio.net/images/broadcasts/a4/3b/16093/1/c175.png"
+  },
+  {
+    "name": "EuroDance FM",
+    "category": "Top Eurodance Radio Stations",
+    "url": "http://ic6.101.ru:8000/p421652",
+    "logo": "https://images.radiovolna.net/_files/uploads/posts/2016-07/1468925032_vswbgfxvzgg.jpg"
   },
   {
     "name": "BBC 1 98.8",
