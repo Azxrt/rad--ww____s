@@ -1237,1137 +1237,975 @@
   },
   {
     "name": "FOX News Talk (US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s20431",
+    "url": "http://tunein.streamguys1.com/secure-foxnews?key=5b2eb0ab3e442288f9a5539704096b89aaedb4bcbb0590d6382a84c18afc6bc1",
     "category": "Public Radio Stations",
     "logo": "http://cdn-profiles.tunein.com/s20431/images/logoq.jpg?t=155127"
   },
   {
     "name": "Bloomberg Radio (US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s165740",
+    "url": "http://tunein.streamguys1.com/bloomberg991",
     "category": "Public Radio Stations",
     "logo": "http://cdn-profiles.tunein.com/s165740/images/logoq.png?t=636217"
   },
   {
     "name": "BBC Radio 4 (London, UK)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s25419",
+    "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s25419q.png"
   },
   {
     "name": "Cheddar (US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s296280",
+    "url": "http://cheddar.streamguys1.com/live-mp3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-profiles.tunein.com/s296280/images/logoq.png?t=155360"
   },
   {
     "name": "BBC World Service News (UK)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s24948",
+    "url": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s24948q.png"
   },
   {
     "name": "C-SPAN Radio (Washington, US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s28047",
+    "url": "http://16853.live.streamtheworld.com/CSPANRADIO_SC",
     "category": "Public Radio Stations",
     "logo": "http://cdn-profiles.tunein.com/s28047/images/logoq.png?t=156389"
   },
   {
     "name": "KCRW News (US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s44525",
+    "url": "http://sc7.iad.llnw.net:80/stream/kcrw_news",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s44525q.png"
   },
   {
     "name": "Monocle 24 (UK)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s147125",
+    "url": "http://radio.monocle.com/live",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s147125q.png"
   },
   {
     "name": "WNYC-AM (New York, US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s21605",
+    "url": "http://am820.wnyc.org/wnycam",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s21605q.png"
   },
   {
     "name": "KQED-FM (San Francisco, US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s34804",
+    "url": "http://50.31.186.115:80/kqedradio.mp3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s34804q.png"
   },
   {
     "name": "NHPR (Concord, US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s28632",
+    "url": "http://nhpr-sc.streamguys.us/nhpr",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s28632q.png"
   },
   {
     "name": "DW Radio 08 (Germany)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s25478",
+    "url": "http://dw.audiostream.io/dw/1002/mp3/64/dw-radio-english",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s25478q.png"
   },
   {
     "name": "RAI Radio 1 (Lazio, Italy)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s25212",
+    "url": "http://icestreaming.rai.it/1.mp3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-profiles.tunein.com/s25212/images/logoq.jpg?t=1"
   },
   {
     "name": "W Radio (Mexico City, Mexico)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s16553",
+    "url": "http://20283.live.streamtheworld.com:80/W_RADIO_SC",
     "category": "Public Radio Stations",
     "logo": "http://cdn-profiles.tunein.com/s16553/images/logoq.jpg?t=636283"
   },
   {
     "name": "franceinfo (Paris, France)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s9948",
+    "url": "http://chai5she.cdn.dvmr.fr/franceinfo-midfi.mp3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s9948q.png"
   },
   {
     "name": "France Inter (Paris, France)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s24875",
+    "url": "http://direct.franceinter.fr/live/franceinter-midfi.mp3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-profiles.tunein.com/s24875/images/logoq.png?t=636443"
   },
   {
     "name": "News Talk 940 WMAdult Hits (Macon, US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s1043",
+    "url": "http://17433.live.streamtheworld.com/WMACAM_SC",
     "category": "Public Radio Stations",
     "logo": "http://cdn-profiles.tunein.com/s1043/images/logoq.png?t=153081"
   },
   {
     "name": "WCRN AM 830 Full Service Radio (Worcester, US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s1112",
+    "url": "http://173.193.205.96:7315/stream",
     "category": "Public Radio Stations",
     "logo": "http://cdn-profiles.tunein.com/s1112/images/logoq.jpg?t=636447"
   },
   {
     "name": "RadioNUR (US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s2516",
+    "url": "http://64.183.103.148:8000",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s2516q.png"
   },
   {
     "name": "Voix Du Liban (Bayrut, Lebanon)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s3013",
+    "url": "http://vps1.osina.cloud:9318/",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s3013q.png"
   },
   {
     "name": "Highway Radio 101.5 FM (Durban, South Africa)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s6407",
+    "url": "http://95.154.254.151:24866/",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s6407q.png"
   },
   {
     "name": "First Amendment Radio (US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s7389",
+    "url": "http://s3.voscast.com:7864/",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s7389q.png"
   },
   {
     "name": "650 CKOM News Talk Sports (Saskatoon, Canada)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s7748",
+    "url": "http://rawlco.leanstream.co/CKOMAM-MP3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-profiles.tunein.com/s7748/images/logoq.jpg"
   },
   {
     "name": "Radio Ideal (US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s9624",
+    "url": "http://node-12.zeno.fm/95rgar08mbruv",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s9624q.png"
   },
   {
     "name": "CFSX (Corner Brook, Canada)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s12112",
+    "url": "http://newcap.leanstream.co/CFSXAM-MP3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s12112q.png"
   },
   {
     "name": "BBC World Service UK (UK)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s50646",
+    "url": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s50646q.png"
   },
   {
     "name": "BBC World Service West Africa (UK)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s140656",
+    "url": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-enafw",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/a33829q.png"
   },
   {
     "name": "VOA English (US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s25696",
+    "url": "http://ample-11.radiojar.com/t2n88q0st5quv",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s9098q.png"
   },
   {
-    "name": "Newstalk KZRG (Joplin, US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s34434",
-    "category": "Public Radio Stations",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s34434q.png"
-  },
-  {
     "name": "Shannonside FM (Longford, Ireland)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s80570",
+    "url": "http://19013.live.streamtheworld.com:80/SHANNONSIDE_SC",
     "category": "Public Radio Stations",
     "logo": "http://cdn-profiles.tunein.com/s80570/images/logoq.jpg"
   },
   {
     "name": "RTHK 3 (Kowloon, Hong Kong)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s25670",
+    "url": "http://stm.rthk.hk/radio3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s25670q.png"
   },
   {
     "name": "NewsRadio WTAX (Springfield, US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s23056",
+    "url": "http://16973.live.streamtheworld.com/WTAXAM_SC",
     "category": "Public Radio Stations",
     "logo": "http://cdn-profiles.tunein.com/s23056/images/logoq.png"
   },
   {
     "name": "AM950 The Progressive Voice of Minnesota (Eden Prairie, US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s31969",
+    "url": "http://stream.am950ktnf.com:8000/",
     "category": "Public Radio Stations",
     "logo": "http://cdn-profiles.tunein.com/s31969/images/logoq.jpg?t=155206"
   },
   {
     "name": "News/Talk 990 (Fayetteville, US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s28449",
+    "url": "http://216.119.148.50:8000/weeb990",
     "category": "Public Radio Stations",
     "logo": "http://cdn-profiles.tunein.com/s28449/images/logoq.jpg?t=1"
   },
   {
     "name": "DW Radio 08 (Germany)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s25478",
+    "url": "http://dw.audiostream.io/dw/1002/mp3/64/dw-radio-english",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s25478q.png"
   },
   {
     "name": "Radio Mega Haiti (Haiti)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s279040",
+    "url": "http://stream.zenolive.com/qpq5v8d5d4duv",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s0q.png"
   },
   {
     "name": "Worldwide FM (UK)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s264430",
+    "url": "http://worldwidefm.out.airtime.pro:8000/worldwidefm_b",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s264430q.png"
   },
   {
     "name": "The Ultimate Art Bell (US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s235205",
+    "url": "http://stream.willstare.com:8450/",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s0q.png"
   },
   {
     "name": "Silver 98.3 FM (Ghana)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s254613",
+    "url": "http://212.83.150.15:8054/stream",
     "category": "Public Radio Stations",
     "logo": "http://cdn-profiles.tunein.com/s254613/images/logoq.jpg?t=153253"
   },
   {
     "name": "WYPR-HD2 (Baltimore, US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s126451",
+    "url": "http://18153.live.streamtheworld.com/WYPR_HD2_SC",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s24791q.png"
   },
   {
     "name": "Power987 (Houghton, South Africa)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s204393",
+    "url": "http://edge.iono.fm/xice/65_medium.mp3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s204393q.png"
   },
   {
     "name": "WVIP (New Rochelle, US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s22612",
+    "url": "http://crystalout.surfernetwork.com:8001/WVIP_MP3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s22612q.png"
   },
   {
     "name": "GN Radio UK (UK)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s188143",
+    "url": "http://stream1.radiomonitor.com/AhomkaRadio",
     "category": "Public Radio Stations",
     "logo": "http://cdn-profiles.tunein.com/s188143/images/logoq.jpg?t=151005"
   },
   {
     "name": "APR-HD3 (Tuscaloosa, US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s132589",
+    "url": "https://18183.live.streamtheworld.com/WUAL_HD3.mp3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s132589q.png"
   },
   {
     "name": "The POINT (Columbia, US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s22289",
+    "url": "http://icy3.abacast.com:80/capitalcity-wqxlamaac-64",
     "category": "Public Radio Stations",
     "logo": "http://cdn-profiles.tunein.com/s22289/images/logoq.jpg"
   },
   {
     "name": "Radio Biafra (UK)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s225376",
+    "url": "http://stream.zenolive.com/cnet8vdudceuv",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s225376q.png"
   },
   {
     "name": "Power FM (Port of Spain, Trinidad-Tobago)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s89337",
+    "url": "http://ttaccount.com:8080/102.mp3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s89337q.png"
   },
   {
     "name": "Sputnik English (Russia)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s44252",
+    "url": "http://audio1.video.ria.ru:80/voiceeng",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s44252q.png"
   },
   {
-    "name": "News/Talk 94.7 &amp; 970 WMAY (Springfield, US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s30899",
+    "name": "News/Talk 94.7 970 WMAY (Springfield, US)",
+    "url": "http://crystalout.surfernetwork.com:8001/WMAY-AM_MP3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s30899q.png"
   },
   {
     "name": "News Talk 1520 KOKC (Oklahoma City, US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s34508",
+    "url": "http://17853.live.streamtheworld.com:80/KOKCAM_SC",
     "category": "Public Radio Stations",
     "logo": "http://cdn-profiles.tunein.com/s34508/images/logoq.jpg?t=636263"
   },
   {
     "name": "WAMC (Albany, NY)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s27092",
+    "url": "http://17993.live.streamtheworld.com/WAMCFM_SC",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s27092q.png"
   },
   {
     "name": "Houston Public Media News (Houston-Galveston, TX)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s35884",
+    "url": "http://stream.houstonpublicmedia.org/news-mp3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s35884q.png"
   },
   {
     "name": "KUER-FM (Salt Lake City, UT)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s35868",
+    "url": "http://audio.kuer.org/high",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s35868q.png"
   },
   {
     "name": "KUNC (Greeley, CO)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s35914",
+    "url": "http://kunc.streamguys1.com/kunc-mp3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s35914q.png"
   },
   {
     "name": "Capital Public Radio (Sacramento, CA)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s26484",
+    "url": "http://17803.live.streamtheworld.com/KXJZ_SC",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s26484q.png"
   },
   {
     "name": "KUSC (Los Angeles, CA)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s35951",
+    "url": "http://20813.live.streamtheworld.com:80/KUSCMP128_SC",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s35951q.png"
   },
   {
     "name": "WESA (Pittsburgh, PA)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s28361",
+    "url": "http://20793.live.streamtheworld.com/WESAFM.mp3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s28361q.png"
   },
   {
     "name": "WNYC-FM (New York, NY)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s21606",
+    "url": "http://fm939.wnyc.org/wnycfm",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s21606q.png"
   },
   {
     "name": "KPCC (Pasadena, CA)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s34635",
+    "url": "http://kpcclive1.publicradio.org/kpcclive",
     "category": "Public Radio Stations",
     "logo": "http://cdn-profiles.tunein.com/s34635/images/logoq.png?t=155473"
   },
   {
     "name": "WBGO (Newark, NJ)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s27437",
+    "url": "http://wbgo.streamguys.net/wbgo128",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s27437q.png"
   },
   {
     "name": "OPB (Portland, OR)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s34542",
+    "url": "http://stream1.opb.org/radio_player.mp3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-profiles.tunein.com/s34542/images/logoq.jpg?t=636367"
   },
   {
     "name": "WQXR-FM (Newark, NJ)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s27729",
+    "url": "http://stream.wqxr.org/wqxr",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s27729q.png"
   },
   {
     "name": "Chicago Public Radio (Chicago, IL)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s27410",
+    "url": "http://stream.wbez.org/wbez128.mp3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s27410q.png"
   },
   {
     "name": "KEXP-FM (Seattle-Tacoma, WA)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s32537",
+    "url": "http://live-mp3-128.kexp.org/kexp128.mp3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-profiles.tunein.com/s32537/images/logoq.png"
   },
   {
     "name": "WHRV (Norfolk, VA)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s29424",
+    "url": "http://whrv.mediaplayer.whro.org/128",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s29424q.png"
   },
   {
     "name": "WNYC-AM (New York, NY)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s21605",
+    "url": "http://am820.wnyc.org/wnycam",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s21605q.png"
   },
   {
     "name": "KQED-FM (San Francisco, CA)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s34804",
+    "url": "http://50.31.186.115:80/kqedradio.mp3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s34804q.png"
   },
   {
     "name": "WUNC (Chapel Hill, NC)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s23398",
+    "url": "http://wunc-ice.streamguys1.com:80/wunc-128-mp3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s23398q.png"
   },
   {
     "name": "KALW (San Francisco, CA)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s31426",
+    "url": "http://live.str3am.com:2430",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s31426q.png"
   },
   {
     "name": "NHPR (Concord, NH)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s28632",
+    "url": "http://nhpr-sc.streamguys.us/nhpr",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s28632q.png"
   },
   {
     "name": "WAMU (Washington, DC)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s27111",
+    "url": "http://wamu-1.streamguys.com/wamu-1",
     "category": "Public Radio Stations",
     "logo": "http://cdn-profiles.tunein.com/s27111/images/logoq.png"
   },
   {
     "name": "WYPR (Baltimore, MD)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s24791",
+    "url": "http://16923.live.streamtheworld.com/WYPR_HD1_SC",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s24791q.png"
   },
   {
     "name": "WFUV (New York, NY)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s28907",
+    "url": "https://onair.wfuv.org/onair-hi",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s28907q.png"
   },
   {
     "name": "KPBS-FM (San Diego, CA)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s34633",
+    "url": "http://kpbs.streamguys.tv/",
     "category": "Public Radio Stations",
     "logo": "http://cdn-profiles.tunein.com/s34633/images/logoq.jpg?t=154843"
   },
   {
     "name": "VPR (Burlington, VT)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s17055",
+    "url": "http://vpr.streamguys.net/vpr96.mp3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s17055q.png"
   },
   {
     "name": "Bloomberg Radio",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s165740",
+    "url": "http://tunein.streamguys1.com/bloomberg991",
     "category": "Public Radio Stations",
     "logo": "http://cdn-profiles.tunein.com/s165740/images/logoq.png?t=636217"
   },
   {
     "name": "KERN (Wasco, CA)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s32503",
+    "url": "http://65.19.131.177/agmedia28-kernammp3-ibc3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s32503q.png"
   },
   {
     "name": "Money Matters Boston (Needham, MA)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s27548",
+    "url": "http://backbonenetworks.streamguys.com:80/WBNW.mp3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s27548q.png"
   },
   {
     "name": "WINA (Charlottesville, VA)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s29603",
+    "url": "http://17413.live.streamtheworld.com/WINAAM_SC",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s29603q.png"
   },
   {
     "name": "WSBR Radio (Boca Raton, FL)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s22712",
+    "url": "http://17643.live.streamtheworld.com:80/WSBRAM_SC",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s22712q.png"
   },
   {
     "name": "K. E. X. B.  Experts In Business (Dallas-Fort Worth, TX)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s34064",
+    "url": "http://17803.live.streamtheworld.com:80/KEXBAM_SC",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s0q.png"
   },
   {
     "name": "Global FM (Tambov oblast, Russia)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s156386",
+    "url": "http://s07.radio-tochka.com:6810/",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s156386q.png"
   },
   {
     "name": "Business Eleven Ten K.T.E.K. (Houston-Galveston, TX)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s26600",
+    "url": "http://17973.live.streamtheworld.com:80/KTEKAM_SC",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s26600q.png"
   },
   {
     "name": "WMKY (Huntington-Ashland, KY)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s31074",
+    "url": "https://17573.live.streamtheworld.com/WMKYFM.mp3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s31074q.png"
   },
   {
     "name": "Africa Business Radio (Nigeria)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s253999",
+    "url": "http://africabusinessradio.out.airtime.pro:8000/africabusinessradio_a",
     "category": "Public Radio Stations",
     "logo": "http://cdn-profiles.tunein.com/s253999/images/logoq.png?t=1"
   },
   {
     "name": "TMDAC Business Club Radio (UK)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s293112",
+    "url": "http://api.spreaker.com/listen/show/2012537/episode/latest/shoutcast.mp3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-profiles.tunein.com/s293112/images/logoq.jpg?t=1"
   },
   {
     "name": "tastytrade",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s265158",
+    "url": "http://ice.tastytrade.com:8000/tastytrade",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s265158q.png"
   },
   {
     "name": "TFNN.com - Educating Investors",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s130336",
+    "url": "http://66.135.49.104:8000/stdin.mp3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s130336q.png"
   },
   {
     "name": "The Eye (Melton Mowbray, UK)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s47226",
+    "url": "http://icecast.commedia.org.uk:8000/theeyefm.mp3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s47226q.png"
   },
   {
     "name": "KBNP (Portland, OR)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s31794",
+    "url": "http://crystalout.surfernetwork.com:8001/KBNP_MP3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s31794q.png"
   },
   {
     "name": "Hunterdon Chamber Radio",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s152438",
+    "url": "http://162.244.80.30:8110/;stream.mp3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-profiles.tunein.com/s152438/images/logoq.jpg"
   },
   {
     "name": "VoiceAmerica Business",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s1226",
+    "url": "http://ice8.securenetsystems.net/BUSINESS",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s1226q.png"
   },
   {
-    "name": "WKHM News/Talk 970 &amp; 101.5 (Jackson, MI)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s30193",
+    "name": "WKHM News/Talk 970 101.5 (Jackson, MI)",
+    "url": "http://96.66.22.149:98/broadwave.mp3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-profiles.tunein.com/s30193/images/logoq.png"
   },
   {
-    "name": "KRWC (Buffalo, MN)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s35194",
-    "category": "Public Radio Stations",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s35194q.png"
-  },
-  {
     "name": "WS Radio Studio A",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s2702",
+    "url": "http://icy3.abacast.com:80/wsradio-studioamp3-64",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s2702q.png"
   },
   {
-    "name": "Radio Entrepreneurs Network",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s226062",
-    "category": "Public Radio Stations",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s226062q.png"
-  },
-  {
-    "name": "Eye on Real Estate with Dottie Herman",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s211302",
-    "category": "Public Radio Stations",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s211302q.png"
-  },
-  {
-    "name": "CIO Talk Network",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s198884",
-    "category": "Public Radio Stations",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s198884q.png"
-  },
-  {
     "name": "OC Talk Radio (San Luis Obispo, CA)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s114454",
+    "url": "http://amber.streamguys.com:4850/live",
     "category": "Public Radio Stations",
     "logo": "http://cdn-profiles.tunein.com/s114454/images/logoq.jpg?t=154582"
   },
   {
-    "name": "WS Radio Studio B",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s127696",
-    "category": "Public Radio Stations",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s127696q.png"
-  },
-  {
     "name": "VoiceAmerica Health and Wellness (US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s134507",
+    "url": "http://ice8.securenetsystems.net/VAHEALTH",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s134507q.png"
   },
   {
     "name": "Success Radio USA (Colorado Springs, US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s273600",
+    "url": "http://64.150.176.42:8046/live",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s273600q.png"
   },
   {
-    "name": "Kentucky School for the Blind Radio (US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s306213",
-    "category": "Public Radio Stations",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s0q.png"
-  },
-  {
     "name": "Revolucion de Salud Radio (US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s275895",
+    "url": "http://usa17.fastcast4u.com:5164",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s275895q.png"
   },
   {
-    "name": "Soluna Radio (US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s240870",
-    "category": "Public Radio Stations",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s0q.png"
-  },
-  {
-    "name": "ER24 Live (South Africa)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s257915",
-    "category": "Public Radio Stations",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s257915q.png"
-  },
-  {
-    "name": "Rahma Radio 97.3 (Kano, Nigeria)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s182613",
-    "category": "Public Radio Stations",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s182613q.png"
-  },
-  {
     "name": "Radio Solar (Argentina)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s188865",
+    "url": "http://01.solumedia.com.ar:8208/",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s188865q.png"
   },
   {
-    "name": "Radio City Wellness (India)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s275645",
-    "category": "Public Radio Stations",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s275645q.png"
-  },
-  {
     "name": "Web Rádio Fraternidade (Canal 6) (Brazil)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s249605",
+    "url": "http://65.stm-ip.com:8068/",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s249605q.png"
   },
   {
     "name": "Franja Visual Radio (Colombia)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s205203",
+    "url": "http://192.111.140.11/proxy/grupofra?mp=/stream",
     "category": "Public Radio Stations",
     "logo": "http://cdn-profiles.tunein.com/s205203/images/logoq.jpg?t=153539"
   },
   {
-    "name": "MammeInRadio (Italy)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s212266",
-    "category": "Public Radio Stations",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s212266q.png"
-  },
-  {
-    "name": "Радио АА (Russia)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s267957",
-    "category": "Public Radio Stations",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s267957q.png"
-  },
-  {
-    "name": "O.M.S.A Radio (Mexico)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s287057",
-    "category": "Public Radio Stations",
-    "logo": "http://cdn-profiles.tunein.com/s287057/images/logoq.jpg"
-  },
-  {
     "name": "Relevant Radio (Eau Claire, WI)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s28370",
+    "url": "http://relevantradio-ice.streamguys.us/relevantradio",
     "category": "Public Radio Stations",
     "logo": "http://cdn-profiles.tunein.com/s28370/images/logoq.jpg?t=636265"
   },
   {
     "name": "Ave Maria Radio (Ypsilanti, MI)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s28210",
+    "url": "http://147.135.84.28/wdeo-fm2",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s28210q.png"
   },
   {
     "name": "EWTN Radio",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s18636",
+    "url": "https://audiocdn.mainstreaming.tv/101160/radio-english-mp3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s18636q.png"
   },
   {
     "name": "Catholic Radio (Laredo, TX)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s33012",
+    "url": "http://147.135.84.28:80/khoy-fm.mp3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s33012q.png"
   },
   {
     "name": "Living Bread Radio Network (Canton, OH)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s22357",
+    "url": "http://ic2.nwrnetwork.com/wilb-am2",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s22357q.png"
   },
   {
     "name": "WJMJ (Hartford, CT)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s29909",
+    "url": "http://ophanim.net:7760",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s29909q.png"
   },
   {
     "name": "Sacred Heart Radio (Seattle-Tacoma, WA)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s31758",
+    "url": "http://sacredheartradio.miriamtech.com:8000/live",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s31758q.png"
   },
   {
     "name": "KLUX 89.5HD (Corpus Christi, TX)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s33893",
+    "url": "http://s5.viastreaming.net:7610",
     "category": "Public Radio Stations",
     "logo": "http://cdn-profiles.tunein.com/s33893/images/logoq.png"
   },
   {
     "name": "St. Gabriel Catholic Radio (Columbus, OH)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s21808",
+    "url": "http://173.193.205.96:8132/stream",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s21808q.png"
   },
   {
     "name": "EWTN RADIO CLASSICS",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s214372",
+    "url": "http://www.ewtn.com/radio/streaming/radio-classics-mp3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s214372q.png"
   },
   {
     "name": "WQOM (Boston, MA)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s27480",
+    "url": "http://ruby.streamguys.com:8110/wqom.mp3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-profiles.tunein.com/s27480/images/logoq.png?t=152094"
   },
   {
     "name": "Real Presence Radio Network (Grand Forks, ND)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s35915",
+    "url": "https://realpresence.stream.miriamtech.net:13701/kwtl",
     "category": "Public Radio Stations",
     "logo": "http://cdn-profiles.tunein.com/s35915/images/logoq.jpg?t=152639"
   },
   {
     "name": "JMJ Catholic Radio (Olyphant, PA)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s26913",
+    "url": "http://173.163.113.134:8000/live.mp3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s26913q.png"
   },
   {
     "name": "KATH (Dallas-Fort Worth, TX)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s75544",
+    "url": "http://grn-stream-01.miriamtech.net:8000/KATH910AM.mp3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s26219q.png"
   },
   {
     "name": "Radio Maria (USA) (Alexandria, LA)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s33353",
+    "url": "http://dreamsiteradiocp4.com:8006/",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s33353q.png"
   },
   {
     "name": "KJMA (San Antonio, TX)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s26219",
+    "url": "http://grn-stream-01.miriamtech.net:8000/KJMA897FM.mp3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s26219q.png"
   },
   {
     "name": "Radio Maria (Uganda) (Kampala, Uganda)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s6436",
+    "url": "http://dreamsiteradiocp.com:8052/",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s33353q.png"
   },
   {
     "name": "WLOF (Elma, NY)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s30730",
+    "url": "http://peace.str3am.com:6750/live.mp3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-profiles.tunein.com/s30730/images/logoq.png?t=152094"
   },
   {
-    "name": "Radio Maria (Manila, Philippines)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s49830",
-    "category": "Public Radio Stations",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s33353q.png"
-  },
-  {
     "name": "WNOC (Toledo, OH)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s100734",
+    "url": "http://147.135.84.28:80/annunciationradio2",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s100734q.png"
   },
   {
     "name": "WPYR (Baton Rouge, LA)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s24222",
+    "url": "http://38.107.243.219:8610/",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s24222q.png"
   },
   {
     "name": "Mediatrix Radio (Greer, SC)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s27880",
+    "url": "http://162.244.80.33:6660",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s27880q.png"
   },
   {
     "name": "WQNO (New Orleans, LA)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s23146",
+    "url": "http://38.107.243.219:8664/",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s23146q.png"
   },
   {
     "name": "The Sword (Salina-Manhattan, KS)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s251340",
+    "url": "http://slave.irdb.network/kswzlp.mp3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s251340q.png"
   },
   {
     "name": "Sacred Heart Radio (Spokane, WA)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s35762",
+    "url": "http://sacredheartradio.miriamtech.com:8000/hidden",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s35762q.png"
   },
   {
     "name": "181.FM Comedy Club (US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s90493",
+    "url": "http://listen.181fm.com/181-comedy_128k.mp3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s90493q.png"
   },
   {
     "name": "Bubba Two (US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s132969",
+    "url": "http://bar.streamguys1.com:80/BubbaTwo.mp3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s132969q.png"
   },
   {
     "name": "Comedy104 (US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s48938",
+    "url": "http://streaming.live365.com/b42761_64mp3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-profiles.tunein.com/s48938/images/logoq.jpg"
   },
   {
     "name": "Bubba One (US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s132970",
+    "url": "http://bar.streamguys1.com:80/BubbaOne.mp3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s132970q.png"
   },
   {
     "name": "BBC Radio 4 Extra (UK)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s6839",
+    "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4extra_mf_p",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s6839q.png"
   },
   {
     "name": "Bob and Tom Twenty Four Seven (24/7) (US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s291115",
+    "url": "http://18123.live.streamtheworld.com:80/BOBANDTOM_SC",
     "category": "Public Radio Stations",
     "logo": "http://cdn-profiles.tunein.com/s291115/images/logoq.jpg?t=155186"
   },
   {
     "name": "British Comedy Channel - ROK Classic Radio (UK)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s131693",
+    "url": "http://s1.viastreaming.net:9155",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s131693q.png"
   },
   {
     "name": "British Comedy Radio (UK)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s142838",
+    "url": "http://185.80.221.113:7550",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s142838q.png"
   },
   {
     "name": "British Comedy Radio GB (UK)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s285581",
+    "url": "http://149.255.59.164:8132",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s285581q.png"
   },
   {
     "name": "A.M. America&apos;s Old Time Radio Comedy Channel (US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s254742",
+    "url": "http://hemnos.cdnstream.com/1666_32",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s254742q.png"
   },
   {
     "name": "WTF with Marc Maron 24/7 (US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s225115",
+    "url": "http://tunein.streamguys1.com/WTFwithMarcMaron",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s225115q.png"
   },
   {
     "name": "Stern Nation (US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s289635",
+    "url": "http://217.147.94.171:36490/",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s289635q.png"
   },
   {
     "name": "American Comedy Channel - ROK Classic Radio Network (UK)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s131694",
+    "url": "http://s1.viastreaming.net:9160",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s131694q.png"
   },
   {
     "name": "Abacus.fm - The Goon Show (UK)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s136829",
+    "url": "http://178.33.232.106:8026/stream",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s136829q.png"
   },
   {
     "name": "Blue Planet Prank Radio (US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s116380",
+    "url": "http://38.135.36.122:9610/stream",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s116380q.png"
   },
   {
-    "name": "I AM RAPAPORT: STEREO PODCAST aka PLEASURE &amp; PAIN (US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s243754",
+    "name": "I AM RAPAPORT: STEREO PODCAST aka PLEASURE PAIN (US)",
+    "url": "http://tunein.streamguys1.com/i-am-rapaport",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s243754q.png"
   },
   {
     "name": "ComedyPipe Radio Network (US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s117939",
+    "url": "http://100.4.210.155:80/",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s117939q.png"
   },
   {
     "name": "The WHIP Radio (US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s232577",
+    "url": "http://192.240.102.198:14030/stream",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s232577q.png"
   },
   {
     "name": "Old Time Radio CFRG (US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s209417",
+    "url": "http://69.46.24.226:7006/stream",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s209417q.png"
   },
   {
     "name": "No Holds Barred Radio (US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s2331",
+    "url": "http://www.newerastreaming.com:8000",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s2331q.png"
   },
   {
     "name": "Janesville Community Radio (Janesville, US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s245273",
+    "url": "https://wadr.out.airtime.pro/wadr_a",
     "category": "Public Radio Stations",
     "logo": "http://cdn-profiles.tunein.com/s245273/images/logoq.png?t=156631"
   },
   {
     "name": "Comedy 24 Radio (US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s243047",
+    "url": "http://rosetta.shoutca.st:9399/;",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s243047q.png"
   },
   {
     "name": "FUBAR Radio (UK)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s232338",
+    "url": "http://direct.sharp-stream.com/fubar_1.mp3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s232338q.png"
   },
   {
     "name": "Chuckle Radio (US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s192166",
+    "url": "http://192.99.177.195:8020/stream",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s192166q.png"
   },
   {
     "name": "181.FM Christmas Fun (US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s89793",
+    "url": "http://listen.181fm.com/181-xfun_128k.mp3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s89793q.png"
   },
   {
     "name": "ICRT (Taipei, Taiwan)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s7198",
+    "url": "http://live.leanstream.co/ICRTFM-MP3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s7198q.png"
   },
   {
     "name": "WUWF News (Pensacola, US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s23450",
+    "url": "http://17533.live.streamtheworld.com:3690/WUWFFM_SC",
     "category": "Public Radio Stations",
     "logo": "http://cdn-profiles.tunein.com/s23450/images/logoq.png?t=636372"
   },
   {
-    "name": "KT Radio (Kigali, Rwanda)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s218931",
-    "category": "Public Radio Stations",
-    "logo": "http://cdn-profiles.tunein.com/s218931/images/logoq.png?t=154454"
-  },
-  {
     "name": "GTFM (Pontypridd, UK)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s37349",
+    "url": "http://radio.canstream.co.uk:8012/live.mp3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s37349q.png"
   },
   {
     "name": "West Coast Radio (Banjul, Gambia)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s16134",
+    "url": "http://stream.westcoast.gm:8000/;",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s16134q.png"
   },
   {
     "name": "Fairbanks Open Radio (Fairbanks, US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s264972",
+    "url": "http://edge.mixlr.com/channel/qgemi",
     "category": "Public Radio Stations",
     "logo": "http://cdn-profiles.tunein.com/s264972/images/logoq.png?t=151912"
   },
   {
     "name": "Kola Olootu (Nigeria)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s304111",
+    "url": "http://node-22.zeno.fm/adtxur22pvduv",
     "category": "Public Radio Stations",
     "logo": "http://cdn-profiles.tunein.com/s304111/images/logoq.jpg"
   },
   {
     "name": "Reach OnAir (UK)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s111146",
+    "url": "http://streaming.reachonair.com:8320/live320",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s111146q.png"
   },
   {
     "name": "Bridge Radio (Nigeria)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s293836",
+    "url": "http://s6.myradiostream.com:44844/",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s293836q.png"
   },
   {
     "name": "Kahama FM (Kahama, Tanzania)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s250315",
+    "url": "http://87.117.228.65:28439/",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s250315q.png"
   },
   {
     "name": "FBRN Red Bowl (US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s209713",
+    "url": "http://192.169.216.237:8820/stream",
     "category": "Public Radio Stations",
     "logo": "http://cdn-profiles.tunein.com/s209713/images/logoq.png"
   },
   {
     "name": "Phoenix 96.7FM (Halifax, UK)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s89517",
+    "url": "http://live.canstream.co.uk:8000/phoenix.mp3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s89517q.png"
   },
   {
     "name": "Bhutan Broadcasting Service Radio (Thimphu, Bhutan)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s178675",
+    "url": "http://202.144.155.13:8000/stream.mp3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s178675q.png"
   },
   {
     "name": "WYBCX (US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s130806",
+    "url": "http://relay.wybc.com:8000/x.mp3",
     "category": "Public Radio Stations",
     "logo": "http://cdn-radiotime-logos.tunein.com/s130806q.png"
-  },
-  {
-    "name": "Zipped Radio (UK)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s220774",
-    "category": "Public Radio Stations",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s220774q.png"
-  },
-  {
-    "name": "ClubZone.fm (US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s133113",
-    "category": "Public Radio Stations",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s133113q.png"
-  },
-  {
-    "name": "E On 3 Radio (Ghana)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s301333",
-    "category": "Public Radio Stations",
-    "logo": "http://cdn-profiles.tunein.com/s301333/images/logoq.jpg?t=151196"
-  },
-  {
-    "name": "Markk Radio (Ghana)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s260147",
-    "category": "Public Radio Stations",
-    "logo": "http://cdn-profiles.tunein.com/s260147/images/logoq.jpg?t=153442"
-  },
-  {
-    "name": "VG8 Radio (Philippines)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s303813",
-    "category": "Public Radio Stations",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s0q.png"
-  },
-  {
-    "name": "TVU Live (Westerville, US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s18515",
-    "category": "Public Radio Stations",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s18515q.png"
-  },
-  {
-    "name": "NPNRadio (US)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s231083",
-    "category": "Public Radio Stations",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s231083q.png"
-  },
-  {
-    "name": "Radio Sinfin (Chile)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s275769",
-    "category": "Public Radio Stations",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s275769q.png"
-  },
-  {
-    "name": "Radio Euskadi (Baztan, Spain)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s6785",
-    "category": "Public Radio Stations",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s6785q.png"
-  },
-  {
-    "name": "ODS Radio (Annecy, France)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s26047",
-    "category": "Public Radio Stations",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s26047q.png"
-  },
-  {
-    "name": "Radio Ciao (Abruzzo, Italy)",
-    "url": "http://opml.radiotime.com/Tune.ashx?id=s95068",
-    "category": "Public Radio Stations",
-    "logo": "http://cdn-radiotime-logos.tunein.com/s95068q.png"
   },
   {
     "name": "BBC Radio 5 live (London, UK)",
@@ -2592,7 +2430,7 @@
     "logo": "http://cdn-profiles.tunein.com/s22301/images/logoq.png?t=636441"
   },
   {
-    "name": "RSN Racing &amp; Sport (Melbourne, Australia)",
+    "name": "RSN Racing Sport (Melbourne, Australia)",
     "url": "http://rsnshout.dyn.rsn.net.au:8000/rsn",
     "category": "Sports",
     "logo": "http://cdn-radiotime-logos.tunein.com/s3007q.png"
@@ -2610,7 +2448,7 @@
     "logo": "http://cdn-profiles.tunein.com/s28790/images/logoq.png?t=151853"
   },
   {
-    "name": "The Rick &amp; Bubba Show",
+    "name": "The Rick Bubba Show",
     "url": "http://s3.voscast.com:8916/",
     "category": "Sports",
     "logo": "http://cdn-radiotime-logos.tunein.com/s208566q.png"
