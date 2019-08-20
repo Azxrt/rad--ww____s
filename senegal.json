@@ -619,61 +619,82 @@
   },
   {
     "name": "duas kumayl",
-    "category": "DUA",
+    "category": "Islamic",
     "url": "https://www.duas.org/mp3/kumail.mp3",
     "logo": "https://static.memrise.com/img/400sqf/from/uploads/course_photos/4762566000130921193426.jpg"
   },
   {
-    "name": "Dua Nudbah",
-    "category": "DUA",
-    "url": "http://mp3.duas.org/Imam%20Mehdi/Nudba.mp3",
+    "name": "koonoz-Doaa",
+    "category": "Islamic",
+    "url": "https://ia801905.us.archive.org/26/items/koonoz-Doaa/003.mp3",
     "logo": "https://static.memrise.com/img/400sqf/from/uploads/course_photos/4762566000130921193426.jpg"
   },
   {
-    "name": "Dua Tawassul",
-    "category": "DUA",
-    "url": "http://mp3.duas.org/Misc%20Duas/2_Tawassul.mp3",
+    "name": "koonoz Doaa",
+    "category": "Islamic",
+    "url": "https://ia601905.us.archive.org/26/items/koonoz-Doaa/001.mp3",
     "logo": "https://static.memrise.com/img/400sqf/from/uploads/course_photos/4762566000130921193426.jpg"
   },
   {
-    "name": "Dua Sabah",
-    "category": "DUA",
-    "url": "http://mp3.duas.org/Misc%20Duas/3_Sabah.mp3",
+    "name": "koonoz-Doaa",
+    "category": "Islamic",
+    "url": "https://ia601905.us.archive.org/26/items/koonoz-Doaa/006.mp3",
     "logo": "https://static.memrise.com/img/400sqf/from/uploads/course_photos/4762566000130921193426.jpg"
   },
   {
-    "name": "Dua Adeelah",
-    "category": "DUA",
-    "url": "http://mp3.duas.org/Misc%20Duas/Adeela.mp3",
+    "name": "koonoz-Doaa",
+    "category": "Islamic",
+    "url": "https://ia801905.us.archive.org/26/items/koonoz-Doaa/010.mp3",
     "logo": "https://static.memrise.com/img/400sqf/from/uploads/course_photos/4762566000130921193426.jpg"
   },
   {
-    "name": "Hadith e Kisa",
-    "category": "DUA",
-    "url": "http://mp3.duas.org/Misc%20Duas/H_Kisa.mp3",
+    "name": "koonoz-Doaa",
+    "category": "Islamic",
+    "url": "https://ia801905.us.archive.org/26/items/koonoz-Doaa/012.mp3",
     "logo": "https://static.memrise.com/img/400sqf/from/uploads/course_photos/4762566000130921193426.jpg"
   },
   {
-    "name": "Dua Ahad",
-    "category": "DUA",
-    "url": "http://mp3.duas.org/Imam%20Mehdi/Ahad.mp3",
+    "name": "koonoz-Doaa",
+    "category": "Islamic",
+    "url": "https://ia801905.us.archive.org/26/items/koonoz-Doaa/029.mp3",
     "logo": "https://static.memrise.com/img/400sqf/from/uploads/course_photos/4762566000130921193426.jpg"
   },
   {
-    "name": "Dua Allahuma Tawfiq",
-    "category": "DUA",
-    "url": "http://mp3.duas.org/Imam%20Mehdi/taufeeq.mp3",
-    "logo": "https://static.memrise.com/img/400sqf/from/uploads/course_photos/4762566000130921193426.jpg"
+    "name": "Love Islam Radio",
+    "category": "Islamic",
+    "url": "http://167.114.64.181:8368/stream",
+    "logo": "https://cdn-profiles.tunein.com/s298409/images/logoq.png"
   },
   {
-    "name": "Dua Faraj",
-    "category": "DUA",
-    "url": "http://mp3.duas.org/Imam%20Mehdi/Allahhumakunle.mp3",
-    "logo": "https://static.memrise.com/img/400sqf/from/uploads/course_photos/4762566000130921193426.jpg"
+    "name": "Islam2Day Radio - Islamic Songs",
+    "category": "Islamic",
+    "url": "http://islam2day.tv:8000/;",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s129384q.png"
   },
-
-
-
+  {
+    "name": "Syiar Tauhid",
+    "category": "Islamic",
+    "url": "http://live.syiartauhid.info:8046/;",
+    "logo": "https://cdn-profiles.tunein.com/s155856/images/logoq.png"
+  },
+  {
+    "name": "Radio Ramadan",
+    "category": "Islamic",
+    "url": "https://streams.radio.co/s184506ded/listen",
+    "logo": "https://cdn-profiles.tunein.com/s271983/images/logoq.jpg"
+  },
+  {
+    "name": "DC Naat Radio",
+    "category": "Islamic",
+    "url": "http://37.59.40.90:13872/;",
+    "logo": "https://cdn-profiles.tunein.com/s222383/images/logoq.jpg?t=1"
+  },
+  {
+    "name": "DC Naat Radio",
+    "category": "Islamic",
+    "url": "http://37.59.40.90:13872/;",
+    "logo": "https://cdn-profiles.tunein.com/s222383/images/logoq.jpg?t=1"
+  },  
   {
     "name": "América Dance 90's",
     "category": "Top Eurodance Radio Stations",
