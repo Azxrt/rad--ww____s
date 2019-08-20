@@ -512,12 +512,6 @@
     "url": "http://mediaserver2.islamicity.com:8000/SaudiTVArabic",
     "logo": "https://cdn-radiotime-logos.tunein.com/s270277q.png"
   },
-  {
-    "name": "Radyo Islam",
-    "category": "Islamic",
-    "url": "http://yayin2.canliyayin.org:7676/;",
-    "logo": "https://cdn-radiotime-logos.tunein.com/s82381q.png"
-  }, 
   
   
   
@@ -544,12 +538,6 @@
     "category": "Islamic",
     "url": "http://128.199.156.6:80/",
     "logo": "https://img12.androidappsapk.co/300/1/a/e/id.co.radiomuslim.png"
-  },
-  {
-    "name": "Suara Muslim",
-    "category": "Islamic",
-    "url": "http://118.97.183.197:8024/",
-    "logo": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/g3h6pslxclht.jpg"
   },
   {
     "name": "SASFM Surabaya Radio Muslim",
@@ -617,6 +605,43 @@
     "url": "http://163.172.77.142:8360/stream",
     "logo": "https://is3-ssl.mzstatic.com/image/thumb/Purple4/v4/37/0e/da/370eda1c-9647-3147-a3db-0944eafd54df/source/512x512bb.jpg"
   },
+
+  {
+    "name": "Love Islam Radio",
+    "category": "Islamic",
+    "url": "http://167.114.64.181:8368/stream",
+    "logo": "https://cdn-profiles.tunein.com/s298409/images/logoq.png"
+  },
+  {
+    "name": "Islam2Day Radio - Islamic Songs",
+    "category": "Islamic",
+    "url": "http://islam2day.tv:8000/;",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s129384q.png"
+  },
+  {
+    "name": "Syiar Tauhid",
+    "category": "Islamic",
+    "url": "http://live.syiartauhid.info:8046/;",
+    "logo": "https://cdn-profiles.tunein.com/s155856/images/logoq.png"
+  },
+  {
+    "name": "Radio Ramadan",
+    "category": "Islamic",
+    "url": "https://streams.radio.co/s184506ded/listen",
+    "logo": "https://cdn-profiles.tunein.com/s271983/images/logoq.jpg"
+  },
+  {
+    "name": "DC Naat Radio",
+    "category": "Islamic",
+    "url": "http://37.59.40.90:13872/;",
+    "logo": "https://cdn-profiles.tunein.com/s222383/images/logoq.jpg?t=1"
+  }, 
+  {
+    "name": "Radyo Islam",
+    "category": "Islamic",
+    "url": "http://yayin2.canliyayin.org:7676/;",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s82381q.png"
+  },   
   {
     "name": "duas kumayl",
     "category": "Islamic",
@@ -658,42 +683,6 @@
     "category": "Islamic",
     "url": "https://ia801905.us.archive.org/26/items/koonoz-Doaa/029.mp3",
     "logo": "https://static.memrise.com/img/400sqf/from/uploads/course_photos/4762566000130921193426.jpg"
-  },
-  {
-    "name": "Love Islam Radio",
-    "category": "Islamic",
-    "url": "http://167.114.64.181:8368/stream",
-    "logo": "https://cdn-profiles.tunein.com/s298409/images/logoq.png"
-  },
-  {
-    "name": "Islam2Day Radio - Islamic Songs",
-    "category": "Islamic",
-    "url": "http://islam2day.tv:8000/;",
-    "logo": "https://cdn-radiotime-logos.tunein.com/s129384q.png"
-  },
-  {
-    "name": "Syiar Tauhid",
-    "category": "Islamic",
-    "url": "http://live.syiartauhid.info:8046/;",
-    "logo": "https://cdn-profiles.tunein.com/s155856/images/logoq.png"
-  },
-  {
-    "name": "Radio Ramadan",
-    "category": "Islamic",
-    "url": "https://streams.radio.co/s184506ded/listen",
-    "logo": "https://cdn-profiles.tunein.com/s271983/images/logoq.jpg"
-  },
-  {
-    "name": "DC Naat Radio",
-    "category": "Islamic",
-    "url": "http://37.59.40.90:13872/;",
-    "logo": "https://cdn-profiles.tunein.com/s222383/images/logoq.jpg?t=1"
-  },
-  {
-    "name": "DC Naat Radio",
-    "category": "Islamic",
-    "url": "http://37.59.40.90:13872/;",
-    "logo": "https://cdn-profiles.tunein.com/s222383/images/logoq.jpg?t=1"
   },  
   {
     "name": "América Dance 90's",
