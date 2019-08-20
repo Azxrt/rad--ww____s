@@ -1458,12 +1458,6 @@
     "logo": "http://cdn-radiotime-logos.tunein.com/s23633q.png"
   },
   {
-    "name": "680 The Fan (North Atlanta, GA)",
-    "url": "http://17273.live.streamtheworld.com:80/WCNNAM_SC",
-    "category": "Sports",
-    "logo": "http://cdn-profiles.tunein.com/s27965/images/logoq.jpg?t=154694"
-  },
-  {
     "name": "The Team 980 (Washington, DC)",
     "url": "http://17413.live.streamtheworld.com:80/WTEMAM_SC",
     "category": "Sports",
@@ -1546,6 +1540,156 @@
     "url": "http://klaa.streamguys1.com/live",
     "category": "Sports",
     "logo": "http://cdn-radiotime-logos.tunein.com/s34679q.png"
+  },
+  {
+    "name": "650 CKOM News Talk Sports (Saskatoon, Canada)",
+    "url": "http://rawlco.leanstream.co/CKOMAM-MP3",
+    "category": "Sports",
+    "logo": "http://cdn-profiles.tunein.com/s7748/images/logoq.jpg"
+  },
+  {
+    "name": "The Zone Sports Network (Salt Lake City, UT)",
+    "url": "http://stream.abacast.net/direct/utahjazz-kznsammp3-ibc4",
+    "category": "Sports",
+    "logo": "http://cdn-profiles.tunein.com/s7939/images/logoq.png?t=153902"
+  },
+  {
+    "name": "NBC Sports Radio",
+    "url": "https://live.wostreaming.net/direct/westwoodone-nbcsportsmp3-ibc1",
+    "category": "Sports",
+    "logo": "http://cdn-profiles.tunein.com/s179779/images/logoq.png"
+  },
+  {
+    "name": "The Ticket (Fort Wayne, IN)",
+    "url": "http://17443.live.streamtheworld.com/WGLAM.mp3",
+    "category": "Sports",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s29048q.png"
+  },
+  {
+    "name": "ESPN Radio Las Vegas (Las Vegas, NV)",
+    "url": "http://14943.live.streamtheworld.com:80/KWWNAM_SC",
+    "category": "Sports",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s68358q.png"
+  },
+  {
+    "name": "FOX Sports Radio 1270 AM/105.9 FM (Naples, FL)",
+    "url": "http://15693.live.streamtheworld.com:80/WFWNAM_SC",
+    "category": "Sports",
+    "logo": "http://cdn-profiles.tunein.com/s21511/images/logoq.png?t=636317"
+  },
+  {
+    "name": "The Horn (Austin, TX)",
+    "url": "http://arn.leanstream.co/KTXXFM-MP3",
+    "category": "Sports",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s26594q.png"
+  },
+  {
+    "name": "BYU Radio - KBYU-HD2 (Provo, UT)",
+    "url": "http://cdn.byub.org/byuradio/byuradio_mp3",
+    "category": "Sports",
+    "logo": "http://cdn-profiles.tunein.com/s52547/images/logoq.jpg?t=155265"
+  },
+  {
+    "name": "ESPN Milwaukee (Jackson, WI)",
+    "url": "http://34.211.146.67/goodkarma-waukammp3-ibc2",
+    "category": "Sports",
+    "logo": "http://cdn-profiles.tunein.com/s22569/images/logoq.jpg?t=152346"
+  },
+  {
+    "name": "ESPN Madison (Madison, WI)",
+    "url": "http://stream.abacast.net/direct/goodkarma-wtlxfmmp3-ibc2",
+    "category": "Sports",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s23193q.png"
+  },
+  {
+    "name": "1029 The Game (Portland, OR)",
+    "url": "https://live.wostreaming.net/direct/alphacorporate-kxtgammp3-ibc4",
+    "category": "Sports",
+    "logo": "http://cdn-profiles.tunein.com/s26496/images/logoq.png"
+  },
+  {
+    "name": "KNBR 680 (San Francisco, CA)",
+    "url": "http://15363.live.streamtheworld.com:80/KNBRAM_SC",
+    "category": "Sports",
+    "logo": "http://cdn-profiles.tunein.com/s34231/images/logoq.png?t=153392"
+  },
+  {
+    "name": "The Game (Pegram, TN)",
+    "url": "http://cromwell.leanstream.co/WPRTFM-MP3",
+    "category": "Sports",
+    "logo": "http://cdn-profiles.tunein.com/s22301/images/logoq.png?t=636441"
+  },
+  {
+    "name": "RSN Racing &amp; Sport (Melbourne, Australia)",
+    "url": "http://rsnshout.dyn.rsn.net.au:8000/rsn",
+    "category": "Sports",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s3007q.png"
+  },
+  {
+    "name": "talkSPORT 2 (UK)",
+    "url": "http://radio.talksport.com/stream2",
+    "category": "Sports",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s265443q.png"
+  },
+  {
+    "name": "Sports Radio 1450 (Springfield, IL)",
+    "url": "http://18123.live.streamtheworld.com:80/WFMBAM_SC",
+    "category": "Sports",
+    "logo": "http://cdn-profiles.tunein.com/s28790/images/logoq.png?t=151853"
+  },
+  {
+    "name": "The Rick &amp; Bubba Show",
+    "url": "http://s3.voscast.com:8916/",
+    "category": "Sports",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s208566q.png"
+  },
+  {
+    "name": "Sports Radio 810 WHB (Kansas City, MO)",
+    "url": "https://ais-sa2.cdnstream1.com/2270_64.mp3",
+    "category": "Sports",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s29237q.png"
+  },
+  {
+    "name": "ESPN Columbus (Columbus, OH)",
+    "url": "http://16803.live.streamtheworld.com:3690/WBNSAM_SC",
+    "category": "Sports",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s27544q.png"
+  },
+  {
+    "name": "The Roar (Clemson, SC)",
+    "url": "http://s2.radioreformation.com:8056/",
+    "category": "Sports",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s27782q.png"
+  },
+  {
+    "name": "talkRADIO (UK)",
+    "url": "http://radio.talkradio.co.uk/stream",
+    "category": "Sports",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s265666q.png"
+  },
+  {
+    "name": "Family Stations, Inc. (Philadelphia, PA)",
+    "url": "http://19293.live.streamtheworld.com:80/FAMILYRADIO_EAST_SC",
+    "category": "Sports",
+    "logo": "http://cdn-profiles.tunein.com/s183552/images/logoq.png?t=152838"
+  },
+  {
+    "name": "Helen FM (St. Lucia, Saint Lucia)",
+    "url": "http://media.carib.pro:80/radio100",
+    "category": "Sports",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s25068q.png"
+  },
+  {
+    "name": "The Score WI (Appleton, WI)",
+    "url": "http://147.135.84.28:80/wsco-am.mp3",
+    "category": "Sports",
+    "logo": "http://cdn-profiles.tunein.com/s18813/images/logoq.png?t=151551"
+  },
+  {
+    "name": "ESPN Arkansas (Barling, AR)",
+    "url": "http://18853.live.streamtheworld.com:80/ESPN_ARKANSAS_SC",
+    "category": "Sports",
+    "logo": "http://cdn-profiles.tunein.com/s35785/images/logoq.jpg?t=155595"
   },
   {
     "name": "CALM RADIO - Disney",
