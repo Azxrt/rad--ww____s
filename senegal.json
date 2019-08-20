@@ -1398,34 +1398,154 @@
     "logo": "https://cdn-radiotime-logos.tunein.com/s31426q.png"
   },
   {
-    "name": "ESPN Fantasy Sports",
+    "name": "BBC Radio 5 live (London, UK)",
+    "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p",
     "category": "Sports",
-    "url": "http://tunein.streamguys1.com/ESPNFantasySports",
-    "logo": "https://cdn-radiotime-logos.tunein.com/s224538q.png"
+    "logo": "http://cdn-radiotime-logos.tunein.com/s24943q.png"
   },
   {
-    "name": "Roma Radio",
+    "name": "98.7 FM ESPN New York (New York, NY)",
+    "url": "http://espn.edge-1.target.abacast.net/espn-wepnmp3-32",
     "category": "Sports",
-    "url": "http://ice2.hystream.com:8000/asroma",
-    "logo": "https://cdn-radiotime-logos.tunein.com/s231817q.png"
+    "logo": "http://cdn-profiles.tunein.com/s22469/images/logoq.jpg?t=1"
   },
   {
-    "name": "talkSPORT",
+    "name": "1070 The Fan (Indianapolis, IN)",
+    "url": "http://20263.live.streamtheworld.com:80/WFNIAM_SC",
     "category": "Sports",
+    "logo": "http://cdn-profiles.tunein.com/s29499/images/logoq.png?t=636313"
+  },
+  {
+    "name": "ESPN Radio",
+    "url": "http://us-east.edge-1.cis.abacast.net/direct/espn-networkmp3-48",
+    "category": "Sports",
+    "logo": "http://cdn-profiles.tunein.com/s25876/images/logoq.jpg?t=1"
+  },
+  {
+    "name": "Fox Sports Radio 1340 (Florence, AL)",
+    "url": "https://prod-34-229-7-242.wostreaming.net/bigriver-wsbmammp3-ibc1",
+    "category": "Sports",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s22711q.png"
+  },
+  {
+    "name": "ESPN Cleveland (Cleveland, OH)",
+    "url": "http://stream.abacast.net/direct/goodkarma-wknrammp3-ibc2",
+    "category": "Sports",
+    "logo": "http://cdn-profiles.tunein.com/s30315/images/logoq.png?t=152346"
+  },
+  {
+    "name": "104.3 The Fan (Longmont, CO)",
+    "url": "http://15383.live.streamtheworld.com:3690/KKFNFM_SC",
+    "category": "Sports",
+    "logo": "http://cdn-profiles.tunein.com/s33298/images/logoq.jpg?t=156560"
+  },
+  {
+    "name": "Arizona Sports (Phoenix, AZ)",
+    "url": "http://18493.live.streamtheworld.com:3690/KMVPFM_SC",
+    "category": "Sports",
+    "logo": "http://cdn-profiles.tunein.com/s33523/images/logoq.png?t=636431"
+  },
+  {
+    "name": "ESPN Chicago (Chicago, IL)",
+    "url": "http://espn.edge-1.target.abacast.net/espn-wmvpmp3-48",
+    "category": "Sports",
+    "logo": "http://cdn-profiles.tunein.com/s21297/images/logoq.jpg"
+  },
+  {
+    "name": "101 ESPN (St. Louis, IL)",
+    "url": "http://17493.live.streamtheworld.com:3690/WXOSFM_SC",
+    "category": "Sports",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s23633q.png"
+  },
+  {
+    "name": "680 The Fan (North Atlanta, GA)",
+    "url": "http://17273.live.streamtheworld.com:80/WCNNAM_SC",
+    "category": "Sports",
+    "logo": "http://cdn-profiles.tunein.com/s27965/images/logoq.jpg?t=154694"
+  },
+  {
+    "name": "The Team 980 (Washington, DC)",
+    "url": "http://17413.live.streamtheworld.com:80/WTEMAM_SC",
+    "category": "Sports",
+    "logo": "http://cdn-profiles.tunein.com/s23102/images/logoq.png?t=151739"
+  },
+  {
+    "name": "The Fan (Columbus, OH)",
+    "url": "http://18133.live.streamtheworld.com:3690/WBNSFM_SC",
+    "category": "Sports",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s27545q.png"
+  },
+  {
+    "name": "talkSPORT (London, UK)",
     "url": "http://radio.talksport.com/stream",
-    "logo": "https://cdn-radiotime-logos.tunein.com/s17077q.png"
+    "category": "Sports",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s17077q.png"
   },
   {
-    "name": "La Futbolera Radio",
+    "name": "SKOR North (Saint Paul, MN)",
+    "url": "http://18123.live.streamtheworld.com:80/KSTPAM_SC",
     "category": "Sports",
-    "url": "http://62.210.203.78:8093/",
-    "logo": "https://cdn-profiles.tunein.com/s120467/images/logoq.jpg"
+    "logo": "http://cdn-profiles.tunein.com/s7968/images/logoq.png?t=155748"
   },
   {
-    "name": "YAHOO! Sports",
+    "name": "ESPN Los Angeles (Los Angeles, CA)",
+    "url": "http://edge.espn.cdn.abacast.net/espn-kspnmp3-48",
     "category": "Sports",
-    "url": "http://18583.live.streamtheworld.com:3690/YAHOOSPORTSRADIO",
-    "logo": "https://cdn-radiotime-logos.tunein.com/s18302q.png"
+    "logo": "http://cdn-profiles.tunein.com/s32301/images/logoq.jpg?t=1"
+  },
+  {
+    "name": "710 ESPN Seattle (Seattle-Tacoma, WA)",
+    "url": "http://19223.live.streamtheworld.com:3690/KIROAM_SC",
+    "category": "Sports",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s33213q.png"
+  },
+  {
+    "name": "The Buzz (Little Rock, AR)",
+    "url": "https://prod-54-201-92-67.wostreaming.net/signalmedia-kabzfmmp3-ibc2",
+    "category": "Sports",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s31328q.png"
+  },
+  {
+    "name": "Clare FM (Ennis, Ireland)",
+    "url": "http://tx.sharp-stream.com/icecast.php?i=clarefm.mp3",
+    "category": "Sports",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s24966q.png"
+  },
+  {
+    "name": "ESPN Baton Rouge (Baton Rouge, LA)",
+    "url": "http://18393.live.streamtheworld.com:80/WNXXFM_SC",
+    "category": "Sports",
+    "logo": "http://cdn-profiles.tunein.com/s24419/images/logoq.png?t=636304"
+  },
+  {
+    "name": "SEN Sports (Melbourne, Australia)",
+    "url": "http://13.54.221.214:8000/sen.mp3",
+    "category": "Sports",
+    "logo": "http://cdn-profiles.tunein.com/s47357/images/logoq.png?t=156277"
+  },
+  {
+    "name": "650 CKOM News Talk Sports (Saskatoon, Canada)",
+    "url": "http://rawlco.leanstream.co/CKOMAM-MP3",
+    "category": "Sports",
+    "logo": "http://cdn-profiles.tunein.com/s7748/images/logoq.jpg"
+  },
+  {
+    "name": "ABC Grandstand (Australia)",
+    "url": "http://live-radio01.mediahubaustralia.com/GSDW/mp3/",
+    "category": "Sports",
+    "logo": "http://cdn-profiles.tunein.com/s47283/images/logoq.png?t=152750"
+  },
+  {
+    "name": "ESPN 97.5 Houston (Mont Belvieu, TX)",
+    "url": "http://14523.live.streamtheworld.com:3690/KFNCFM_SC",
+    "category": "Sports",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s35198q.png"
+  },
+  {
+    "name": "AM830 KLAA (Orange, CA)",
+    "url": "http://klaa.streamguys1.com/live",
+    "category": "Sports",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s34679q.png"
   },
   {
     "name": "CALM RADIO - Disney",
