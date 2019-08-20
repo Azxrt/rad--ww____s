@@ -1470,12 +1470,6 @@
     "logo": "https://static.radio.net/images/broadcasts/2c/d6/35197/c175.png"
   },
   {
-    "name": "CALM RADIO - Solo",
-    "category": "Relaxing Music",
-    "url": "http://streams.calmradio.com:1228/stream/1/",
-    "logo": "https://static.radio.net/images/broadcasts/61/3c/35202/c175.png"
-  },
-  {
     "name": "CALM RADIO - Classical Guitar",
     "category": "Relaxing Music",
     "url": "http://streams.calmradio.com:2728/stream/1/",
@@ -1566,12 +1560,6 @@
     "logo": "https://static.radio.net/images/broadcasts/98/6b/35226/c175.png"
   },
   {
-    "name": "CALM RADIO - Positivity",
-    "category": "Relaxing Music",
-    "url": "http://streams.calmradio.com:30528/stream/1/",
-    "logo": "https://static.radio.net/images/broadcasts/aa/b0/35216/c175.png"
-  },
-  {
     "name": "CALM RADIO - Balance",
     "category": "Relaxing Music",
     "url": "http://streams.calmradio.com:30528/stream/1/",
@@ -1654,12 +1642,6 @@
     "category": "Relaxing Music",
     "url": "http://37.59.121.120:9390/stream",
     "logo": "http://cdn-radiotime-logos.tunein.com/s297114q.png"
-  },
-  {
-    "name": "Radio Relax",
-    "category": "Relaxing Music",
-    "url": "http://199.195.194.94:8036/stream/;",
-    "logo": "https://cdn-profiles.tunein.com/s304713/images/logoq.jpg"
   },
   {
     "name": "WJCT Relax Radio HD3",
