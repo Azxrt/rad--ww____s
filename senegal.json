@@ -636,6 +636,24 @@
     "logo": "https://cdn-radiotime-logos.tunein.com/s82381q.png"
   },
   {
+    "name": "Kervan FM",
+    "category": "Islamic",
+    "url": "http://yayin2.canliyayin.org:9374/;",
+    "logo": "https://canliradyodinle.web.tr/wp-content/uploads/2013/01/kervan-fm.jpg"
+  },
+  {
+    "name": "Radio Mevlana",
+    "category": "Islamic",
+    "url": "http://radyo.radyomevlana.com:8166/stream/1/",
+    "logo": "https://static.radio.net/images/broadcasts/58/7d/32623/c175.png"
+  },
+  {
+    "name": "Buzzislam",
+    "category": "Islamic",
+    "url": "http://178.32.62.172:9031/stream",
+    "logo": "https://images.radiovolna.net/_files/uploads/posts/2016-06/2a8836467172a2e391356e9713d03f89.png"
+  },
+  {
     "name": "duas kumayl",
     "category": "Islamic",
     "url": "https://www.duas.org/mp3/kumail.mp3",
@@ -680,7 +698,7 @@
   {
     "name": "América Dance 90's",
     "category": "Top Eurodance Radio Stations",
-    "url": "http://stm8.srvstm.com:8212/;",
+    "url": "http://stm8.srvstm.com:8212/1",
     "logo": "https://i3.radionomy.com/radios/67/39de47f6-f359-42f7-8d2a-a9bc549cb02c.png"
   },
   {
@@ -736,12 +754,6 @@
     "category": "Top Eurodance Radio Stations",
     "url": "http://relay.181.fm:8044/",
     "logo": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/xv8fazrfgh27.png"
-  },
-  {
-    "name": "danceanos90.com.br",
-    "category": "Top Eurodance Radio Stations",
-    "url": "https://americadance90.com.br/americadance90/",
-    "logo": "https://cdsmixados.com.br/fotos_upload/imagem_remota_2771148022_1000352791_250.jpg"
   },
   {
     "name": "Eurodance 90 - Dance Anos 90",
@@ -1416,237 +1428,333 @@
     "logo": "https://cdn-radiotime-logos.tunein.com/s18302q.png"
   },
   {
-    "name": "Relaxation Island",
-    "category": "Relax Music",
-    "url": "http://s2.voscast.com:7932/;",
-    "logo": "https://static-media.streema.com/media/cache/c6/dc/c6dc576616c571bf89cf66a45f684f71.jpg"
-  },
-  {
-    "name": "FM Relax",
-    "category": "Relax Music",
-    "url": "http://online-radiorelax.tavrmedia.ua/RadioRelax",
-    "logo": "https://static-media.streema.com/media/cache/a0/08/a00826de9228708bc063faed0e2e5b53.jpg"
-  },
-  {
-    "name": "Vibration 108 - Zen Relax",
-    "category": "Relax Music",
-    "url": "http://icecast.stream2net.eu/vibrationzenrelax-128k.mp3",
-    "logo": "https://static-media.streema.com/media/cache/04/a3/04a3e97efb97e0276b806c4e6965d96e.jpg"
-  },
-  {
-    "name": "Radio Dimensione Relax",
-    "category": "Relax Music",
-    "url": "http://tachyon.shoutca.st:8919/stream",
-    "logo": "https://static-media.streema.com/media/cache/e9/11/e911001a434bc49ce31a51f580aa111c.jpg"
-  },
-  {
-    "name": "Relax FM 104.3",
-    "category": "Relax Music",
-    "url": "http://5.20.223.18/relaxfm128.mp3",
-    "logo": "https://static-media.streema.com/media/cache/77/df/77df9afff1274f19a7386626a8392d6c.jpg"
-  },
-  {
-    "name": "Word of Truth Radio Relaxin",
-    "category": "Relax Music",
-    "url": "http://199.189.86.22:80/",
-    "logo": "https://static-media.streema.com/media/cache/ca/2d/ca2dfbde6ccd48135c76bd31ca0e279b.jpg"
-  },
-  {
-    "name": "Radio Relax",
-    "category": "Relax Music",
-    "url": "http://radiorelax.stream.laut.fm/radio_relax",
-    "logo": "https://static-media.streema.com/media/cache/81/a3/81a328f5209ee852003c95c1567121b6.jpg"
-  },
-  {
-    "name": "Radio Relaxo",
-    "category": "Relax Music",
-    "url": "http://192.99.34.205:8360/stream",
-    "logo": "https://static-media.streema.com/media/cache/1a/27/1a2710989e2582cad95d76f6e3d3b243.jpg"
-  },
-  {
-    "name": "Relax Music",
-    "category": "Relax Music",
-    "url": "http://67.23.242.202:8049/stream",
-    "logo": "https://static-media.streema.com/media/cache/f1/df/f1df2f435c0bfa3762daca4d38ab7373.jpg"
-  },
-  {
-    "name": "MPR - Your Classical",
-    "category": "Relax Music",
-    "url": "http://relax.stream.publicradio.org/relax.mp3",
-    "logo": "https://static-media.streema.com/media/cache/2d/ee/2deecc32c005a16a6dcc509ca44229e5.jpg"
-  },
-  {
-    "name": "Radio Caprice Relax",
-    "category": "Relax Music",
-    "url": "http://79.120.39.202:8002/relaxation",
-    "logo": "https://static-media.streema.com/media/cache/d6/74/d67443277e0788be4049631e984416c9.jpg"
-  },
-  {
-    "name": "San FM Relax",
-    "category": "Relax Music",
-    "url": "http://sanfm.ru:8000/relax",
-    "logo": "https://static-media.streema.com/media/cache/b7/fd/b7fd1475203df35f6a6a0ad79ecd9162.jpg"
-  },
-  {
-    "name": "VIP-Radio.FM - Relax",
-    "category": "Relax Music",
-    "url": "http://149.202.179.123:8045/stream-128kmp3-RelaxZone",
-    "logo": "https://static-media.streema.com/media/cache/8b/e9/8be978aa0003c229c404a703bbad8009.jpg"
-  },
-  {
-    "name": "Radio La Vida - Launge",
-    "category": "Relax Music",
-    "url": "http://98.142.109.211:8017/autodj",
-    "logo": "https://static-media.streema.com/media/cache/5d/f6/5df6b3e4c07c86d2763a159eb64b7a07.jpg"
-  },
-  {
-    "name": "ABC Relax",
-    "category": "Relax Music",
-    "url": "http://91.121.86.78:8141/live",
-    "logo": "https://static-media.streema.com/media/cache/2e/a6/2ea685bba591fba1a2af7378a6c13d00.jpg"
-  },
-  {
-    "name": "RMN Relax",
-    "category": "Relax Music",
-    "url": "http://aacplus.rmnrelax.de:8022/rmnrelax.aac",
-    "logo": "https://static-media.streema.com/media/cache/fd/4c/fd4c802a9fb1ee332ae7d4386d3c00e7.jpg"
-  },
-  {
-    "name": "VIP-Radio.FM",
-    "category": "Relax Music",
-    "url": "http://149.202.179.123:8048/stream-128kmp3-TimeToRelax",
-    "logo": "https://static-media.streema.com/media/cache/df/fb/dffb5f3bcce708e7915520fa6cee1c21.jpg"
-  },
-  {
-    "name": "Релакс ФМ",
-    "category": "Relax Music",
-    "url": "http://ic2.101.ru:8000/v13_1",
-    "logo": "https://static-media.streema.com/media/cache/39/04/3904cac7e595cd3b8bbb9c420ec255e3.jpg"
-  },
-  {
-    "name": "Radio Bhudda Bar",
-    "category": "Relax Music",
-    "url": "http://streaming.radionomy.com/buddha-bar",
-    "logo": "https://static-media.streema.com/media/cache/41/b9/41b98e2c9650ceef28a89a26d946278b.jpg"
-  },
-  {
-    "name": "Air-Lounge",
-    "category": "Relax Music",
-    "url": "http://streaming.radionomy.com/JamendoLounge",
-    "logo": "https://static-media.streema.com/media/cache/88/f9/88f9d2ad81a44f3c0061c036ed0b30e8.jpg"
-  },
-  {
-    "name": "Sunshine Fun Radio",
-    "category": "Relax Music",
-    "url": "http://stream.sunshine-fun-radio.de:10000/;",
-    "logo": "https://static-media.streema.com/media/cache/f4/70/f470f1f946036ba789e75a2aa0c51974.jpg"
-  },
-  {
-    "name": "Master of Chillout ",
-    "category": "Relax Music",
-    "url": "http://streaming.radionomy.com/Chill-Relaxing-Positive-Work-Study-Relax",
-    "logo": "https://static-media.streema.com/media/cache/c6/b7/c6b71f40c389e097b68c6c504942a422.jpg"
-  },
-  {
-    "name": "Yimago Radio 4",
-    "category": "Relax Music",
-    "url": "http://199.195.194.94:8109/stream/",
-    "logo": "https://static-media.streema.com/media/cache/93/13/9313a34b3a210e38b29bfb5d31c2a5c5.jpg"
-  },
-  {
-    "name": "Radio Nature",
-    "category": "Relax Music",
-    "url": "http://streaming.radionomy.com/RadioNature",
-    "logo": "https://static-media.streema.com/media/cache/a8/b2/a8b2136770b9e7d3cab0ea2e975233a3.jpg"
-  },
-  {
-    "name": "WRSA-DB Beautiful 97",
-    "category": "Relax Music",
-    "url": "http://streaming.radionomy.com/WRSA-97",
-    "logo": "https://static-media.streema.com/media/cache/22/20/2220a6ebc00a1c8f8383c9134e2beb29.jpg"
-  },
-  {
-    "name": "Radio PLENITUDE",
-    "category": "Relax Music",
-    "url": "https://listen.radioking.com/radio/117271/stream/159004",
-    "logo": "https://static-media.streema.com/media/cache/58/06/5806debb85d4a251bfbc18db38168775.jpg"
-  },
-  {
-    "name": "Radio You & Me",
-    "category": "Relax Music",
-    "url": "http://5.39.82.157:8020/stream",
-    "logo": "https://static-media.streema.com/media/cache/c5/6a/c56acf90644004a77742687e24312733.jpg"
-  },
-  {
-    "name": "Calm Radio - Spa",
-    "category": "Relax Music",
-    "url": "http://148.72.152.10:30328/stream",
-    "logo": "https://static-media.streema.com/media/cache/0f/61/0f612df291090b248745ec189bc2986d.jpg"
-  },
-  {
-    "name": "Calm Radio - Harp",
-    "category": "Relax Music",
-    "url": "http://148.72.152.10:4328/stream",
-    "logo": "https://static-media.streema.com/media/cache/c4/d1/c4d1aeaaffa8c42653caa72d8924a1af.jpg"
+    "name": "CALM RADIO - Disney",
+    "category": "Relaxing Music",
+    "url": "http://streams.calmradio.com:19528/stream/1/",
+    "logo": "https://static.radio.net/images/broadcasts/d6/57/109946/1/c175.png"
   },
   {
     "name": "Calm Radio - Solo Guitar",
-    "category": "Relax Music",
-    "url": "http://148.72.152.10:2628/stream",
+    "category": "Relaxing Music",
+    "url": "http://streams.calmradio.com:2628/stream/1/",
     "logo": "https://static-media.streema.com/media/cache/7c/9c/7c9c3592eb004c7287ddad7b2acce1ec.jpg"
   },
   {
     "name": "Calm Radio - Classical Piano",
-    "category": "Relax Music",
-    "url": "http://148.72.152.10:30928/stream",
+    "category": "Relaxing Music",
+    "url": "http://streams.calmradio.com:1228/stream/1/",
     "logo": "https://static-media.streema.com/media/cache/0f/61/0f612df291090b248745ec189bc2986d.jpg"
   },
   {
     "name": "Calm Radio - Sleep",
-    "category": "Relax Music",
-    "url": "http://148.72.152.10:30628/stream",
+    "category": "Relaxing Music",
+    "url": "http://streams.calmradio.com:30628/stream/1/",
     "logo": "https://static-media.streema.com/media/cache/ab/66/ab66df936b3a459ed3a8d4aeb0ef6c89.jpg"
   },
   {
-    "name": "Play Emotions",
-    "category": "Relax Music",
-    "url": "http://91.121.38.216:8054/;",
-    "logo": "https://static-media.streema.com/media/cache/e2/b7/e2b7677a417df980649f1039546f3ade.jpg"
+    "name": "CALM RADIO - Jazz Guitar",
+    "category": "Relaxing Music",
+    "url": "http://streams.calmradio.com:13128/stream/1/",
+    "logo": "https://static.radio.net/images/broadcasts/5e/c8/35324/c175.png"
   },
   {
-    "name": "Calm Radio - Classical Mix",
-    "category": "Relax Music",
-    "url": "http://148.72.152.10:2828/stream",
-    "logo": "https://static-media.streema.com/media/cache/0f/61/0f612df291090b248745ec189bc2986d.jpg"
+    "name": "CALM RADIO - Solo Piano & Guitar",
+    "category": "Relaxing Music",
+    "url": "http://streams.calmradio.com:30228/stream/1/",
+    "logo": "https://static.radio.net/images/broadcasts/07/17/35201/c175.png"
   },
   {
-    "name": "CROOZE - chillout CROOZE",
-    "category": "Relax Music",
-    "url": "http://84.22.102.11:8006/stream128",
-    "logo": "https://static-media.streema.com/media/cache/2f/ee/2fee8b0e5b3d472371a2a94a15b60a70.jpg"
+    "name": "CALM RADIO - Mozart",
+    "category": "Relaxing Music",
+    "url": "http://streams.calmradio.com:7328/stream/1/",
+    "logo": "https://static.radio.net/images/broadcasts/2c/d6/35197/c175.png"
   },
   {
-    "name": "Luxe FM",
-    "category": "Relax Music",
-    "url": "http://streaming.radionomy.com/JamendoLounge",
-    "logo": "https://static-media.streema.com/media/cache/fd/86/fd865ee8fb1352730f6fe80ae9434453.jpg"
+    "name": "CALM RADIO - Solo",
+    "category": "Relaxing Music",
+    "url": "http://streams.calmradio.com:1228/stream/1/",
+    "logo": "https://static.radio.net/images/broadcasts/61/3c/35202/c175.png"
   },
   {
-    "name": "Costa Del Mar - Chillout",
-    "category": "Relax Music",
-    "url": "http://stream.cdm-chillout.com:8020/stream-mp3-Chill",
-    "logo": "https://static-media.streema.com/media/cache/4e/4e/4e4ebac32ef5049dc1092d9dcb1f6fc8.jpg"
+    "name": "CALM RADIO - Classical Guitar",
+    "category": "Relaxing Music",
+    "url": "http://streams.calmradio.com:2728/stream/1/",
+    "logo": "https://static.radio.net/images/broadcasts/8d/49/35199/c175.png"
   },
   {
-    "name": "1.FM - Chillout Lounge",
-    "category": "Relax Music",
-    "url": "http://sc1c-sjc.1.fm:7008/",
-    "logo": "https://static-media.streema.com/media/cache/f6/50/f650abbcb65be11c7547f847a3468019.jpg"
+    "name": "CALM RADIO - Jazz Piano",
+    "category": "Relaxing Music",
+    "url": "http://streams.calmradio.com:30728/stream/1/",
+    "logo": "https://static.radio.net/images/broadcasts/4c/1e/35327/c175.png"
   },
   {
-    "name": "Antenne Bayern - Chillout",
-    "category": "Relax Music",
-    "url": "http://mp3channels.webradio.antenne.de/chillout",
-    "logo": "https://static-media.streema.com/media/cache/cc/7c/cc7c8472d761593a62a1ccde430e3fd9.jpg"
+    "name": "CALM RADIO - Flamenco",
+    "category": "Relaxing Music",
+    "url": "http://streams.calmradio.com:4928/stream/1/",
+    "logo": "https://static.radio.net/images/broadcasts/9b/cf/35349/c175.png"
+  },
+  {
+    "name": "CALM RADIO - Om",
+    "category": "Relaxing Music",
+    "url": "http://streams.calmradio.com:4728/stream/1/",
+    "logo": "https://static.radio.net/images/broadcasts/f5/99/35218/c175.png"
+  },
+  {
+    "name": "CALM RADIO - Bachata",
+    "category": "Relaxing Music",
+    "url": "http://streams.calmradio.com:9828/stream/1/",
+    "logo": "https://static.radio.net/images/broadcasts/7c/24/35345/c175.png"
+  },
+  {
+    "name": "CALM RADIO - Symphony",
+    "category": "Relaxing Music",
+    "url": "http://streams.calmradio.com:1028/stream/1/",
+    "logo": "https://static.radio.net/images/broadcasts/48/ac/35231/c175.png"
+  },
+  {
+    "name": "CALM RADIO - Musicals",
+    "category": "Relaxing Music",
+    "url": "http://streams.calmradio.com:18728/stream/1/",
+    "logo": "https://static.radio.net/images/broadcasts/74/87/109947/1/c175.png"
+  },
+  {
+    "name": "CALM RADIO - Haydn",
+    "category": "Relaxing Music",
+    "url": "http://streams.calmradio.com:7228/stream/1/",
+    "logo": "https://static.radio.net/images/broadcasts/23/ea/35286/c175.png"
+  },
+  {
+    "name": "CALM RADIO - Folk",
+    "category": "Relaxing Music",
+    "url": "http://streams.calmradio.com:3528/stream/1/",
+    "logo": "https://static.radio.net/images/broadcasts/11/6f/35206/c175.png"
+  },
+  {
+    "name": "CALM RADIO - Aloha",
+    "category": "Relaxing Music",
+    "url": "http://streams.calmradio.com:15728/stream/1/",
+    "logo": "https://static.radio.net/images/broadcasts/c1/88/35332/c175.png"
+  },
+  {
+    "name": "CALM RADIO - Lounge",
+    "category": "Relaxing Music",
+    "url": "http://streams.calmradio.com:6628/stream/1/",
+    "logo": "https://static.radio.net/images/broadcasts/c1/87/35212/c175.png"
+  },
+  {
+    "name": "CALM RADIO - Flute",
+    "category": "Relaxing Music",
+    "url": "http://streams.calmradio.com:4828/stream/1/",
+    "logo": "https://static.radio.net/images/broadcasts/27/f4/35278/c175.png"
+  },
+  {
+    "name": "CALM RADIO - Lullaby",
+    "category": "Relaxing Music",
+    "url": "http://streams.calmradio.com:19728/stream/1/",
+    "logo": "https://static.radio.net/images/broadcasts/51/ec/109936/1/c175.png"
+  },
+  {
+    "name": "CALM RADIO - Zen",
+    "category": "Relaxing Music",
+    "url": "http://streams.calmradio.com:14028/stream/1/",
+    "logo": "https://static.radio.net/images/broadcasts/0f/c8/35209/c175.png"
+  },
+  {
+    "name": "CALM RADIO - Movieola",
+    "category": "Relaxing Music",
+    "url": "http://streams.calmradio.com:3128/stream/1/",
+    "logo": "https://static.radio.net/images/broadcasts/98/6b/35226/c175.png"
+  },
+  {
+    "name": "CALM RADIO - Positivity",
+    "category": "Relaxing Music",
+    "url": "http://streams.calmradio.com:30528/stream/1/",
+    "logo": "https://static.radio.net/images/broadcasts/aa/b0/35216/c175.png"
+  },
+  {
+    "name": "CALM RADIO - Balance",
+    "category": "Relaxing Music",
+    "url": "http://streams.calmradio.com:30528/stream/1/",
+    "logo": "https://static.radio.net/images/broadcasts/aa/b0/35216/c175.png"
+  },
+  {
+    "name": "Calm Radio - Singing Bowls",
+    "category": "Relaxing Music",
+    "url": "http://streams.calmradio.com/api/251/128/stream",
+    "logo": "https://cdn-profiles.tunein.com/s167032/images/logoq.jpg"
+  },
+  {
+    "name": "CALM RADIO - Cello",
+    "category": "Relaxing Music",
+    "url": "http://streams.calmradio.com:4628/stream/1/",
+    "logo": "https://static.radio.net/images/broadcasts/f8/43/35277/c175.png"
+  },
+  {
+    "name": "RADIO RELAX",
+    "category": "Relaxing Music",
+    "url": "https://stream.laut.fm/radio_relax",
+    "logo": "https://assets.laut.fm/d13a88120906e6ca64932f461c86050b?t=_640x640"
+  },
+  {
+    "name": "Relax Zone",
+    "category": "Relaxing Music",
+    "url": "http://relax-zone.vip-radios.fm:8045/stream-128kmp3-RelaxZone",
+    "logo": "https://cdn-profiles.tunein.com/s302892/images/logoq.jpg"
+  },
+  {
+    "name": "Radio Relax Instrumental",
+    "category": "Relaxing Music",
+    "url": "http://online-radiorelax2.tavrmedia.ua/RadioRelax_Instrumental",
+    "logo": "https://cdn-profiles.tunein.com/s224284/images/logoq.png"
+  },
+  {
+    "name": "Radio Relax International-2",
+    "category": "Relaxing Music",
+    "url": "http://online2.radiorelax.ua/RadioRelax_Int",
+    "logo": "https://cdn-profiles.tunein.com/s224284/images/logoq.png"
+  },
+  {
+    "name": "Radio Relax Ukraine",
+    "category": "Relaxing Music",
+    "url": "http://online-radiorelax.tavrmedia.ua/RadioRelax",
+    "logo": "https://cdn-profiles.tunein.com/s224284/images/logoq.png"
+  },
+  {
+    "name": "Radio Relax Christmas",
+    "category": "Relaxing Music",
+    "url": "http://online-radiorelax2.tavrmedia.ua/RadioRelax_Christmas",
+    "logo": "https://cdn-profiles.tunein.com/s237730/images/logoq.png"
+  },
+  {
+    "name": "Soundstorm - Relax Radio",
+    "category": "Relaxing Music",
+    "url": "http://stream.soundstorm-radio.com:8000/stream1",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s113468q.png"
+  },
+  {
+    "name": "Aloha Joe's Relaxation Island",
+    "category": "Relaxing Music",
+    "url": "http://s2.voscast.com:7932/",
+    "logo": "http://relaxation-island.com/GRAPHICS/51QHhoLjy8L._SL210_.jpg"
+  },
+  {
+    "name": "Aplus Relax",
+    "category": "Relaxing Music",
+    "url": "http://shoutcast.aplus.by:9000/aplus_relax_24.aac",
+    "logo": "https://www.radiobells.com/stations/aplusrelax.jpg"
+  },
+  {
+    "name": "RADIO PSR Relax",
+    "category": "Relaxing Music",
+    "url": "http://psr.hoerradar.de/psr-relax-mp3-hq",
+    "logo": "https://cdn-profiles.tunein.com/s306590/images/logoq.png"
+  },
+  {
+    "name": "Intimidad relax",
+    "category": "Relaxing Music",
+    "url": "http://37.59.121.120:9390/stream",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s297114q.png"
+  },
+  {
+    "name": "Radio Relax",
+    "category": "Relaxing Music",
+    "url": "http://199.195.194.94:8036/stream/;",
+    "logo": "https://cdn-profiles.tunein.com/s304713/images/logoq.jpg"
+  },
+  {
+    "name": "WJCT Relax Radio HD3",
+    "category": "Relaxing Music",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WJCTHD3.mp3",
+    "logo": "https://cdn-profiles.tunein.com/s67042/images/logoq.png"
+  },
+  {
+    "name": "Relax Electronic",
+    "category": "Relaxing Music",
+    "url": "http://82.146.35.241:8000/relax64",
+    "logo": "https://cdn-profiles.tunein.com/s279083/images/logoq.jpg"
+  },
+  {
+    "name": "Radio Dimensione Relax",
+    "category": "Relaxing Music",
+    "url": "http://tachyon.shoutca.st:8919/stream",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s260893q.png"
+  },
+  {
+    "name": "Time To relax",
+    "category": "Relaxing Music",
+    "url": "http://149.202.179.123:8048/stream-128kmp3-TimeToRelax",
+    "logo": "https://cdn-profiles.tunein.com/s302898/images/logoq.jpg"
+  },
+  {
+    "name": "Radio Relax Cafe",
+    "category": "Relaxing Music",
+    "url": "http://online-radiorelax2.tavrmedia.ua/RadioRelax_Cafe",
+    "logo": "https://cdn-profiles.tunein.com/s305859/images/logoq.png"
+  },
+  {
+    "name": "Music Lake - Relaxation, Meditation",
+    "category": "Relaxing Music",
+    "url": "http://50.7.68.251:7168/stream",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s240485q.png"
+  },
+  {
+    "name": "Vibration Zen relax",
+    "category": "Relaxing Music",
+    "url": "http://vibration.stream2net.eu:8220",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s240346q.png"
+  },
+  {
+    "name": "Ambi Nature Radio (Sleep, Relaxation & Meditation)",
+    "category": "Relaxing Music",
+    "url": "http://94.23.252.14:8067/stream",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s266086q.png"
+  },
+  {
+    "name": "RH Ambient & Relaxing Music",
+    "category": "Relaxing Music",
+    "url": "http://158.69.253.153:5842/stream",
+    "logo": "https://cdn-profiles.tunein.com/s165934/images/logoq.jpg"
+  },
+  {
+    "name": "R.SH Relax",
+    "category": "Relaxing Music",
+    "url": "http://rsh.hoerradar.de/rsh-relax-mp3-hq",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s275739q.png"
+  },
+  {
+    "name": "Arabella Relax",
+    "category": "Relaxing Music",
+    "url": "http://arabella.stream.kapper.net:8015/heroldrelax",
+    "logo": "https://cdn-profiles.tunein.com/s247128/images/logoq.jpg"
+  },
+  {
+    "name": "The Chill",
+    "category": "Relaxing Music",
+    "url": "http://comet.shoutca.st:8444/stream",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s277635q.png"
+  },
+  {
+    "name": "In the Mood Music",
+    "category": "Relaxing Music",
+    "url": "http://live.inthemoodmusic.com:8080",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s118874q.png"
+  },
+  {
+    "name": "Digital Impulse - Christmas Channel",
+    "category": "Relaxing Music",
+    "url": "http://orion.shoutca.st:8982/stream",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s258727q.png"
+  },
+  {
+    "name": "Radio Alquima",
+    "category": "Relaxing Music",
+    "url": "http://server2.crearradio.com:8641/stream",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s260674q.png"
+  },
+  {
+    "name": "1.FM - Destination: SPA Radio",
+    "category": "Relaxing Music",
+    "url": "http://strm112.1.fm:80/spa_mobile_mp3",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s126408q.png"
   }
 ]
