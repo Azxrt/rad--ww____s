@@ -6,6 +6,156 @@
     "category": "MARATHI"
   },
   {
+    "name": "Divyavani Sanskrit Radio",
+    "url": "http://epsilon.shoutca.st:8070/autodj",
+    "logo": "http://shortfilmsite.com/images/divyavani.jpg",
+    "category": "MARATHI"
+  },
+  {
+    "name": "Shripad Radio Marathi",
+    "url": "http://144.217.203.184:8112/;stream.mp3",
+    "logo": "http://shortfilmsite.com/images/shripadradio.jpg",
+    "category": "MARATHI"
+  },
+  {
+    "name": "Sharada Krishi Vahini",
+    "url": "http://158.69.4.171:8053/stream",
+    "logo": "http://shortfilmsite.com/images/sharadakrishivahini.jpg",
+    "category": "MARATHI"
+  },
+  {
+    "name": "FM Gold Mumbai",
+    "url": "http://nondelhi-lh.akamaihd-staging.net/i/goldmumb_1@830453/master.m3u8",
+    "logo": "http://shortfilmsite.com/images/fmgold.jpg",
+    "category": "MARATHI"
+  },
+  {
+    "name": "Maayboli",
+    "url": "http://stream.zenolive.com/463d8uzrwfeuv",
+    "logo": "http://shortfilmsite.com/images/maayboli.jpg",
+    "category": "MARATHI"
+  },
+  {
+    "name": "Jalsavad Radio",
+    "url": "http://198.50.156.92:8769/stream",
+    "logo": "http://shortfilmsite.com/images/jalsavadradio.jpg",
+    "category": "MARATHI"
+  },
+  {
+    "name": "FM Rainbow Mumbai",
+    "url": "http://nondelhi-lh.akamaihd-staging.net/i/rainmumb_1@830454/master.m3u8",
+    "logo": "http://shortfilmsite.com/images/fmrainbow.jpg",
+    "category": "MARATHI"
+  },
+  {
+    "name": "Mirchi Mumbai Marathi",
+    "url": "https://marathimumbai-lh.akamaihd.net/i/Marathimumbai_1@710773/master.m3u8",
+    "logo": "http://shortfilmsite.com/images/mirchimumbaimarathi.jpg",
+    "category": "MARATHI"
+  },
+  {
+    "name": "Radio Jay Bhim",
+    "url": "http://85.93.91.10:8144/stream",
+    "logo": "http://shortfilmsite.com/images/radiojaybhim.jpg",
+    "category": "MARATHI"
+  },
+  {
+    "name": "AIR Marathi",
+    "url": "http://airmarathi-lh.akamaihd.net/i/airmarathi_1@507815/master.m3u8",
+    "logo": "http://shortfilmsite.com/images/air.jpg",
+    "category": "MARATHI"
+  },
+  {
+    "name": "MGM 90.8 FM",
+    "url": "http://dz1aqwz3bmbil.cloudfront.net/mgmradio.m3u8",
+    "logo": "http://shortfilmsite.com/images/mgmcommunityradio.jpg",
+    "category": "MARATHI"
+  },
+  {
+    "name": "Radio One Pune",
+    "url": "http://stream.zenolive.com/5b52y1ytz2quv",
+    "logo": "http://shortfilmsite.com/images/radioonepune.jpg",
+    "category": "MARATHI"
+  },
+  {
+    "name": "Radio City Pune ",
+    "url": "http://stream.zenolive.com/0v0symztz2quv",
+    "logo": "http://shortfilmsite.com/images/radiocity.jpg",
+    "category": "MARATHI"
+  },
+  {
+    "name": "Red FM Pune",
+    "url": "http://stream.zenolive.com/bqfr624ng0quv",
+    "logo": "http://shortfilmsite.com/images/redfm.jpg",
+    "category": "MARATHI"
+  },
+  {
+    "name": "AIR Sangli",
+    "url": "http://nondelhi-lh.akamaihd.net/i/gangtok_1@832725/master.m3u8",
+    "logo": "http://shortfilmsite.com/images/air.jpg",
+    "category": "MARATHI"
+  },
+  {
+    "name": "Anant Radio",
+    "url": "http://ample-zeno-23.radiojar.com/n5xdm01w4ueuv",
+    "logo": "http://shortfilmsite.com/images/anantradio.jpg",
+    "category": "MARATHI"
+  },
+  {
+    "name": "Radio Zhakkas",
+    "url": "http://zhakkasmarathi.out.airtime.pro:8000/zhakkasmarathi_a",
+    "logo": "https://shortfilmsite.com/images/radiozhakkas.jpg",
+    "category": "MARATHI"
+  },
+  {
+    "name": "Parbhani 90.8 FM",
+    "url": "http://dblmzwzu145x2.cloudfront.net/parnbaniradio.m3u8",
+    "logo": "http://shortfilmsite.com/images/parbhanifm.jpg",
+    "category": "MARATHI"
+  },
+  {
+    "name": "Puneri Awaz Radio Pune",
+    "url": "http://icecast.bkwsu.eu/radio-awaz-pune.mp3",
+    "logo": "http://shortfilmsite.com/images/puneriawaz.jpg",
+    "category": "MARATHI"
+  },
+  {
+    "name": "AIR Solapur",
+    "url": "http://nondelhi-lh.akamaihd.net/i/airlsmp006_1@838089/master.m3u8",
+    "logo": "http://shortfilmsite.com/images/air.jpg",
+    "category": "MARATHI"
+  },
+  {
+    "name": "AIR Jalgaon",
+    "url": "http://airlsmp_2-lh.akamaihd-staging.net/i/AIRLSMP046_1@863797/master.m3u8",
+    "logo": "http://shortfilmsite.com/images/air.jpg",
+    "category": "MARATHI"
+  },
+  {
+    "name": "90.4 FM Cottan City Akola",
+    "url": "http://dczu40pz0y8z6.cloudfront.net/cottoncityakola.m3u8",
+    "logo": "http://shortfilmsite.com/images/cottancityakola.jpg",
+    "category": "MARATHI"
+  },
+  {
+    "name": "Radio VatsaGulm",
+    "url": "http://streamasiacdn.atc-labs.com/radiovatsagulm.aac",
+    "logo": "http://shortfilmsite.com/images/radiovatsagulm.jpg",
+    "category": "MARATHI"
+  },
+  {
+    "name": "Samvadita Mumbai",
+    "url": "http://nondelhi-lh.akamaihd-staging.net/i/pcmumbai_1@830455/master.m3u8",
+    "logo": "http://shortfilmsite.com/images/air.jpg",
+    "category": "MARATHI"
+  },
+  {
+    "name": "AIR Ahmednagar",
+    "url": "http://airlsmp3-lh.akamaihd-staging.net/i/AIRLSMP080_1@866628/master.m3u8",
+    "logo": "http://shortfilmsite.com/images/air.jpg",
+    "category": "MARATHI"
+  },
+  {
     "name": "AIR Aurangabad",
     "url": "http://airlsmp-lh.akamaihd.net/i/AIRLSMP036_1@855170/master.m3u8",
     "logo": "http://shortfilmsite.com/images/air.jpg",
@@ -33,18 +183,6 @@
     "name": "AIR Pune",
     "url": "http://nondelhi-lh.akamaihd-staging.net/i/airpune_1@825822/master.m3u8",
     "logo": "http://shortfilmsite.com/images/air.jpg",
-    "category": "MARATHI"
-  },
-  {
-    "name": "Divyavani Sanskrit Radio",
-    "url": "http://epsilon.shoutca.st:8070/autodj",
-    "logo": "http://shortfilmsite.com/images/divyavani.jpg",
-    "category": "MARATHI"
-  },
-  {
-    "name": "Shripad Radio Marathi",
-    "url": "http://144.217.203.184:8112/;stream.mp3",
-    "logo": "http://shortfilmsite.com/images/shripadradio.jpg",
     "category": "MARATHI"
   },
   {
@@ -87,144 +225,6 @@
     "name": "AIR Ratnagiri",
     "url": "http://airlsmp_2-lh.akamaihd-staging.net/i/AIRLSMP060_1@863843/master.m3u8",
     "logo": "http://shortfilmsite.com/images/air.jpg",
-    "category": "MARATHI"
-  },
-  {
-    "name": "Sharada Krishi Vahini",
-    "url": "http://158.69.4.171:8053/stream",
-    "logo": "http://shortfilmsite.com/images/sharadakrishivahini.jpg",
-    "category": "MARATHI"
-  },
-  {
-    "name": "AIR Ahmednagar",
-    "url": "http://airlsmp3-lh.akamaihd-staging.net/i/AIRLSMP080_1@866628/master.m3u8",
-    "logo": "http://shortfilmsite.com/images/air.jpg",
-    "category": "MARATHI"
-  },
-  {
-    "name": "FM Gold Mumbai",
-    "url": "http://nondelhi-lh.akamaihd-staging.net/i/goldmumb_1@830453/master.m3u8",
-    "logo": "http://shortfilmsite.com/images/fmgold.jpg",
-    "category": "MARATHI"
-  },
-  {
-    "name": "Maayboli",
-    "url": "http://stream.zenolive.com/463d8uzrwfeuv",
-    "logo": "http://shortfilmsite.com/images/maayboli.jpg",
-    "category": "MARATHI"
-  },
-  {
-    "name": "Samvadita Mumbai",
-    "url": "http://nondelhi-lh.akamaihd-staging.net/i/pcmumbai_1@830455/master.m3u8",
-    "logo": "http://shortfilmsite.com/images/air.jpg",
-    "category": "MARATHI"
-  },
-  {
-    "name": "Jalsavad Radio",
-    "url": "http://198.50.156.92:8769/stream",
-    "logo": "http://shortfilmsite.com/images/jalsavadradio.jpg",
-    "category": "MARATHI"
-  },
-  {
-    "name": "FM Rainbow Mumbai",
-    "url": "http://nondelhi-lh.akamaihd-staging.net/i/rainmumb_1@830454/master.m3u8",
-    "logo": "http://shortfilmsite.com/images/fmrainbow.jpg",
-    "category": "MARATHI"
-  },
-  {
-    "name": "Radio VatsaGulm",
-    "url": "http://streamasiacdn.atc-labs.com/radiovatsagulm.aac",
-    "logo": "http://shortfilmsite.com/images/radiovatsagulm.jpg",
-    "category": "MARATHI"
-  },
-  {
-    "name": "Mirchi Mumbai Marathi",
-    "url": "https://marathimumbai-lh.akamaihd.net/i/Marathimumbai_1@710773/master.m3u8",
-    "logo": "http://shortfilmsite.com/images/mirchimumbaimarathi.jpg",
-    "category": "MARATHI"
-  },
-  {
-    "name": "Radio Jay Bhim",
-    "url": "http://85.93.91.10:8144/stream",
-    "logo": "http://shortfilmsite.com/images/radiojaybhim.jpg",
-    "category": "MARATHI"
-  },
-  {
-    "name": "90.4 FM Cottan City Akola",
-    "url": "http://dczu40pz0y8z6.cloudfront.net/cottoncityakola.m3u8",
-    "logo": "http://shortfilmsite.com/images/cottancityakola.jpg",
-    "category": "MARATHI"
-  },
-  {
-    "name": "AIR Marathi",
-    "url": "http://airmarathi-lh.akamaihd.net/i/airmarathi_1@507815/master.m3u8",
-    "logo": "http://shortfilmsite.com/images/air.jpg",
-    "category": "MARATHI"
-  },
-  {
-    "name": "MGM 90.8 FM",
-    "url": "http://dz1aqwz3bmbil.cloudfront.net/mgmradio.m3u8",
-    "logo": "http://shortfilmsite.com/images/mgmcommunityradio.jpg",
-    "category": "MARATHI"
-  },
-  {
-    "name": "AIR Solapur",
-    "url": "http://nondelhi-lh.akamaihd.net/i/airlsmp006_1@838089/master.m3u8",
-    "logo": "http://shortfilmsite.com/images/air.jpg",
-    "category": "MARATHI"
-  },
-  {
-    "name": "AIR Jalgaon",
-    "url": "http://airlsmp_2-lh.akamaihd-staging.net/i/AIRLSMP046_1@863797/master.m3u8",
-    "logo": "http://shortfilmsite.com/images/air.jpg",
-    "category": "MARATHI"
-  },
-  {
-    "name": "Radio One Pune",
-    "url": "http://stream.zenolive.com/5b52y1ytz2quv",
-    "logo": "http://shortfilmsite.com/images/radioonepune.jpg",
-    "category": "MARATHI"
-  },
-  {
-    "name": "Radio City Pune ",
-    "url": "http://stream.zenolive.com/0v0symztz2quv",
-    "logo": "http://shortfilmsite.com/images/radiocity.jpg",
-    "category": "MARATHI"
-  },
-  {
-    "name": "Red FM Pune",
-    "url": "http://stream.zenolive.com/bqfr624ng0quv",
-    "logo": "http://shortfilmsite.com/images/redfm.jpg",
-    "category": "MARATHI"
-  },
-  {
-    "name": "AIR Sangli",
-    "url": "http://nondelhi-lh.akamaihd.net/i/gangtok_1@832725/master.m3u8",
-    "logo": "http://shortfilmsite.com/images/air.jpg",
-    "category": "MARATHI"
-  },
-  {
-    "name": "Puneri Awaz Radio Pune",
-    "url": "http://icecast.bkwsu.eu/radio-awaz-pune.mp3",
-    "logo": "http://shortfilmsite.com/images/puneriawaz.jpg",
-    "category": "MARATHI"
-  },
-  {
-    "name": "Anant Radio",
-    "url": "http://ample-zeno-23.radiojar.com/n5xdm01w4ueuv",
-    "logo": "http://shortfilmsite.com/images/anantradio.jpg",
-    "category": "MARATHI"
-  },
-  {
-    "name": "Parbhani 90.8 FM",
-    "url": "http://dblmzwzu145x2.cloudfront.net/parnbaniradio.m3u8",
-    "logo": "http://shortfilmsite.com/images/parbhanifm.jpg",
-    "category": "MARATHI"
-  },
-  {
-    "name": "Radio Zhakkas",
-    "url": "http://zhakkasmarathi.out.airtime.pro:8000/zhakkasmarathi_a",
-    "logo": "https://shortfilmsite.com/images/radiozhakkas.jpg",
     "category": "MARATHI"
   },
   {
