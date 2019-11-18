@@ -1,457 +1,457 @@
 [
   {
     "name": "ZIK FM Dakar 89.7",
-    "logo": "http://www.sunufm.com/appadmin2/upload/0088-2019-10-14.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/0088-2019-10-14.jpg",
     "url": "http://206.190.135.28:8018/stream\t",
     "category": "Zik FM"
   },
   {
     "name": "ZIK FM Mbacke 93.8",
-    "logo": "http://www.sunufm.com/appadmin2/upload/4706-2019-10-13.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/4706-2019-10-13.jpg",
     "url": "http://206.190.135.28:8019/stream",
     "category": "Zik FM"
   },
   {
     "name": "Moubarak FM Diourbel",
-    "logo": "http://www.sunufm.com/appadmin2/upload/6054-2019-10-07.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/6054-2019-10-07.jpg",
     "url": "http://206.190.135.28:8008/stream",
     "category": "International"
   },
   {
     "name": "7infos FM",
-    "logo": "http://www.sunufm.com/appadmin2/upload/7654-2019-09-26.png",
+    "logo": "http://www.sunufm.com/appadmin3/upload/7654-2019-09-26.png",
     "url": "http://206.190.135.28:8276/stream",
     "category": "communauté"
   },
   {
     "name": "Jiida Fm Bakel ",
-    "logo": "http://www.sunufm.com/appadmin2/upload/4934-2019-09-21.png",
+    "logo": "http://www.sunufm.com/appadmin3/upload/4934-2019-09-21.png",
     "url": "http://jiidafm.ice.infomaniak.ch/jiidafm-96.mp3",
     "category": "communauté"
   },
   {
     "name": "Yiriwaa Tanaff Sédhiou",
-    "logo": "http://www.sunufm.com/appadmin2/upload/7381-2019-09-17.png",
+    "logo": "http://www.sunufm.com/appadmin3/upload/7381-2019-09-17.png",
     "url": "http://206.190.135.28:8039/stream\t",
     "category": "communauté"
   },
   {
     "name": "181.fm - Real Country",
-    "logo": "http://www.sunufm.com/appadmin2/upload/8936-2019-09-16.png",
+    "logo": "http://www.sunufm.com/appadmin3/upload/8936-2019-09-16.png",
     "url": "http://relay.181.fm:8034/",
     "category": "Musique"
   },
   {
     "name": "Leeral fm Louga",
-    "logo": "http://www.sunufm.com/appadmin2/upload/1096-2019-08-23.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/1096-2019-08-23.jpg",
     "url": " http://72.46.130.60:8000/leeral",
     "category": "Xam sa diné"
   },
   {
     "name": "Asfiyahi FM 97.3",
-    "logo": "http://www.sunufm.com/appadmin2/upload/1028-2019-06-04.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/1028-2019-06-04.jpg",
     "url": "http://edge.mixlr.com/channel/odnbu",
     "category": "Tijiania"
   },
   {
     "name": "Radio  Africa7",
-    "logo": "http://www.sunufm.com/appadmin2/upload/5957-2019-10-02.jpeg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/5957-2019-10-02.jpeg",
     "url": "http://162.254.149.235:8081/africa7radio/live/icecast.audio",
     "category": "communauté"
   },
   {
     "name": "ZIK FM Mbacke",
-    "logo": "http://www.sunufm.com/appadmin2/upload/1527-2019-09-21.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/1527-2019-09-21.jpg",
     "url": "http://206.190.135.28:8019/stream",
     "category": "communauté"
   },
   {
     "name": "NRJ Hit Music",
-    "logo": "http://www.sunufm.com/appadmin2/upload/3927-2019-04-15.png",
+    "logo": "http://www.sunufm.com/appadmin3/upload/3927-2019-04-15.png",
     "url": "http://185.52.127.168/fr/30001/mp3_128.mp3?origine=radio.net",
     "category": "International"
   },
   {
     "name": "RMC",
-    "logo": "http://www.sunufm.com/appadmin2/upload/8098-2019-04-15.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/8098-2019-04-15.jpg",
     "url": "https://chai5she.cdn.dvmr.fr/rmcinfo",
     "category": "International"
   },
   {
     "name": "Retro FM Musique Sénégalaise",
-    "logo": "http://www.sunufm.com/appadmin2/upload/4607-2019-04-02.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/4607-2019-04-02.jpg",
     "url": "http://206.190.135.28:8158/stream",
     "category": "Musique"
   },
   {
     "name": "Retro FM Musique Sénégalaise",
-    "logo": "http://www.sunufm.com/appadmin2/upload/1123-2019-04-02.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/1123-2019-04-02.jpg",
     "url": "http://206.190.135.28:8158/stream",
     "category": "Rétro FM"
   },
   {
     "name": "Radio Sénégal International",
-    "logo": "http://www.sunufm.com/appadmin2/upload/1612-2019-03-27.png",
+    "logo": "http://www.sunufm.com/appadmin3/upload/1612-2019-03-27.png",
     "url": "http://206.190.135.28:8033/stream",
     "category": "RSI"
   },
   {
     "name": "DAF FM Dalifort Musique",
-    "logo": "http://www.sunufm.com/appadmin2/upload/6825-2019-03-22.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/6825-2019-03-22.jpg",
     "url": "http://206.190.135.28:8188/stream",
     "category": "Musique"
   },
   {
     "name": "Baol  FM Diourbel",
-    "logo": "http://www.sunufm.com/appadmin2/upload/2290-2019-03-17.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/2290-2019-03-17.jpg",
     "url": "http://206.190.135.28:8013/stream\t",
     "category": "communauté"
   },
   {
     "name": "Benno fm Touba\t",
-    "logo": "http://www.sunufm.com/appadmin2/upload/7925-2019-03-13.jpeg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/7925-2019-03-13.jpeg",
     "url": "http://206.190.135.28:8026/stream\t",
     "category": "Mouridiya"
   },
   {
     "name": "Nasroulahi fm Kebemer",
-    "logo": "http://www.sunufm.com/appadmin2/upload/8322-2019-03-13.png",
+    "logo": "http://www.sunufm.com/appadmin3/upload/8322-2019-03-13.png",
     "url": "http://206.190.135.28:8034/stream",
     "category": "communauté"
   },
   {
     "name": "Kebs FM Kebemer",
-    "logo": "http://www.sunufm.com/appadmin2/upload/3327-2019-03-12.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/3327-2019-03-12.jpg",
     "url": "http://206.190.135.28:8007/stream",
     "category": "communauté"
   },
   {
     "name": "Ucab FM Touba",
-    "logo": "http://www.sunufm.com/appadmin2/upload/8324-2019-03-12.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/8324-2019-03-12.jpg",
     "url": "http://206.190.135.28:8035/stream",
     "category": "Mouridiya"
   },
   {
     "name": "iRADIO",
-    "logo": "http://www.sunufm.com/appadmin2/upload/8361-2019-03-12.png",
+    "logo": "http://www.sunufm.com/appadmin3/upload/8361-2019-03-12.png",
     "url": "http://stream.zenolive.com/0ezme9svr1duv",
     "category": "iRADIO"
   },
   {
     "name": "Baary FM Djoloff",
-    "logo": "http://www.sunufm.com/appadmin2/upload/0066-2019-03-12.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/0066-2019-03-12.jpg",
     "url": "http://206.190.135.28:8044/stream",
     "category": "Mouridiya"
   },
   {
     "name": "Porokhane FM",
-    "logo": "http://www.sunufm.com/appadmin2/upload/2568-2018-07-12.png",
+    "logo": "http://www.sunufm.com/appadmin3/upload/2568-2018-07-12.png",
     "url": "http://206.190.135.28:8020/",
     "category": "Mouridiya"
   },
   {
     "name": "Mradio Musique",
-    "logo": "http://www.sunufm.com/appadmin2/upload/2262-2018-06-16.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/2262-2018-06-16.jpg",
     "url": "http://37.221.196.27:8022/MRADIO?1529132212586",
     "category": "Musique"
   },
   {
     "name": "Pulaar Speaking Radio",
-    "logo": "http://www.sunufm.com/appadmin2/upload/6824-2018-06-15.png",
+    "logo": "http://www.sunufm.com/appadmin3/upload/6824-2018-06-15.png",
     "url": "http://50.7.99.155:7251/",
     "category": "communauté"
   },
   {
     "name": "Radio Dakar City",
-    "logo": "http://www.sunufm.com/appadmin2/upload/7128-2018-06-15.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/7128-2018-06-15.jpg",
     "url": "http://listen.senemultimedia.net/proxy/rdc?mp=/1",
     "category": "communauté"
   },
   {
     "name": "Touba Zingonia",
-    "logo": "http://www.sunufm.com/appadmin2/upload/1401-2018-05-29.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/1401-2018-05-29.jpg",
     "url": "http://198.105.216.204:8278/",
     "category": "Mouridiya"
   },
   {
     "name": "Rire et chansons",
-    "logo": "http://www.sunufm.com/appadmin2/upload/1832-2018-05-23.png",
+    "logo": "http://www.sunufm.com/appadmin3/upload/1832-2018-05-23.png",
     "url": "http://185.52.127.160/fr/30401/mp3_128.mp3?origine=fluxradios",
     "category": "Musique"
   },
   {
     "name": "Baye Fall",
-    "logo": "http://www.sunufm.com/appadmin2/upload/9624-2018-07-12.png",
+    "logo": "http://www.sunufm.com/appadmin3/upload/9624-2018-07-12.png",
     "url": "http://206.190.135.28:8264/",
     "category": "Mouridiya"
   },
   {
     "name": "Ahmad Khader Al Tarabulsi",
-    "logo": "http://www.sunufm.com/appadmin2/upload/9839-2018-05-19.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/9839-2018-05-19.jpg",
     "url": "http://live.mp3quran.net:9924/",
     "category": "Al Quran"
   },
   {
     "name": "Adel Al-Khalbany",
-    "logo": "http://www.sunufm.com/appadmin2/upload/7036-2018-05-19.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/7036-2018-05-19.jpg",
     "url": "http://live.mp3quran.net:9874/",
     "category": "Al Quran"
   },
   {
     "name": "Ahmad Al-Ajmy",
-    "logo": "http://www.sunufm.com/appadmin2/upload/7310-2018-05-19.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/7310-2018-05-19.jpg",
     "url": "http://live.mp3quran.net:8008/",
     "category": "Al Quran"
   },
   {
     "name": "Xassida Online",
-    "logo": "http://www.sunufm.com/appadmin2/upload/3928-2018-05-19.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/3928-2018-05-19.jpg",
     "url": "http://206.190.135.28:8000/\t",
     "category": "Mouridiya"
   },
   {
     "name": "Lamp Fall Fm",
-    "logo": "http://www.sunufm.com/appadmin2/upload/0396-2018-05-19.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/0396-2018-05-19.jpg",
     "url": "http://ample-zeno-02.radiojar.com/q631qfx62neuv",
     "category": "Mouridiya"
   },
   {
     "name": "At Tidjania FM",
-    "logo": "http://www.sunufm.com/appadmin2/upload/3022-2018-05-19.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/3022-2018-05-19.jpg",
     "url": "http://206.190.135.28:8129/\t",
     "category": "Tijiania"
   },
   {
     "name": "Vibe Radio",
-    "logo": "http://www.sunufm.com/appadmin2/upload/8559-2018-05-19.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/8559-2018-05-19.jpg",
     "url": "http://ic01.cdn.eurozet.pl:8000/vib-sn.mp3\t",
     "category": "Musique"
   },
   {
     "name": "RFM Dakar 94.0 ",
-    "logo": "http://www.sunufm.com/appadmin2/upload/0149-2018-05-16.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/0149-2018-05-16.jpg",
     "url": "http://stream.zenolive.com/ymw4tvxhq9duv\t",
     "category": "RFM Dakar"
   },
   {
     "name": "RFM Dakar 2",
-    "logo": "http://www.sunufm.com/appadmin2/upload/0272-2018-05-16.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/0272-2018-05-16.jpg",
     "url": "http://ample-zeno-09.radiojar.com/kuk0syz5puquv",
     "category": "RFM Dakar"
   },
   {
     "name": "RFI Afrique",
-    "logo": "http://www.sunufm.com/appadmin2/upload/8840-2018-05-16.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/8840-2018-05-16.jpg",
     "url": "http://live02.rfi.fr/rfiafrique-64.mp3",
     "category": "RFI"
   },
   {
     "name": "Seereer Radio",
-    "logo": "http://www.sunufm.com/appadmin2/upload/2358-2018-05-14.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/2358-2018-05-14.jpg",
     "url": "http://37.59.47.192:8112/",
     "category": "communauté"
   },
   {
     "name": "PIKINE DIASPORA",
-    "logo": "http://www.sunufm.com/appadmin2/upload/5508-2018-05-14.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/5508-2018-05-14.jpg",
     "url": "http://s8.voscast.com:8252/",
     "category": "communauté"
   },
   {
     "name": "Dingiral Fulbe",
-    "logo": "http://www.sunufm.com/appadmin2/upload/7539-2018-05-14.png",
+    "logo": "http://www.sunufm.com/appadmin3/upload/7539-2018-05-14.png",
     "url": "http://s9.voscast.com:8444/",
     "category": "communauté"
   },
   {
     "name": "Radio Aanyam",
-    "logo": "http://www.sunufm.com/appadmin2/upload/1587-2018-05-14.png",
+    "logo": "http://www.sunufm.com/appadmin3/upload/1587-2018-05-14.png",
     "url": "http://s8.voscast.com:9378/",
     "category": "communauté"
   },
   {
     "name": "AlloDakar Radio TamTam",
-    "logo": "http://www.sunufm.com/appadmin2/upload/9946-2018-05-14.png",
+    "logo": "http://www.sunufm.com/appadmin3/upload/9946-2018-05-14.png",
     "url": "http://68.168.101.146:8520/",
     "category": "communauté"
   },
   {
     "name": "Oxy jeunes fm",
-    "logo": "http://www.sunufm.com/appadmin2/upload/6852-2018-05-14.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/6852-2018-05-14.jpg",
     "url": "http://s9.voscast.com:7994/",
     "category": "communauté"
   },
   {
     "name": "Alfayda FM 90.1 kaolack",
-    "logo": "http://www.sunufm.com/appadmin2/upload/7833-2018-05-14.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/7833-2018-05-14.jpg",
     "url": "http://192.99.35.93:6310/",
     "category": "Tijiania"
   },
   {
     "name": "Vibe Radio 102.3",
-    "logo": "http://www.sunufm.com/appadmin2/upload/5190-2018-05-14.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/5190-2018-05-14.jpg",
     "url": "http://ic01.cdn.eurozet.pl:8000/vib-sn.mp3",
     "category": "vibe Radio"
   },
   {
     "name": "TENDOUK Music",
-    "logo": "http://www.sunufm.com/appadmin2/upload/8193-2018-05-14.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/8193-2018-05-14.jpg",
     "url": "http://178.32.219.72:8002/",
     "category": "communauté"
   },
   {
     "name": "Sunuker musique",
-    "logo": "http://www.sunufm.com/appadmin2/upload/2359-2018-05-14.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/2359-2018-05-14.jpg",
     "url": "http://radiosunuker221.primcast.com:7148/",
     "category": "communauté"
   },
   {
     "name": "radioDANCE",
-    "logo": "http://www.sunufm.com/appadmin2/upload/4569-2018-05-14.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/4569-2018-05-14.jpg",
     "url": "http://cp11.livecdn.biz/radiodance",
     "category": "Musique"
   },
   {
     "name": "Dalifort FM",
-    "logo": "http://www.sunufm.com/appadmin2/upload/2053-2018-05-14.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/2053-2018-05-14.jpg",
     "url": "http://206.190.135.28:8188/",
     "category": "Musique"
   },
   {
     "name": "Dakar musique",
-    "logo": "http://www.sunufm.com/appadmin2/upload/4963-2018-05-14.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/4963-2018-05-14.jpg",
     "url": "http://listen.senemultimedia.net:5266/",
     "category": "Musique"
   },
   {
     "name": "XAM SA DINE",
-    "logo": "http://www.sunufm.com/appadmin2/upload/4192-2018-05-14.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/4192-2018-05-14.jpg",
     "url": "http://s7.voscast.com:7200/",
     "category": "Xam sa diné"
   },
   {
     "name": "Tafsir coran Wolof",
-    "logo": "http://www.sunufm.com/appadmin2/upload/9450-2018-05-14.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/9450-2018-05-14.jpg",
     "url": "http://206.190.135.28:8164/stream",
     "category": "Xam sa diné"
   },
   {
     "name": "SERIGNE MBAYE SAM",
-    "logo": "http://www.sunufm.com/appadmin2/upload/2663-2018-05-14.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/2663-2018-05-14.jpg",
     "url": "http://206.190.135.28:8194/stream",
     "category": "Mouridiya"
   },
   {
     "name": "Oustaz Alioune SALL",
-    "logo": "http://www.sunufm.com/appadmin2/upload/5485-2018-05-14.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/5485-2018-05-14.jpg",
     "url": "http://206.190.135.28:8218/stream",
     "category": "Xam sa diné"
   },
   {
     "name": "Ndiaréme FM",
-    "logo": "http://www.sunufm.com/appadmin2/upload/8516-2018-05-14.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/8516-2018-05-14.jpg",
     "url": "http://206.190.135.28:8314/",
     "category": "Mouridiya"
   },
   {
     "name": "Fayda tidianiya",
-    "logo": "http://www.sunufm.com/appadmin2/upload/6107-2018-05-14.png",
+    "logo": "http://www.sunufm.com/appadmin3/upload/6107-2018-05-14.png",
     "url": "http://listen.senemultimedia.net:5526/",
     "category": "Tijiania"
   },
   {
     "name": "Daroul Haliimil Xabiir FM",
-    "logo": "http://www.sunufm.com/appadmin2/upload/7538-2018-05-14.png",
+    "logo": "http://www.sunufm.com/appadmin3/upload/7538-2018-05-14.png",
     "url": "http://206.190.135.28:8270/",
     "category": "Mouridiya"
   },
   {
     "name": "Daaradji online",
-    "logo": "http://www.sunufm.com/appadmin2/upload/8290-2018-05-14.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/8290-2018-05-14.jpg",
     "url": "http://206.190.135.28:8282/",
     "category": "Tijiania"
   },
   {
     "name": "Cheikh Saad El GHAMDI",
-    "logo": "http://www.sunufm.com/appadmin2/upload/5727-2018-05-14.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/5727-2018-05-14.jpg",
     "url": "http://206.190.135.28:8224/stream",
     "category": "Al Quran"
   },
   {
     "name": "Abderrahman As-Sudais",
-    "logo": "http://www.sunufm.com/appadmin2/upload/9713-2018-05-14.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/9713-2018-05-14.jpg",
     "url": "http://206.190.135.28:8206/",
     "category": "Al Quran"
   },
   {
     "name": "Anwar",
-    "logo": "http://www.sunufm.com/appadmin2/upload/3399-2018-05-14.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/3399-2018-05-14.jpg",
     "url": "http://206.190.135.28:8082/",
     "category": "Tijiania"
   },
   {
     "name": "ACHABIBA ABBASSIYA",
-    "logo": "http://www.sunufm.com/appadmin2/upload/5503-2018-05-14.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/5503-2018-05-14.jpg",
     "url": "http://s6.voscast.com:9436/",
     "category": "Tijiania"
   },
   {
     "name": "Carrefour FM",
-    "logo": "http://www.sunufm.com/appadmin2/upload/1875-2018-05-14.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/1875-2018-05-14.jpg",
     "url": "http://carrefourfm.ice.infomaniak.ch/carrefour.mp3",
     "category": "communauté"
   },
   {
     "name": "Wadr fm",
-    "logo": "http://www.sunufm.com/appadmin2/upload/3292-2018-05-14.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/3292-2018-05-14.jpg",
     "url": "http://westafricademocracyradio.ice.infomaniak.ch/westafricademocracyradio",
     "category": "communauté"
   },
   {
     "name": "Africa N°1",
-    "logo": "http://www.sunufm.com/appadmin2/upload/3994-2018-05-14.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/3994-2018-05-14.jpg",
     "url": "http://african1paris.ice.infomaniak.ch/african1paris-128.mp3",
     "category": "communauté"
   },
   {
     "name": "Xassida Online",
-    "logo": "http://www.sunufm.com/appadmin2/upload/6764-2018-05-14.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/6764-2018-05-14.jpg",
     "url": "http://206.190.135.28:8000/",
     "category": "Xassida"
   },
   {
     "name": "Walf FM 99.0",
-    "logo": "http://www.sunufm.com/appadmin2/upload/6900-2018-05-14.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/6900-2018-05-14.jpg",
     "url": "http://206.190.135.28:8036/stream",
     "category": "Walf FM"
   },
   {
     "name": "Sud FM Dakar 98.5",
-    "logo": "http://www.sunufm.com/appadmin2/upload/9924-2018-05-14.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/9924-2018-05-14.jpg",
     "url": "http://node-17.zeno.fm/rq40edfn3reuv.mp3",
     "category": "Sud FM"
   },
   {
     "name": "RFM Dakar 3",
-    "logo": "http://www.sunufm.com/appadmin2/upload/8495-2018-05-14.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/8495-2018-05-14.jpg",
     "url": "http://ample-zeno-05.radiojar.com/8b0eacw4vewtv",
     "category": "RFM Dakar"
   },
   {
     "name": "RFI Monde",
-    "logo": "http://www.sunufm.com/appadmin2/upload/8810-2018-05-14.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/8810-2018-05-14.jpg",
     "url": "http://live02.rfi.fr/rfimonde-64.mp3",
     "category": "RFI"
   },
   {
     "name": "Lamp Fall Fm",
-    "logo": "http://www.sunufm.com/appadmin2/upload/0754-2018-05-14.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/0754-2018-05-14.jpg",
     "url": "http://ample-zeno-02.radiojar.com/q631qfx62neuv",
     "category": "Lamp Fall"
   },
   {
     "name": "Al Quran",
-    "logo": "http://www.sunufm.com/appadmin2/upload/0681-2018-05-14.jpg",
+    "logo": "http://www.sunufm.com/appadmin3/upload/0681-2018-05-14.jpg",
     "url": "http://206.190.135.28:8142/",
     "category": "Al Quran"
   },
