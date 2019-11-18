@@ -1,41 +1,5 @@
 [
   {
-    "name": "Radio Thiossane",
-    "logo": "https://cdn.webrad.io/images/logos/radio-sn/radio-thiossane.png",
-    "url": "http://listen.senemultimedia.net:5601/stream/1/",
-    "category": ""
-  },
-  {
-    "name": "H24 Radio",
-    "logo": "https://cdn.webrad.io/images/logos/radio-sn/h24radio.png",
-    "url": "http://listen.senemultimedia.net:8011/stream/1/",
-    "category": ""
-  },
-  {
-    "name": "MedinaCheikh Radio",
-    "logo": "https://cdn.webrad.io/images/logos/radio-sn/medinacheikh.png",
-    "url": "https://streaming.radionomy.com/MedinaCheikhRadio",
-    "category": ""
-  },
-  {
-    "name": "Sama Radio",
-    "logo": "https://cdn.webrad.io/images/logos/radio-sn/sama-senegal.png",
-    "url": "https://streamingv2.shoutcast.com/SamaRadio",
-    "category": ""
-  },
-  {
-    "name": "Maack FM",
-    "logo": "https://cdn.webrad.io/images/logos/radio-sn/maack-fm.png",
-    "url": "http://comet.shoutca.st:8847/stream/1/",
-    "category": ""
-  },
-  {
-    "name": "Radio Tetiane",
-    "logo": "https://cdn.webrad.io/images/logos/radio-sn/tetiane.png",
-    "url": "http://node-22.zeno.fm/aehw3zpkf7duv",
-    "category": "communauté"
-  },
-  {
     "name": "ZIK FM Dakar 89.7",
     "logo": "http://www.sunufm.com/appadmin3/upload/0088-2019-10-14.jpg",
     "url": "http://206.190.135.28:8018/stream\t",
@@ -490,6 +454,66 @@
     "logo": "http://www.sunufm.com/appadmin3/upload/0681-2018-05-14.jpg",
     "url": "http://206.190.135.28:8142/",
     "category": "Al Quran"
+  },
+  {
+    "name": "Radio Urum-Bi",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s269357q.png",
+    "url": "http://listen.radioking.com/radio/4735/stream/12887",
+    "category": "French"
+  },
+  {
+    "name": "Seereer Radio",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s261952q.png",
+    "url": "http://37.59.47.192:8112/;",
+    "category": "English"
+  },
+  {
+    "name": "Trade FM",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s283113q.png",
+    "url": "http://tradefm.ice.infomaniak.ch/tradefm-192.mp3",
+    "category": "French"
+  },
+  {
+    "name": "Radio Thiossane",
+    "logo": "https://cdn.webrad.io/images/logos/radio-sn/radio-thiossane.png",
+    "url": "http://listen.senemultimedia.net:5601/stream/1/",
+    "category": ""
+  },
+  {
+    "name": "H24 Radio",
+    "logo": "https://cdn.webrad.io/images/logos/radio-sn/h24radio.png",
+    "url": "http://listen.senemultimedia.net:8011/stream/1/",
+    "category": ""
+  },
+  {
+    "name": "MedinaCheikh Radio",
+    "logo": "https://cdn.webrad.io/images/logos/radio-sn/medinacheikh.png",
+    "url": "https://streaming.radionomy.com/MedinaCheikhRadio",
+    "category": ""
+  },
+  {
+    "name": "Sama Radio",
+    "logo": "https://cdn.webrad.io/images/logos/radio-sn/sama-senegal.png",
+    "url": "https://streamingv2.shoutcast.com/SamaRadio",
+    "category": ""
+  },
+  {
+    "name": "Maack FM",
+    "logo": "https://cdn.webrad.io/images/logos/radio-sn/maack-fm.png",
+    "url": "http://comet.shoutca.st:8847/stream/1/",
+    "category": ""
+  },
+  {
+    "name": "Senn FM Radio",
+    "logo": "https://cdn-profiles.tunein.com/s252113/images/logoq.jpg",
+    "url": "http://i.streams.ovh:9402/;",
+    "category": ""
+  },
+  {
+    "name": "Radio Tetiane",
+    "logo": "https://cdn.webrad.io/images/logos/radio-sn/tetiane.png",
+    "url": "http://node-22.zeno.fm/aehw3zpkf7duv",
+    "category": "communauté"
   },
   {
     "name": "Maher Meaqli Radio",
