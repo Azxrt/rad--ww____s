@@ -2,529 +2,529 @@
     {
       "name": "Cadena Ser: Madrid Sur",
       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_MADRID_SURAAC.aac",
-      "image": "",
+     "logo": "",
       "category" :"Comunidad de Madrid"
       },
     {
       "name": "Canal Sur: Córdoba",
       "url": "http://cdnlive.shooowit.net/rtvalive/smil:channel12.smil/playlist.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Canal Sur: Campo de Gibraltar",
       "url": "http://cdnlive.shooowit.net/rtvalive/smil:channel15.smil/playlist.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Canal Sur: Granada",
       "url": "http://cdnlive.shooowit.net/rtvalive/smil:channel13.smil/playlist.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Canal Sur: Cádiz",
       "url": "http://cdnlive.shooowit.net/rtvalive/smil:channel11.smil/playlist.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Canal Sur: Almería",
       "url": "http://cdnlive.shooowit.net/rtvalive/smil:channel8.smil/playlist.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Canal Sur: Jerez",
       "url": "http://cdnlive.shooowit.net/rtvalive/smil:channel18.smil/playlist.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Canal Sur: Sevilla",
       "url": "http://cdnlive.shooowit.net/rtvalive/smil:channel4.smil/playlist.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Canal Sur: Málaga",
       "url": "http://cdnlive.shooowit.net/rtvalive/smil:channel17.smil/playlist.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Canal Sur: Jaén",
       "url": "http://cdnlive.shooowit.net/rtvalive/smil:channel16.smil/playlist.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Canal Sur: Huelva",
       "url": "http://cdnlive.shooowit.net/rtvalive/smil:channel14.smil/playlist.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Radio Marca Nacional",
       "url": "http://radiomarca.streaming-pro.com:8030/radiomarca.mp3",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Radio Marca: Málaga",
       "url": "https://malagafm.streaming-pro.com:8131/malagafmmobile",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Radio Marca: León",
       "url": "https://marcaleon.streaming-pro.com:6104/marca-le.mp3",
-      "image": "",
+     "logo": "",
       "category" :"Castilla y León"
       },
     {
       "name": "Radio Marca: Asturias",
       "url": "https://streaming.enacast.com/radiomarcaasturiasHD.mp3",
-      "image": "",
+     "logo": "",
       "category" :"Asturias"
       },
     {
       "name": "Radio Marca: Vigo",
       "url": "https://streaming.enacast.com/radiomarcavigoHD.mp3",
-      "image": "",
+     "logo": "",
       "category" :"Galicia"
       },
     {
       "name": "Radio Marca: Zaragoza",
       "url": "https://c6.auracast.net/radio/8020/rmzgz?1528909135",
-      "image": "",
+     "logo": "",
       "category" :"Aragón"
       },
     {
       "name": "Radio Marca: Donostia",
       "url": "https://marca-sansebastian.streaming-pro.com:6101/live",
-      "image": "",
+     "logo": "",
       "category" :"País Vasco"
       },
     {
       "name": "Radio Marca: Bilbao",
       "url": "https://cp12.shoutcheap.com:18030/stream",
-      "image": "",
+     "logo": "",
       "category" :"País Vasco"
       },
     {
       "name": "Radio Marca: Almería",
       "url": "https://media.profesionalhosting.com:8319/stream",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Radio Marca: A Coruña",
       "url": "https://delegaciones-radiomarca.streaming-pro.com:6113/radiomarcagalicia.mp3",
-      "image": "",
+     "logo": "",
       "category" :"Galicia"
       },
     {
       "name": "Radio Marca: Sevilla",
       "url": "https://relay.stream.enacast-cloud.com:40219/radiomarcasevillaHD.mp3",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Radio Marca: Valencia",
       "url": "https://delegaciones-radiomarca.streaming-pro.com:6111/radiomarcavalencia.mp3",
-      "image": "",
+     "logo": "",
       "category" :"Comunidad Valenciana"
       },
     {
       "name": "Canal Sur: Canal Fiesta",
       "url": "http://cdnlive.shooowit.net/rtvalive/smil:channel5.smil/playlist.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Canal Sur: Flamenco Radio",
       "url": "http://cdnlive.shooowit.net/rtvalive/smil:channel7.smil/playlist.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Canal Sur Radio",
       "url": "http://cdnlive.shooowit.net/rtvalive/smil:channel9.smil/playlist.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Canal Sur: Radio Andalucía Información",
       "url": "http://cdnlive.shooowit.net/rtvalive/smil:channel6.smil/playlist.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Onda Cero: Zamora",
       "url": "https://liveondacero-i.akamaized.net/zamora-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Castilla y León"
       },
     {
       "name": "LOS40 Dance",
       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCEAAC",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Cadena Cope: Valencia",
       "url": "https://valencia-copesedes-flucast.flumotion.com/copesedes/valencia.mp3.m3u",
-      "image": "",
+     "logo": "",
       "category" :"Comunidad Valenciana"
       },
     {
       "name": "CV Radio",
       "url": "http://212.83.172.242:8275",
-      "image": "",
+     "logo": "",
       "category" :"Comunidad Valenciana"
       },
     {
       "name": "99.9 Valencia Radio",
       "url": "http://130.185.144.199:11593",
-      "image": "",
+     "logo": "",
       "category" :"Comunidad Valenciana"
       },
     {
       "name": "Top Radio",
       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/TOPRADIOAAC_SC",
-      "image": "",
+     "logo": "",
       "category" :"Comunidad de Madrid"
       },
     {
       "name": "Cadena Ser: Marbella - Costa del Sol",
       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SER_MARBELLA_COSTA_SOL.mp3",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "RAC 105",
       "url": "https://streaming.rac105.cat/",
-      "image": "",
+     "logo": "",
       "category" :"Cataluña"
       },
     {
       "name": "RAC 1",
       "url": "https://streaming.rac1.cat/",
-      "image": "",
+     "logo": "",
       "category" :"Cataluña"
       },
     {
       "name": "Radio Galega",
       "url": "http://crtvg-radiogalega.stream.flumotion.com/radiogalega/live.mp3.m3u",
-      "image": "",
+     "logo": "",
       "category" :"Galicia"
       },
     {
       "name": "Cadena Ser: Poniente",
       "url": "https://21273.live.streamtheworld.com/SER_ASO_PONIENTEAAC.aac",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "FC Sevilla",
       "url": "https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Cadena Cope",
       "url": "http://net2.cope.stream.flumotion.com/cope/net2/playlist.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Radio Rioja SER",
       "url": "https://19993.live.streamtheworld.com/SER_ASO_RIOJAAAC.aac",
-      "image": "",
+     "logo": "",
       "category" :"La Rioja"
       },
     {
       "name": "Radio Ya",
       "url": "http://s2.prositel.net:9075/RadioYA",
-      "image": "",
+     "logo": "",
       "category" :"Comunidad de Madrid"
       },
     {
       "name": "Mortal FM",
       "url": "http://server2.20comunicacion.com:8044/;",
-      "image": "",
+     "logo": "",
       "category" :"Castilla y León"
       },
     {
       "name": "Gestiona Radio",
       "url": "http://gestionaradiovalencia.emisionlocal.com:9080/stream",
-      "image": "",
+     "logo": "",
       "category" :"Comunidad de Madrid"
       },
     {
       "name": "Cadena Ser: Madrid Norte",
       "url": "https://20853.live.streamtheworld.com/SER_ASO_MADRID_NORTEAAC.aac",
-      "image": "",
+     "logo": "",
       "category" :"Comunidad de Madrid"
       },
     {
       "name": "Onda Cero (alternativa)",
       "url": "http://icecast-streaming.nice264.com/ondaceroback",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Muy Buena: Zaragoza",
       "url": "http://emisorasmusicales.es:8000/muybuenazaragoza.mp3",
-      "image": "",
+     "logo": "",
       "category" :"Aragón"
       },
     {
       "name": "RNE 5 - Radio 5 Noticias",
       "url": "http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne5_1@793570/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Radio4G",
       "url": "http://r4g-mp3-live.flumotion.com/r4g/r4g-mp3-live.mp3",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "LOS40 Working",
       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_02AAC",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "LOS40 Latin",
       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_03AAC",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "LOS40 Party",
       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_05AAC",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Onda Cero: Yecla",
       "url": "https://livefastly-webs.ondacero.es/yecla-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Región de Murcia"
       },
     {
       "name": "Onda Cero: Cáceres",
       "url": "https://livefastly-webs.ondacero.es/caceres-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Extremadura"
       },
     {
       "name": "Onda Cero: Vega Baja",
       "url": "https://livefastly-webs.ondacero.es/torrevieja-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Comunidad Valenciana"
       },
     {
       "name": "Onda Cero: Marina Baixa",
       "url": "https://livefastly-webs.ondacero.es/villajoyosa-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Comunidad Valenciana"
       },
     {
       "name": "Onda Cero: Castellón",
       "url": "https://livefastly-webs.ondacero.es/castellon-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Comunidad Valenciana"
       },
     {
       "name": "Onda Cero: Girona",
       "url": "https://livefastly-webs.ondacero.es/barcelona-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Cataluña"
       },
     {
       "name": "Onda Cero: Luarca",
       "url": "https://livefastly-webs.ondacero.es/luarca-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Asturias"
       },
     {
       "name": "Onda Cero: Infiesto",
       "url": "https://livefastly-webs.ondacero.es/infiesto-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Asturias"
       },
     {
       "name": "Onda Cero: Cangas del Narcea",
       "url": "https://livefastly-webs.ondacero.es/cangasdenarcea-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Asturias"
       },
     {
       "name": "Onda Cero: El Ejido",
       "url": "https://livefastly-webs.ondacero.es/elejido-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Onda Cero: Baza",
       "url": "https://livefastly-webs.ondacero.es/baza-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Cadena Cope (alternativa 4)",
       "url": "http://flucast-m04-01.flumotion.com/cope/net2.aac",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Cadena Ser: Tenerife",
       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SER_TENERIFEAAC.aac",
-      "image": "",
+     "logo": "",
       "category" :"Canarias"
       },
     {
       "name": "À Punt",
       "url": "https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/c3NG45ZjE6mgkM4CVO9xBB9NjSSe-_Lr/cs/9dcea2f8edf84bb4ba446f5e25615b51.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Comunidad Valenciana"
       },
     {
       "name": "RNE Radio clásica",
       "url": "http://hlsliveamdgl0-lh.akamaihd.net/i/rnerc_1@586399/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "RNE Radio Exterior",
       "url": "http://hlsliveamdgl0-lh.akamaihd.net/i/rneree_1@793572/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "RNE 4 - Ràdio 4",
       "url": "http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne4_1@793569/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Cataluña"
       },
     {
       "name": "RNE 3 - Radio 3",
       "url": "http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne3_1@793568/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Radio Popular - Herri Irratia",
       "url": "http://79.137.33.224:8000/radiopopular1",
-      "image": "",
+     "logo": "",
       "category" :"País Vasco"
       },
     {
       "name": "Cadena 100",
       "url": "https://cadena100-cope.flumotion.com/playlist.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Loca FM: Drum&Bass",
       "url": "http://audio-online.net:8021/live",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Loca FM: Industrial",
       "url": "http://audio-online.net:8019/live",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Loca FM: Pride",
       "url": "http://audio-online.net:8017/live",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Loca FM: Trap",
       "url": "http://audio-online.net:8014/live",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Loca FM: 90's",
       "url": "http://audio-online.net:8000/live",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Loca FM: 80's",
       "url": "http://audio-online.net:8018/live",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Loca FM: Big Room",
       "url": "http://audio-online.net:8001/live",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Loca FM",
       "url": "http://audio-online.net:2300/live",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Onda Cero: Algeciras",
       "url": "https://livefastly-webs.ondacero.es/algeciras-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "RNE 1 - Radio Nacional",
       "url": "http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne_1@586398/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Hit FM Radio",
       "url": "http://hitfm.kissfmradio.cires21.com/hitfm.mp3http://212.83.143.231:9994/",
-      "image": "",
+     "logo": "",
       "category" :"Canarias"
       },
     {
       "name": "Onda Vasca",
       "url": "http://www.ondavasca.com:8000/bizkaia",
-      "image": "",
+     "logo": "",
       "category" :"País Vasco"
       },
     {
       "name": "Radio Faycán",
       "url": "http://radioserver9.profesionalhosting.com:30269/",
-      "image": "",
+     "logo": "",
       "category" :"Canarias"
       },
     {
       "name": "Inolvidable FM",
       "url": "http://5.63.151.52:7008/stream",
-      "image": "",
+     "logo": "",
       "category" :"Canarias"
       },
     {
       "name": "Activa FM",
       "url": "http://emisorasmusicales.es:8000/activaprincipal.mp3",
-      "image": "",
+     "logo": "",
       "category" :"Comunidad Valenciana"
       },
     {
       "name": "La Fresca",
       "url": "http://stream.produccionesdale.com:8899/altacalidad",
-      "image": "",
+     "logo": "",
       "category" :"Castilla-La Mancha",
         "Castilla y León",
         "Andalucía",
@@ -533,1091 +533,1091 @@
     {
       "name": "Esencia Radio",
       "url": "http://esenciaradio.ddns.net:8000/directo",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía",
         "Comunidad de Madrid"
       },
     {
       "name": "Radio Vallekas",
       "url": "http://cervera.eldialdigital.com:8032",
-      "image": "",
+     "logo": "",
       "category" :"Comunidad de Madrid"
       },
     {
       "name": "Onda Madrid",
       "url": "http://ondamadridhls-live.hls.adaptive.level3.net/telemadrid/ondamadrid1/index.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Comunidad de Madrid"
       },
     {
       "name": "Aire Latino",
       "url": "http://www.airelatino.fm/",
-      "image": "",
+     "logo": "",
       "category" :"Comunidad Valenciana"
       },
     {
       "name": "ContraBanda FM",
       "url": "http://www.contrabanda.org:8000/contrabanda",
-      "image": "",
+     "logo": "",
       "category" :"Cataluña"
       },
     {
       "name": "Ágora Sol Radio",
       "url": "http://cervera.eldialdigital.com:8044",
-      "image": "",
+     "logo": "",
       "category" :"Comunidad de Madrid"
       },
     {
       "name": "Aragón Radio",
       "url": "http://cartv.streaming.aranova.es/hls/live/aragonradio_aragonradio1.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Aragón"
       },
     {
       "name": "Rock FM",
       "url": "http://rockfm.cope.stream.flumotion.com/cope/rockfm-low.mp3.m3u",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Kiss FM",
       "url": "http://kissfm.kissfmradio.cires21.com/kissfm.mp3",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Onda Cero: Salamanca",
       "url": "https://livefastly-webs.ondacero.es/salamanca-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Castilla y León"
       },
     {
       "name": "Onda Cero: Sagunto",
       "url": "https://livefastly-webs.ondacero.es/sagunto-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Comunidad Valenciana"
       },
     {
       "name": "Onda Cero: Pontevedra",
       "url": "https://livefastly-webs.ondacero.es/pontevedra-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Galicia"
       },
     {
       "name": "Onda Cero: Pamplona",
       "url": "https://livefastly-webs.ondacero.es/pamplona-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Navarra"
       },
     {
       "name": "Onda Cero: Palencia",
       "url": "https://livefastly-webs.ondacero.es/palencia-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Castilla y León"
       },
     {
       "name": "Onda Cero: Oviedo",
       "url": "https://livefastly-webs.ondacero.es/oviedo-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Asturias"
       },
     {
       "name": "Onda Cero: Ourense",
       "url": "https://livefastly-webs.ondacero.es/ourense-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Galicia"
       },
     {
       "name": "Onda Cero: Murcia",
       "url": "https://livefastly-webs.ondacero.es/murcia-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Región de Murcia"
       },
     {
       "name": "Onda Cero: Motril",
       "url": "https://livefastly-webs.ondacero.es/motril-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Onda Cero: Monforte de Lemos",
       "url": "https://livefastly-webs.ondacero.es/monforte-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Galicia"
       },
     {
       "name": "Onda Cero: Mérida",
       "url": "https://livefastly-webs.ondacero.es/merida-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Extremadura"
       },
     {
       "name": "Onda Cero: Menorca",
       "url": "https://livefastly-webs.ondacero.es/menorca-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Baleares"
       },
     {
       "name": "Onda Cero: Marbella",
       "url": "https://livefastly-webs.ondacero.es/marbella-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Onda Cero: Mallorca",
       "url": "https://livefastly-webs.ondacero.es/mallorca-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Baleares"
       },
     {
       "name": "Onda Cero: Málaga",
       "url": "https://livefastly-webs.ondacero.es/malaga-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Onda Cero: Lugo",
       "url": "https://livefastly-webs.ondacero.es/lugo-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Galicia"
       },
     {
       "name": "Onda Cero: Logroño",
       "url": "https://livefastly-webs.ondacero.es/logrono-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"La Rioja"
       },
     {
       "name": "Onda Cero: Lleida",
       "url": "http://icecast-streaming.nice264.com/lleida",
-      "image": "",
+     "logo": "",
       "category" :"Cataluña"
       },
     {
       "name": "Onda Cero: León",
       "url": "https://livefastly-webs.ondacero.es/leon-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Castilla y León"
       },
     {
       "name": "Onda Cero: Jerez de la Frontera",
       "url": "https://livefastly-webs.ondacero.es/jerez-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Onda Cero: Jaén",
       "url": "https://livefastly-webs.ondacero.es/jaen-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Onda Cero: Ibiza",
       "url": "https://livefastly-webs.ondacero.es/ibiza-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Baleares"
       },
     {
       "name": "Onda Cero: Huesca",
       "url": "https://livefastly-webs.ondacero.es/huesca-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Aragón"
       },
     {
       "name": "Onda Cero: Huelva",
       "url": "https://livefastly-webs.ondacero.es/huelva-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Onda Cero: Guadalajara",
       "url": "https://livefastly-webs.ondacero.es/guadalajara-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Castilla-La Mancha"
       },
     {
       "name": "Onda Cero: Granada",
       "url": "https://livefastly-webs.ondacero.es/granada-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Onda Cero: Gijon",
       "url": "https://livefastly-webs.ondacero.es/gijon-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Asturias"
       },
     {
       "name": "Onda Cero: Elche",
       "url": "https://livefastly-webs.ondacero.es/elche-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Comunidad Valenciana"
       },
     {
       "name": "Onda Cero: Cuenca",
       "url": "https://livefastly-webs.ondacero.es/cuenca-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Castilla-La Mancha"
       },
     {
       "name": "Onda Cero: Córdoba",
       "url": "https://livefastly-webs.ondacero.es/cordoba-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Onda Cero: Ciudad real",
       "url": "https://livefastly-webs.ondacero.es/ciudadreal-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Castilla-La Mancha"
       },
     {
       "name": "Onda Cero: Ceuta",
       "url": "https://livefastly-webs.ondacero.es/ceuta-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Ceuta y Melilla"
       },
     {
       "name": "Onda Cero: Cartagena",
       "url": "https://livefastly-webs.ondacero.es/cartagena-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Región de Murcia"
       },
     {
       "name": "Onda Cero: Canarias",
       "url": "https://livefastly-webs.ondacero.es/canarias-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Canarias"
       },
     {
       "name": "Onda Cero: Cádiz",
       "url": "https://livefastly-webs.ondacero.es/cadiz-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Onda Cero: Bilbao",
       "url": "https://livefastly-webs.ondacero.es/bilbao-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"País Vasco"
       },
     {
       "name": "Onda Cero: Barcelona",
       "url": "https://livefastly-webs.ondacero.es/barcelona-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Cataluña"
       },
     {
       "name": "Onda Cero: Badajoz",
       "url": "https://livefastly-webs.ondacero.es/badajoz-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Extremadura"
       },
     {
       "name": "Onda Cero: Alzira",
       "url": "https://livefastly-webs.ondacero.es/alzira-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Comunidad Valenciana"
       },
     {
       "name": "Onda Cero: Almería",
       "url": "https://livefastly-webs.ondacero.es/almeria-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Onda Cero: Alicante",
       "url": "https://livefastly-webs.ondacero.es/alicante-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Comunidad Valenciana"
       },
     {
       "name": "Onda Cero: Alcázar de San Juan",
       "url": "https://livefastly-webs.ondacero.es/alcazar-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Castilla-La Mancha"
       },
     {
       "name": "Onda Cero: Alcalá de Henares",
       "url": "https://livefastly-webs.ondacero.es/alcala-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Comunidad de Madrid"
       },
     {
       "name": "Onda Cero: Albacete",
       "url": "https://livefastly-webs.ondacero.es/albacete-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Castilla-La Mancha"
       },
     {
       "name": "Onda Cero: A Coruña",
       "url": "https://livefastly-webs.ondacero.es/acoruna-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Galicia"
       },
     {
       "name": "Rock Rock Radio",
       "url": "http://stream2.servercristianonetwork.com:8222",
-      "image": "",
+     "logo": "",
       "category" :"Solo en Internet"
       },
     {
       "name": "MegaStar FM",
       "url": "http://megastar.cope.stream.flumotion.com/cope/megastar.mp3.m3u",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Melodía FM",
       "url": "http://icecast-streaming.nice264.com/melodiafm",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Cadena Cope (alternativa 3)",
       "url": "http://net1.cope.stream.flumotion.com/cope/net4-low.mp3.m3u",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Cadena Cope (alternativa 2)",
       "url": "http://net1.cope.stream.flumotion.com/cope/net3-low.mp3.m3u",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Cadena Cope (alternativa 1)",
       "url": "http://net1.cope.stream.flumotion.com/cope/net1-low.mp3.m3u",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Cadena Ser: Málaga",
       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SER_MALAGA_SC.mp3",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Eco FM",
       "url": "http://streaming.radioseninternetuy.com:9468",
-      "image": "",
+     "logo": "",
       "category" :"Galicia"
       },
     {
       "name": "Radio Rinconada",
       "url": "http://195.154.41.19:8065/",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Radio Arrebato",
       "url": "http://srv0510.emisorasonline.com:8025/stream",
-      "image": "",
+     "logo": "",
       "category" :"Castilla-La Mancha"
       },
     {
       "name": "Radio Surco",
       "url": "http://emisorasmusicales.es:8005/rsurco.mp3",
-      "image": "",
+     "logo": "",
       "category" :"Castilla-La Mancha"
       },
     {
       "name": "Ràdio Klara",
       "url": "http://cervera.eldialdigital.com:8048",
-      "image": "",
+     "logo": "",
       "category" :"Comunidad Valenciana"
       },
     {
       "name": "Spektra FM",
       "url": "http://stm1.emiteonline.com:8008/spektrafm",
-      "image": "",
+     "logo": "",
       "category" :"Comunidad Valenciana"
       },
     {
       "name": "Gaztea",
       "url": "http://mp3-eitb.stream.flumotion.com/eitb/gaztea.mp3",
-      "image": "",
+     "logo": "",
       "category" :"País Vasco"
       },
     {
       "name": "Euskadi Irratia",
       "url": "http://mp3-eitb.stream.flumotion.com/eitb/euskadiirratia.mp3",
-      "image": "",
+     "logo": "",
       "category" :"País Vasco"
       },
     {
       "name": "Radio Euskadi",
       "url": "http://mp3-eitb.stream.flumotion.com/eitb/radioeuskadi.mp3",
-      "image": "",
+     "logo": "",
       "category" :"País Vasco"
       },
     {
       "name": "Europa FM: Gipuzkoa",
       "url": "http://stream.irratia.net/2b",
-      "image": "",
+     "logo": "",
       "category" :"País Vasco"
       },
     {
       "name": "Cadena Ser: Comunidad de Madrid",
       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SER_MADRID.mp3",
-      "image": "",
+     "logo": "",
       "category" :"Comunidad de Madrid"
       },
     {
       "name": "Cadena Ser",
       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_SC",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "RTPA - Radio del Principado de Asturias",
       "url": "https://cdnlive.shooowit.net/rtpalive/smil:radio.smil/playlist.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Asturias"
       },
     {
       "name": "Holiday GYM Radio",
       "url": "http://holidaygym.emitironline.com",
-      "image": "",
+     "logo": "",
       "category" :"Comunidad de Madrid"
       },
     {
       "name": "Globo FM",
       "url": "http://109.169.23.22:37495/stream",
-      "image": "",
+     "logo": "",
       "category" :"Comunidad de Madrid"
       },
     {
       "name": "Radio León",
       "url": "http://www.radioleon.com:8000/radio",
-      "image": "",
+     "logo": "",
       "category" :"Castilla y León"
       },
     {
       "name": "Capital Radio",
       "url": "http://capitalradio-live.flumotion.com/capital-radio/capitalradio.mp3",
-      "image": "",
+     "logo": "",
       "category" :"Cataluña"
       },
     {
       "name": "Canal Ebro",
       "url": "http://streaming.capsulaimposible.com:8000/stream/2/canalebro.mp3",
-      "image": "",
+     "logo": "",
       "category" :"La Rioja"
       },
     {
       "name": "Onda Bierzo",
       "url": "http://www.ondabierzo.com/ondabierzo.m3u",
-      "image": "",
+     "logo": "",
       "category" :"Castilla y León"
       },
     {
       "name": "Sol FM Radio",
       "url": "http://37.59.121.120:9195/stream",
-      "image": "",
+     "logo": "",
       "category" :"Comunidad Valenciana"
       },
     {
       "name": "Radio Arcos",
       "url": "http://37.59.38.180:8262",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Elixir FM",
       "url": "http://radioserver10.profesionalhosting.com:41004",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Radio Camargo",
       "url": "http://91.121.77.67:8048",
-      "image": "",
+     "logo": "",
       "category" :"Cantabria"
       },
     {
       "name": "Happy FM",
       "url": "http://happyfm.streaming-pro.com:8038",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía",
         "Canarias"
       },
     {
       "name": "Radio Gandía",
       "url": "http://stream.radiogandia.com:8080/ser_high",
-      "image": "",
+     "logo": "",
       "category" :"Comunidad Valenciana"
       },
     {
       "name": "Voz FM Murcia",
       "url": "http://185.36.211.142:8003/stream",
-      "image": "",
+     "logo": "",
       "category" :"Región de Murcia"
       },
     {
       "name": "Cadena Ser: Asturias",
       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SER_GIJON.mp3",
-      "image": "",
+     "logo": "",
       "category" :"Asturias"
       },
     {
       "name": "Gaceta FM",
       "url": "http://5.135.183.124:8173/stream",
-      "image": "",
+     "logo": "",
       "category" :"Región de Murcia"
       },
     {
       "name": "Radio María",
       "url": "http://dreamsiteradiocp.com:8060",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Cadena Élite",
       "url": "http://streaming.elitecomunicacion.es:8000",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Cadena digital",
       "url": "http://portalradio.es:8006",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "7.7 Radio",
       "url": "http://195.154.33.95:8078",
-      "image": "",
+     "logo": "",
       "category" :"Canarias"
       },
     {
       "name": "CMM - Radio Castilla la Mancha",
       "url": "http://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_qilzwlkz/format/applehttp/protocol/http/uiConfId/39724601/a.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Castilla-La Mancha"
       },
     {
       "name": "Xtra FM",
       "url": "http://lams02.xtraradio.nl/xtrafm",
-      "image": "",
+     "logo": "",
       "category" :"Comunidad Valenciana"
       },
     {
       "name": "Radiolé: Costa de la Luz",
       "url": "http://cervera.eldialdigital.com:8040",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Sie7e Radio",
       "url": "http://server.7imedia.com:8020/stream",
-      "image": "",
+     "logo": "",
       "category" :"Región de Murcia"
       },
     {
       "name": "Radio Oleiros",
       "url": "http://radiooleiros.streaming-pro.com:8034",
-      "image": "",
+     "logo": "",
       "category" :"Galicia"
       },
     {
       "name": "JFK Radio",
       "url": "http://streaming.radionomy.com/JFK",
-      "image": "",
+     "logo": "",
       "category" :"Baleares"
       },
     {
       "name": "Doble V Radio",
       "url": "http://server8.emitironline.com:9388/radio",
-      "image": "",
+     "logo": "",
       "category" :"Castilla y León"
       },
     {
       "name": "Cuac FM",
       "url": "https://streaming.cuacfm.org/cuacfm-128k.mp3",
-      "image": "",
+     "logo": "",
       "category" :"Galicia"
       },
     {
       "name": "Radio Rociana",
       "url": "http://streaming.radiorociana.com:8000/",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Formula 30",
       "url": "http://stm1.emiteonline.com:2199/tunein/formula30.pls",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "esRadio",
       "url": "http://livestreaming.esradio.fm/stream64.mp3",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Radio San Vicente",
       "url": "http://37.187.79.56/proxy/webmatix/?mp=/stream",
-      "image": "",
+     "logo": "",
       "category" :"Comunidad Valenciana"
       },
     {
       "name": "Hispanidad Radio",
       "url": "http://37.187.18.26:8002/hr",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Chanquete FM",
       "url": "http://185.23.192.118:8008",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Radio Sevillanas",
       "url": "http://radio.wesped.com:8000",
-      "image": "",
+     "logo": "",
       "category" :"Solo en Internet"
       },
     {
       "name": "Onda Punta Radio",
       "url": "http://tesla.todoexitos.com:7010",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Cadena Ser: Murcia",
       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SER_MURCIA.mp3",
-      "image": "",
+     "logo": "",
       "category" :"Región de Murcia"
       },
     {
       "name": "Cadena Ser: País Vasco",
       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SER_BILBAO.mp3",
-      "image": "",
+     "logo": "",
       "category" :"País Vasco"
       },
     {
       "name": "Cadena Ser: Navarra",
       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SER_PAMPLONA.mp3",
-      "image": "",
+     "logo": "",
       "category" :"Navarra"
       },
     {
       "name": "Cadena Ser: Melilla",
       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SER_MELILLA.mp3",
-      "image": "",
+     "logo": "",
       "category" :"Ceuta y Melilla"
       },
     {
       "name": "Cadena Ser: Galicia",
       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SER_GALICIA.mp3",
-      "image": "",
+     "logo": "",
       "category" :"Galicia"
       },
     {
       "name": "Cadena Ser: Extremadura",
       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SER_EXTREMADURA.mp3",
-      "image": "",
+     "logo": "",
       "category" :"Extremadura"
       },
     {
       "name": "Cadena Ser: Comunidad Valenciana",
       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SER_VALENCIA.mp3",
-      "image": "",
+     "logo": "",
       "category" :"Comunidad Valenciana"
       },
     {
       "name": "Cadena Ser: Ceuta",
       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SER_CEUTA.mp3",
-      "image": "",
+     "logo": "",
       "category" :"Ceuta y Melilla"
       },
     {
       "name": "Cadena Ser: Cataluña",
       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SER_BARCELONA.mp3",
-      "image": "",
+     "logo": "",
       "category" :"Cataluña"
       },
     {
       "name": "Cadena Ser: Castilla y León",
       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SER_VALLADOLID.mp3",
-      "image": "",
+     "logo": "",
       "category" :"Castilla y León"
       },
     {
       "name": "Cadena Ser: Castilla - La Mancha",
       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SER_TOLEDO.mp3",
-      "image": "",
+     "logo": "",
       "category" :"Castilla-La Mancha"
       },
     {
       "name": "Cadena Ser: Cantabria",
       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SER_SANTANDER.mp3",
-      "image": "",
+     "logo": "",
       "category" :"Cantabria"
       },
     {
       "name": "Cadena Ser: Gran Canaria",
       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SER_LAS_PALMAS.mp3",
-      "image": "",
+     "logo": "",
       "category" :"Canarias"
       },
     {
       "name": "Cadena Ser: Baleares",
       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SER_MALLORCA.mp3",
-      "image": "",
+     "logo": "",
       "category" :"Baleares"
       },
     {
       "name": "Cadena Ser: Aragón",
       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ZARAGOZA.mp3",
-      "image": "",
+     "logo": "",
       "category" :"Aragón"
       },
     {
       "name": "Cadena Ser: Andalucía",
       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SER_SEVILLA.mp3",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Radio Huesca",
       "url": "http://streamingradio.radiohuesca.com:8010/radiohuescaam",
-      "image": "",
+     "logo": "",
       "category" :"Aragón"
       },
     {
       "name": "Libertad FM",
       "url": "http://directo.libertadfm.es:8000/hq-libertadfm.mp3",
-      "image": "",
+     "logo": "",
       "category" :"Comunidad de Madrid"
       },
     {
       "name": "Unika FM",
       "url": "http://stream.unika.fm:8009/stream",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía",
         "Comunidad de Madrid"
       },
     {
       "name": "IB3",
       "url": "http://streaming01.ib3radio.com:8000/ib3radio.mp3",
-      "image": "",
+     "logo": "",
       "category" :"Baleares"
       },
     {
       "name": "Radio Balear",
       "url": "http://server2.20comunicacion.com:8076",
-      "image": "",
+     "logo": "",
       "category" :"Baleares"
       },
     {
       "name": "Odisea digital",
       "url": "http://radio.odiseadigital.com:8000/",
-      "image": "",
+     "logo": "",
       "category" :"Solo en Internet"
       },
     {
       "name": "Radio Carcoma",
       "url": "http://www.radiocarcoma.com:8080",
-      "image": "",
+     "logo": "",
       "category" :"Comunidad de Madrid"
       },
     {
       "name": "PlayTrance Radio",
       "url": "https://live-ff.playtrance.com/playtrance-main.mp3",
-      "image": "",
+     "logo": "",
       "category" :"Solo en Internet"
       },
     {
       "name": "Radio San Javier",
       "url": "http://84.124.104.26",
-      "image": "",
+     "logo": "",
       "category" :"Región de Murcia"
       },
     {
       "name": "La Mega Radio",
       "url": "http://streaming8.elitecomunicacion.es:8220",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "RadioPolis Sevilla",
       "url": "http://streaming5.elitecomunicacion.es:8022/stream",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Canal Extremadura",
       "url": "http://hlsradio.canalextremadura.es/liveradio/streamrd01/playlist.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Extremadura"
       },
     {
       "name": "Loca FM: Sessions",
       "url": "http://audio-online.net:8013/live",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Emisión Pirata",
       "url": "http://listen.radionomy.com/emision-pirata",
-      "image": "",
+     "logo": "",
       "category" :"Solo en Internet"
       },
     {
       "name": "Radio Esport",
       "url": "http://163.172.62.220:8000/radioesportweb",
-      "image": "",
+     "logo": "",
       "category" :"Comunidad Valenciana"
       },
     {
       "name": "Loca FM: Progressive House",
       "url": "http://audio-online.net:8011/live",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Radio Gorbea",
       "url": "http://radiogorbea.streaming-pro.com:8014",
-      "image": "",
+     "logo": "",
       "category" :"País Vasco"
       },
     {
       "name": "Radio Nervión",
       "url": "http://radionervion.streaming-pro.com:6015/radionervion",
-      "image": "",
+     "logo": "",
       "category" :"País Vasco"
       },
     {
       "name": "LocaFM: Dub Techno",
       "url": "http://audio-online.net:8015/live",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Loca FM: Tech House",
       "url": "http://audio-online.net:8008/live",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Loca FM: Latino",
       "url": "http://audio-online.net:8012/live",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Euskadi Digital",
       "url": "http://radio1.tecnicofm.com:8000",
-      "image": "",
+     "logo": "",
       "category" :"País Vasco"
       },
     {
       "name": "Loca FM: Ambient",
       "url": "http://audio-online.net:8007/live",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Pepe Radio",
       "url": "http://server7.20comunicacion.com:8000",
-      "image": "",
+     "logo": "",
       "category" :"Comunidad de Madrid"
       },
     {
       "name": "Radio Sol XXI",
       "url": "http://radiosolxxi.streaming-pro.com:8028",
-      "image": "",
+     "logo": "",
       "category" :"Comunidad de Madrid"
       },
     {
       "name": "Radio Fusion",
       "url": "http://srv0411.lcinternet.com:9005/stream",
-      "image": "",
+     "logo": "",
       "category" :"Galicia"
       },
     {
       "name": "Onda Cero",
       "url": "https://livefastly-webs.ondacero.es/ondacero/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Onda Cero: Tierras de Medina",
       "url": "http://server10.emitironline.com:8100",
-      "image": "",
+     "logo": "",
       "category" :"Castilla y León"
       },
     {
       "name": "RM Radio: Utiel-Requena",
       "url": "http://63.247.91.178:14085/stream",
-      "image": "",
+     "logo": "",
       "category" :"Comunidad Valenciana"
       },
     {
       "name": "Gum FM",
       "url": "http://gumfm.streaming-pro.com:8018",
-      "image": "",
+     "logo": "",
       "category" :"Cataluña"
       },
     {
       "name": "RM Radio: Manchuela y Quintanar",
       "url": "http://63.247.91.178:14085/stream",
-      "image": "",
+     "logo": "",
       "category" :"Castilla-La Mancha"
       },
     {
       "name": "iCat FM",
       "url": "https://directes-radio-int.ccma.cat/int/mp4:icatfm/playlist.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Cataluña"
       },
     {
       "name": "Flaixbac",
       "url": "http://radiostream.radioflaixbac.cat:8004",
-      "image": "",
+     "logo": "",
       "category" :"Cataluña"
       },
     {
       "name": "Flaix FM",
       "url": "http://radiostream.flaixfm.cat:8000",
-      "image": "",
+     "logo": "",
       "category" :"Cataluña"
       },
     {
       "name": "Catalunya Música",
       "url": "https://directes-radio-int.ccma.cat/int/mp4:catmusica/playlist.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Cataluña"
       },
     {
       "name": "Catalunya Informació",
       "url": "https://directes-radio-int.ccma.cat/int/mp4:catinform/playlist.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Cataluña"
       },
     {
       "name": "Catalunya Ràdio",
       "url": "https://directes-radio-int.ccma.cat/int/mp4:catradio/playlist.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Cataluña"
       },
     {
       "name": "Play Clubbing",
       "url": "https://live-ff.playclubbing.com/playclubbing.mp3",
-      "image": "",
+     "logo": "",
       "category" :"Solo en Internet"
       },
     {
       "name": "Ibiza Global Radio",
       "url": "http://ibgr.003.oye.fm:8024",
-      "image": "",
+     "logo": "",
       "category" :"Baleares"
       },
     {
       "name": "Radio Oro Málaga",
       "url": "http://portalradio.es:8002",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Radio Poniente",
       "url": "http://94.23.85.189:7855",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Radio Planeta",
       "url": "http://5.79.66.113:8004/",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Radiolé",
       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE_SC",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Vaughan Radio",
       "url": "http://vaughanradioweb.streaming-pro.com:8057",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Radio Marca: Barcelona",
       "url": "http://radiomarcabcnmedia.dns-lcinternet.com:9000/stream",
-      "image": "",
+     "logo": "",
       "category" :"Cataluña"
       },
     {
       "name": "Radio Marca",
       "url": "http://radiomarca.streaming-pro.com:8030/radiomarca.mp3",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Imagina Ràdio",
       "url": "http://server1.beatproducciones.com:8038",
-      "image": "",
+     "logo": "",
       "category" :"Cataluña"
       },
     {
       "name": "Onda Cero: Murcia",
       "url": "http://icecast-streaming.nice264.com/murcia",
-      "image": "",
+     "logo": "",
       "category" :"Región de Murcia"
       },
     {
       "name": "Máxima FM",
       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/MAXIMAFM_SC",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "LOS40 Classic",
       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSICAAC",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "LOS40: Cataluña",
       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CAT",
-      "image": "",
+     "logo": "",
       "category" :"Cataluña"
       },
     {
       "name": "EITB Musika",
       "url": "http://hdstreamflash-lh.akamaihd.net/i/EITB_Irratia_1@109221/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"País Vasco"
       },
     {
       "name": "Distinta FM",
       "url": "http://ns100.emisionlocal.com:8050",
-      "image": "",
+     "logo": "",
       "category" :"Cantabria"
       },
     {
       "name": "Castro Punto Radio",
       "url": "http://server8.emitironline.com:10891/",
-      "image": "",
+     "logo": "",
       "category" :"Canarias"
       },
     {
       "name": "Nostalgia FM",
       "url": "http://server.hablocomunicaciones.com:6002/oyentes128",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía",
         "Región de Murcia"
       },
     {
       "name": "Cadena Luna",
       "url": "http://54.38.188.28:8026",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía",
         "Cataluña",
         "Comunidad Valenciana"
@@ -1625,265 +1625,265 @@
     {
       "name": "Bizkaia Irratia",
       "url": "http://188.93.73.98:8076",
-      "image": "",
+     "logo": "",
       "category" :"País Vasco"
       },
     {
       "name": "Bit FM",
       "url": "http://server1.beatproducciones.com:8024",
-      "image": "",
+     "logo": "",
       "category" :"Navarra"
       },
     {
       "name": "Barcelona Digital Radio",
       "url": "http://89.163.231.60:8104/bcndigitalradio",
-      "image": "",
+     "logo": "",
       "category" :"Cataluña"
       },
     {
       "name": "Atlantis FM",
       "url": "http://178.33.232.106:7004",
-      "image": "",
+     "logo": "",
       "category" :"Canarias"
       },
     {
       "name": "La 97.7 Radio",
       "url": "http://teledifusion.tv:1935/977live/la977stream/playlist.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Comunidad Valenciana"
       },
     {
       "name": "06AM Ibiza Undergound",
       "url": "http://streams.radio.co/sd1bcd1376/listen",
-      "image": "",
+     "logo": "",
       "category" :"Baleares"
       },
     {
       "name": "Radio Marca: Tenerife",
       "url": "http://cervera.eldialdigital.com:8068",
-      "image": "",
+     "logo": "",
       "category" :"Canarias"
       },
     {
       "name": "Ke Buena",
       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/KEBUENA_ES",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Onda Cero: Zaragoza",
       "url": "https://livefastly-webs.ondacero.es/zaragoza-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Aragón"
       },
     {
       "name": "Onda Cero: Vitoria",
       "url": "https://livefastly-webs.ondacero.es/vitoria-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"País Vasco"
       },
     {
       "name": "Onda Cero: Vigo",
       "url": "https://livefastly-webs.ondacero.es/vigo-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Galicia"
       },
     {
       "name": "Onda Cero: Valladolid",
       "url": "https://livefastly-webs.ondacero.es/valladolid-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Castilla y León"
       },
     {
       "name": "Onda Cero: Valencia",
       "url": "https://livefastly-webs.ondacero.es/valencia-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Comunidad Valenciana"
       },
     {
       "name": "Onda Cero: Valdepeñas",
       "url": "https://livefastly-webs.ondacero.es/valdepenas-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Onda Cero: Torrevieja",
       "url": "http://icecast-streaming.nice264.com/torrevieja",
-      "image": "",
+     "logo": "",
       "category" :"Comunidad Valenciana"
       },
     {
       "name": "Onda Cero: Toledo",
       "url": "https://livefastly-webs.ondacero.es/toledo-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Castilla-La Mancha"
       },
     {
       "name": "Onda Cero: Teruel",
       "url": "https://livefastly-webs.ondacero.es/teruel-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Aragón"
       },
     {
       "name": "Onda Cero: Tarragona",
       "url": "https://livefastly-webs.ondacero.es/tarragona-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Cataluña"
       },
     {
       "name": "Onda Cero: Talavera de la Reina",
       "url": "https://livefastly-webs.ondacero.es/talavera-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Castilla-La Mancha"
       },
     {
       "name": "Onda Cero: Sevilla",
       "url": "https://livefastly-webs.ondacero.es/sevilla-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Onda Cero: Segovia",
       "url": "https://livefastly-webs.ondacero.es/segovia-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Castilla y León"
       },
     {
       "name": "Onda Cero: Santiago",
       "url": "https://livefastly-webs.ondacero.es/santiago-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Galicia"
       },
     {
       "name": "Onda Cero: Santander",
       "url": "https://livefastly-webs.ondacero.es/santander-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Cantabria"
       },
     {
       "name": "Onda Cero: San Sebastián",
       "url": "https://livefastly-webs.ondacero.es/sansebastian-pull/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"País Vasco"
       },
     {
       "name": "LOS40",
       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40AAC_SC",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Oye Radio",
       "url": "http://5.135.155.232:8009",
-      "image": "",
+     "logo": "",
       "category" :"País Vasco"
       },
     {
       "name": "Loca FM: Remember",
       "url": "http://audio-online.net:8006/live",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Loca FM: Techno",
       "url": "http://audio-online.net:8009/live",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Loca FM: Dance",
       "url": "http://audio-online.net:8004/live",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Loca FM: House",
       "url": "http://audio-online.net:8005/live",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Loca FM: Hard",
       "url": "http://audio-online.net:8003/live",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Loca FM: Chill out",
       "url": "http://audio-online.net:8002/live",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Loca FM: Trance",
       "url": "http://audio-online.net:8010/live",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Intereconomía Radio",
       "url": "http://212.85.46.144/siliconorg",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Hit FM",
       "url": "http://hitfm.kissfmradio.cires21.com/hitfm.mp3",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Europa FM",
       "url": "https://livefastly-webs.europafm.com/europafm/audio/master.m3u8",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "esRadio: Sevilla",
       "url": "http://livestreaming2.esradio.fm/sevilla",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "esRadio: Galicia",
       "url": "http://livestreaming2.esradio.fm/galicia",
-      "image": "",
+     "logo": "",
       "category" :"Galicia"
       },
     {
       "name": "Salvaje FM",
       "url": "http://www.giss.tv:8001/salvajefm.mp3",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "Radio TeleTaxi",
       "url": "http://radiott-web.streaming-pro.com:6003/radiott.mp3",
-      "image": "",
+     "logo": "",
       "category" :"Cataluña"
       },
     {
       "name": "Cadena Dial",
       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_SC",
-      "image": "",
+     "logo": "",
       "category" :"Other"
     },
     {
       "name": "Radio Mix FM",
       "url": "http://ns5.emisionlocal.com/cast/tunein.php/radiomix/playlist.pls",
-      "image": "",
+     "logo": "",
       "category" :"Cantabria"
       },
     {
       "name": "Radio Granada",
       "url": "http://escuchar.radiogranada.es:8028/granada.m3u",
-      "image": "",
+     "logo": "",
       "category" :"Andalucía"
       },
     {
       "name": "RockSatelite Madrid-One",
       "url": "http://listen.radionomy.com/rocksatelitemadridone",
-      "image": "",
+     "logo": "",
       "category" :"Solo en Internet"
       
     }
