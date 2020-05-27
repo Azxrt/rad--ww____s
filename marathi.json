@@ -5106,135 +5106,9 @@
     "category": "English Radios"
   },
   {
-    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/adada.jpg",
-    "name": "ANADA TV",
-    "url": "https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/live-orgin/anandatv.stream/chunks.m3u8",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
-    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/moviebangla_150x150.jpg.jpg",
-    "name": "MOVIE BANGLA TV",
-    "url": "https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/live-orgin/moviebanglalink2.stream/chunks.m3u8",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
-    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/mycinemabd.jpg",
-    "name": "MYCINEMA TV",
-    "url": "https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/live-orgin/mycinema-up2.stream/chunks.m3u8",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
-    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/btv.jpg",
-    "name": "BTV World",
-    "url": "https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/live-orgin/btvbd-office-sg.stream/chunks.m3u8",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
-    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/my_tv.jpg",
-    "name": "MY TV",
-    "url": "https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/live-orgin/mytv-up-off.stream/chunks.m3u8",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
-    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/rtdocumentary.jpg",
-    "name": "RT DOCUMENTRY",
-    "url": "https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtdocumentary.stream/live-orgin/rtdocumentary.stream/chunks.m3u8",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
-    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/dbc_news.jpg",
-    "name": "DBC NEWS",
-    "url": "https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/live-orgin/dbcnews.stream/chunks.m3u8",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
-    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/jamuna.jpg",
-    "name": "JAMUNA TV",
-    "url": "https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
-    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/bangla_vision.jpg",
-    "name": "BANGLA VISION",
-    "url": "https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/live-orgin/banglav000.stream/chunks.m3u8",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
-    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/atnmusic.jpg",
-    "name": "ATN BANGLA",
-    "url": "https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/live-orgin/atnbd-8-org.stream/chunks.m3u8",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
-    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/inds.jpg",
-    "name": "INDEPENDENT TV",
-    "url": "https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/live-orgin/independent-8-org.stream/chunks.m3u8",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
-    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/somoynews.jpg",
-    "name": "SOMOY TV",
-    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1589120511/ei/n7m3Xp6NF4jb4-EP1aG6mA4/ip/14.192.210.243/id/KgiwN7ddb2U.2/source/yt_live_broadcast/requiressl/yes/tx/23869216/txs/23869215%2C23869216%2C23888706%2C23888707/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23882513/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhALpbDkut9KUin2cJnjQ4scdtbH4PxBEm3fmQQ9EgMayxAiEAoTe3vEpLSDMrughOf-4Ug-XR-1N_9ZMxS61Dhq1WK_I%3D/file/index.m3u8",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
-    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/news24.jpg",
-    "name": "NEWS24",
-    "url": "https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/live-orgin/news24local.stream/chunks.m3u8",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
-    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/ntv.jpg",
-    "name": "NTV",
-    "url": "https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/live-orgin/ntvuk00332211.stream/chunks.m3u8",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
-    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/rtv_music.jpg",
-    "name": "RTV MUSIC",
-    "url": "https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
-    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/rtv.jpg",
-    "name": "RTV",
-    "url": "https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/live-orgin/rtv-sg.stream/chunks.m3u8",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
-    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/ekattor.jpg",
-    "name": "EKATTOR TV",
-    "url": "http://appcdn.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ekattor-8-orgd.stream/chunks.m3u8",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
-    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/star.jpg",
-    "name": "Star Movies",
-    "url": "http://livecdnh1.tvanywhere.ae:80/hls/star_movies/index.m3u8",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
-    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/star.jpg",
-    "name": "Star Movies",
-    "url": "http://livecdnh1.TVanywhere.ae:80/hls/star_movies/05.m3u8",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
-    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/zee.jpg",
-    "name": "Zee Aflam",
-    "url": "http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
     "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/sursagar24.jpg",
     "name": "Star World",
     "url": "http://sursagar24.dyndns.tv:8080/sstv/720p/index.m3u8",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
-    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/starworld.jpg",
-    "name": "Star World",
-    "url": "http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8",
     "category": "LIVE TV - AUDIO"
   },
   {
@@ -5277,12 +5151,6 @@
     "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/unknown.jpg",
     "name": "First India News TV",
     "url": "https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
-    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/unknown.jpg",
-    "name": "NewsNation",
-    "url": "https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in.m3u8",
     "category": "LIVE TV - AUDIO"
   },
   {
@@ -5436,12 +5304,6 @@
     "category": "LIVE TV - AUDIO"
   },
   {
-    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/ddbangla.jpg",
-    "name": "DD Bangla Live",
-    "url": "https://streamer-1.toffeelive.com/live/dd_bangla_720/index.m3u8",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
     "logo": "https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png",
     "name": "B4U Music",
     "url": "http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8",
@@ -5463,12 +5325,6 @@
     "logo": "http://www.dhamaal.tv/images/logo.png",
     "name": "Dhamal TV",
     "url": "http://linear06hun-lh.akamaihd.net/i/dhamaal_1@665243/index_2128_av-p.m3u8",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
-    "logo": "https://static.iptv-epg.com/in/Mastiii.in.png",
-    "name": "Masti Music",
-    "url": "https://streamidvo.multitvsolution.in/live/Mastiii-f/p4.m3u8",
     "category": "LIVE TV - AUDIO"
   },
   {
@@ -5496,45 +5352,15 @@
     "category": "LIVE TV - AUDIO"
   },
   {
-    "logo": "http://3.bp.blogspot.com/-caFTNTF9SEw/U21At_D7PwI/AAAAAAAAC04/HsQHvkfBSts/s1600/zoom-tv-logo.jpg",
-    "name": "Zoom Music",
-    "url": "http://livecdnh1.tvanywhere.ae/hls/zoom/04.m3u8",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
-    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/9xm.jpg",
-    "name": "9XO Music",
-    "url": "http://streamidvo.multitvsolution.in/9XO-b/playlist.m3u8",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
     "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/rplus.jpg",
     "name": "RPlus News",
     "url": "https://cdn.smartstream.video/smartstream-us/rplus/rplus/playlist.m3u8?new",
     "category": "LIVE TV - AUDIO"
   },
   {
-    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/9xm.jpg",
-    "name": "9XM Music",
-    "url": "https://streamer-1.toffeelive.com/live/9xm_720/index.m3u8",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
     "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/dd.jpg",
     "name": "DD Odia Live",
     "url": "http://streamidvo.multitvsolution.in/DDOdia-a/playlist.m3u8",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
-    "name": "Tej News",
-    "url": "http://vidcdn.vidgyor.com/tez-origin/liveabr/tez-origin/live3/chunks.m3u8",
-    "logo": "http://www.linatv.com/radiotvvv/verffve/Radi_tv_imag/images/21034_",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
-    "name": "Sky News",
-    "url": "http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/02.m3u8",
-    "logo": "http://www.linatv.com/radiotvvv/verffve/Radi_tv_imag/images/38096_",
     "category": "LIVE TV - AUDIO"
   },
   {
@@ -5547,12 +5373,6 @@
     "name": "NDTV India",
     "url": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/masterb_480p@2.m3u8",
     "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/ndtv.jpg",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
-    "name": "India TV",
-    "url": "http://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV_1_3@199237/chunks.m3u8",
-    "logo": "http://www.linatv.com/radiotvvv/verffve/Radi_tv_imag/images/79188_",
     "category": "LIVE TV - AUDIO"
   },
   {
@@ -5580,21 +5400,9 @@
     "category": "LIVE TV - AUDIO"
   },
   {
-    "name": "AAj Tak",
-    "url": "http://vidcdn.vidgyor.com/at-origin/desktoplive/at-origin/live4/chunks.m3u8",
-    "logo": "http://www.linatv.com/radiotvvv/verffve/Radi_tv_imag/images/59452_",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
     "name": "ପ୍ରାର୍ଥନା ଟିଭି",
     "url": "https://ddqrw22m7m37q.cloudfront.net/smartstream-us/prarthanaodiambr/prarthanaodiambr.smil/playlist.m3u8",
     "logo": "http://www.linatv.com/radiotvvv/verffve/Radi_tv_imag/images/19235_",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
-    "name": "ପ୍ରମେୟ ନ୍ୟୁଜ ୭",
-    "url": "http://news7.mycast.in/encode/news7/chunks.m3u8",
-    "logo": "http://www.linatv.com/radiotvvv/verffve/Radi_tv_imag/images/32850_",
     "category": "LIVE TV - AUDIO"
   },
   {
@@ -5613,18 +5421,6 @@
     "name": "ତରଙ୍ଗ ଟିଭି",
     "url": "https://ddqrw22m7m37q.cloudfront.net/smartstream-us/tarangtvmbr/tarangtvmbr.smil/playlist.m3u8",
     "logo": "http://www.linatv.com/radiotvvv/verffve/Radi_tv_imag/images/1796_",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
-    "name": "କଳିଙ୍ଗ ଟିଭି",
-    "url": "https://m-c04-j2apps.s.llnwi.net/hls/7001.Kalinga.in.m3u8",
-    "logo": "http://www.linatv.com/radiotvvv/verffve/Radi_tv_imag/images/19141_",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
-    "name": "କନକ ନ୍ୟୁଜ",
-    "url": "http://139.59.13.228:8081/live/stream/playlist.m3u8",
-    "logo": "http://www.linatv.com/radiotvvv/verffve/Radi_tv_imag/images/8586_",
     "category": "LIVE TV - AUDIO"
   },
   {
@@ -5652,12 +5448,6 @@
     "category": "LIVE TV - AUDIO"
   },
   {
-    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/dilse.jpg",
-    "name": "Hungama Dil Se TV",
-    "url": "http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
     "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/ddvyas.jpg",
     "name": "DD Vyas",
     "url": "http://playhls.media.nic.in/live/vyas-360p/index.m3u8",
@@ -5670,18 +5460,6 @@
     "category": "LIVE TV - AUDIO"
   },
   {
-    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/ddnews.jpg",
-    "name": "DD News",
-    "url": "http://playhls.media.nic.in/live/ddnews-360p/index.m3u8",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
-    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/b4umusic.jpg",
-    "name": "B4U Music",
-    "url": "http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
     "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/ddnational.jpg",
     "name": "DD National",
     "url": "http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8",
@@ -5691,36 +5469,6 @@
     "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/ddsports.jpg",
     "name": "DD Sports",
     "url": "http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
-    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/ddnortheast.jpg",
-    "name": "DD North East",
-    "url": "http://streamidvo.multitvsolution.in/DDNorthEast-c/playlist.m3u8",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
-    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/newstimesbangla.jpg",
-    "name": "NewsTime Bangla",
-    "url": "http://streamidvo.multitvsolution.in/NewsTimeBangla-c/playlist.m3u8",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
-    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/banglatime.jpg",
-    "name": "Bangla Time TV",
-    "url": "http://streamidvo.multitvsolution.in/BanglaTimeTV-f/playlist.m3u8",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
-    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/ddbangla.jpg",
-    "name": "DD Bangla Live",
-    "url": "http://streamidvo.multitvsolution.in/DDBangla-c/playlist.m3u8",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
-    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/dilliaajtak1.jpg",
-    "name": "Dilli Aaj tak",
-    "url": "https://vidcdn.vidgyor.com/dilliaajtak-origin/liveabr/playlist.m3u8",
     "category": "LIVE TV - AUDIO"
   },
   {
@@ -5760,45 +5508,9 @@
     "category": "LIVE TV - AUDIO"
   },
   {
-    "name": "9XM (4G) BETA",
-    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/9xm.jpg",
-    "url": "http://pockettv.xyz/api/zee.m3u8?c=9xm",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
     "name": "CN News",
     "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/calcutta_news.jpg",
     "url": "https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index.m3u8",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
-    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/andtv.jpg",
-    "name": "AndTv (4G) BETA",
-    "url": "http://pockettv.xyz/api/zee.m3u8?c=andtvhd",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
-    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/tv.jpg",
-    "name": "ZING Music (4G) BETA",
-    "url": "http://pockettv.xyz/api/zee.m3u8?c=zing",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
-    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/tv.jpg",
-    "name": "Etc Music (4G) BETA",
-    "url": "http://pockettv.xyz/api/zee.m3u8?c=etc",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
-    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/tv.jpg",
-    "name": "9xjalwa Music (4G) BETA",
-    "url": "http://pockettv.xyz/api/zee.m3u8?c=9xjalwa",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
-    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/indiatv.jpg",
-    "name": "India TV News",
-    "url": "http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237/master.m3u8",
     "category": "LIVE TV - AUDIO"
   },
   {
@@ -5811,12 +5523,6 @@
     "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/ddnews.jpg",
     "name": "DD News",
     "url": "https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8",
-    "category": "LIVE TV - AUDIO"
-  },
-  {
-    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/aajtak.jpg",
-    "name": "AAJ Tak",
-    "url": "https://vidcdn.vidgyor.com/at-origin/desktoplive/at-origin/live3/chunks.m3u8",
     "category": "LIVE TV - AUDIO"
   },
   {
