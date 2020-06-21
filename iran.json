@@ -362,31 +362,31 @@
   {
     "name": "Persian Rap",
     "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgs8jO1QkMCxIOU3RhdGlvblByb2ZpbGUYgIDg863P-gsMogEEemVubw/image/?resize=380x380",
-    "url": "https://node-07.zeno.fm/zux23fr0xqzuv.aac?rj-ttl=5",
+    "url": "http://stream.zeno.fm/zux23fr0xqzuv.aac",
     "category": "FARSI"
   },
   {
     "name": "Amir Radio",
     "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQgKyzuwoMCxIOU3RhdGlvblByb2ZpbGUYgICQgPvP1wgMogEEemVubw/image/?resize=380x380",
-    "url": "https://node-27.zeno.fm/wn35gykq4tzuv",
+    "url": "http://stream.zeno.fm/wn35gykq4tzuv.aac",
     "category": "FARSI"
   },
   {
     "name": "RADIO SIMORGH Original Persian Music",
     "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDAgabu0QgMCxIOU3RhdGlvblByb2ZpbGUYgICAgODBnAoMogEEemVubw/image/?resize=380x380",
-    "url": "https://node-27.zeno.fm/a4r7t5a6vrquv",
+    "url": "http://stream.zeno.fm/a4r7t5a6vrquv.aac",
     "category": "FARSI"
   },
   {
     "name": "Taboo",
     "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICg1Z2N9wkMCxIOU3RhdGlvblByb2ZpbGUYgICglfPz8wgMogEEemVubw/image/?resize=380x380",
-    "url": "https://node-24.zeno.fm/pwk3euevm8quv.aac",
+    "url": "http://stream.zeno.fm/pwk3euevm8quv.aac",
     "category": "FARSI"
   },
   {
     "name": "Kamyarion",
     "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgj5rTnAsMCxIOU3RhdGlvblByb2ZpbGUYgIDg98aF9wsMogEEemVubw/image/?resize=380x380",
-    "url": "https://stream.zeno.fm/ngdhbbc8qtzuv.aac",
+    "url": "http://stream.zeno.fm/ngdhbbc8qtzuv.aac",
     "category": "FARSI"
   },
   {
