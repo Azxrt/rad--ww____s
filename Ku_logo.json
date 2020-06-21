@@ -565,7 +565,7 @@
   },
   {
     "category": "KURDI",
-    "logo": "http://www.speda.net/images/2020/01/speda.png",
+    "logo": "",
     "name": "NRT3",
     "url": "http://216.66.42.23:7777/NRT3Kids/NRT3Kids_Low.m3u8"
   },
@@ -586,6 +586,12 @@
     "logo": "http://sterktv.net/wene/2019/10/cropped-sterk-logo-1-2.png",
     "name": "Sterk Tv",
     "url": "http://137.74.205.201/live2/sterk-3mbps.m3u8"
+  },
+  {
+    "category": "KURDI",
+    "logo": "https://nrttv.com/wene/nalifmlogo2.png",
+    "name": "Nalia Fm Badini",
+    "url": "http://162.244.80.52:7010/stream"
   },
   {
     "category": "KURDI",
@@ -616,12 +622,6 @@
     "logo": "https://nrttv.com/wene/nalifmlogo.png",
     "name": "Nalia Fm Sorani",
     "url": "http://162.244.80.52:7014/stream"
-  },
-  {
-    "category": "KURDI",
-    "logo": "https://nrttv.com/wene/nalifmlogo2.png",
-    "name": "Nalia Fm Badini",
-    "url": "http://162.244.80.52:7010/stream"
   },
   {
     "category": "KURDI",
