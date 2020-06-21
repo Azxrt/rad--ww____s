@@ -136,7 +136,7 @@
   {
     "name": "TRT Kurdi",
     "category": "KURDI",
-    "logo": "https://live-tv-channels.org/pt-data/uploads/logo/tr-trt-kurdi.jpg",
+    "logo": "https://dinleradyo.web.tr/assets/image/radio/180/trt%20radyo%20kurdi.jpg",
     "url": "https://radio-trtradyo6.live.trt.com.tr/master_128.m3u8"
   },
   {
@@ -261,7 +261,7 @@
   },
   {
     "category": "KURDI",
-    "logo": "http://app.berdan.net/ku/upload/8934-2016-05-01.jpg",
+    "logo": "https://radyonet.net/cdn/sarkilar/8a99f937a80a4a338d69a94aa0b6a78f.jpg",
     "name": "Radyo Ahmet Kaya",
     "url": "http://ahmetkaya.canliyayinda.com:9999"
   },
@@ -442,7 +442,7 @@
   },
   {
     "category": "KURDI",
-    "logo": "https://kurtceradyodinle.com/wp-content/uploads/2015/12/bismil-fm-dinle.jpg",
+    "logo": "https://images.keepone.net/3606-2019-09-08.jpg",
     "name": "Radyo Bismil Denge Bismil",
     "url": "http://ip183.radyotelekom.org:9824/"
   },
