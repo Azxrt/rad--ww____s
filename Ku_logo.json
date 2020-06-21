@@ -1,5 +1,4 @@
 [
-
   {
     "category": "KURDI",
     "logo": "https://dl.dropboxusercontent.com/s/uhfunui365r3y3i/rudaw.png",
@@ -41,6 +40,12 @@
     "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgxbLu1wkMCxIOU3RhdGlvblByb2ZpbGUYgIDgrbiCjggMogEEemVubw/image/?resize=380x380",
     "name": "NIGHTCORE RADIO ( test )",
     "url": "http://stream.zeno.fm/8xwhbskh8mzuv"
+  },
+  {
+    "category": "KURDI",
+    "logo": "https://res.cloudinary.com/zoominfo-com/image/upload/w_70,h_70,c_fit/krpexpress.co.uk",
+    "name": "KURDSTAN RP",
+    "url": "http://stream.zeno.fm/ypd308c3f2zuv"
   },
   {
     "category": "KURDI",
@@ -108,7 +113,6 @@
     "name": "Dengi Kurdsat",
     "url": "http://uk3.internet-radio.com:8011/stream"
   },
-
   {
     "category": "KURDI",
     "logo": "https://babylonfm.net/wp-content/uploads/2017/07/Babylon-Turkce-logo-170x170.png",
@@ -144,12 +148,6 @@
     "logo": "https://www.kurdistantv.net/sites/default/files/ktv-logo-hd-01.png",
     "name": "Kurdistan tv",
     "url": "https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8"
-  },
-  {
-    "category": "KURDI",
-    "logo": "http://kurdtvs.net/uploads/files/22-04-2019-bb4aecde-kurdmaxmusic.png",
-    "name": "Kurdmax Music",
-    "url": "https://31.14.40.139:1935/music/livestream/playlist.m3u8"
   },
   {
     "category": "KURDI",
@@ -351,7 +349,7 @@
   },
   {
     "category": "KURDI",
-    "logo": "https://lh3.googleusercontent.com/proxy/_ameme7dvVBY5gwAgrimJQuRxYaTKDS9qX_Q0FJUUjjJuzmTVOozfVXUzvDTj200KNQXYZHpU2BJrEluN3g",
+    "logo": "https://i1.sndcdn.com/avatars-000129887218-0dbget-t500x500.jpg",
     "name": "Speda FM",
     "url": "http://162.244.80.52:9984/stream.mp3"
   },
@@ -433,7 +431,6 @@
     "name": "Star FM",
     "url": "http://212.83.138.48:8204/;"
   },
-
   {
     "category": "KURDI",
     "logo": "https://www.kurdifm.com/wp-content/themes/kurdi-fm/images/kurdi-fm.png",
@@ -472,18 +469,172 @@
   },
   {
     "category": "KURDI",
+    "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ_Mup6AsMCxIOU3RhdGlvblByb2ZpbGUYgICQ_Pvv1AgMogEEemVubw/image/?resize=380x380",
+    "name": "K-Radyo",
+    "url": "http://stream.zeno.fm/nxdqn2zw4yzuv"
+  },
+  {
+    "category": "KURDI",
     "logo": "https://www.radioonlinelive.com/wp-content/uploads/2019/11/Radio-Sardam.jpg",
     "name": "Radio Sardam ",
     "url": "http://node-05.zeno.fm/km3apn7gfrruv"
   },
-
   {
     "category": "KURDI",
     "logo": "https://dl.dropboxusercontent.com/s/o6grf3urh1ik8gn/zeregwan.png",
     "name": "Zerguwan-Fm",
     "url": "http://ssl120.radyotelekom.com.tr:7366/stream"
   },
-
+  {
+    "category": "KURDI",
+    "logo": "http://app.berdan.net/ku/upload/0676-2017-10-04.png",
+    "name": "Emek Radyo",
+    "url": "http://radyolar.yayindinle.net:8585/;stream.mp3"
+  },
+  {
+    "category": "KURDI",
+    "logo": "http://canlikurtceradyodinle.com/wp-content/uploads/2018/12/radyo-helex-177x111.png",
+    "name": "Radyo Helex",
+    "url": "http://radyolar.yayindinle.net:9306/;stream.mp3"
+  },
+  {
+    "category": "KURDI",
+    "logo": "http://kurtceradyodinle.com/wp-content/uploads/2016/02/radyo-denge-kurdi-dinle.jpg",
+    "name": "Radyo Denge Kurdi",
+    "url": "https://anadolu.liderhost.com.tr:10939/;"
+  },
+  {
+    "category": "KURDI",
+    "logo": "https://images.keepone.net/4944-2019-03-07.jpg",
+    "name": "Gundi FM",
+    "url": "http://gundifm.ozelip.com:7830/"
+  },
+  {
+    "category": "KURDI",
+    "logo": "https://kurdi.mazlumtahan.xyz/uploads/radios/radio_74607_eXsuxRYo_400x400.jpg",
+    "name": "Radyo Doğubeyazıt",
+    "url": "http://gundifm.ozelip.com:7830/"
+  },
+  {
+    "category": "KURDI",
+    "logo": "https://kurdi.mazlumtahan.xyz/uploads/radios/radio_73995_unnamed%20(12).png",
+    "name": "Radyo Gülistan",
+    "url": "https://anadolu.liderhost.com.tr:10967/;"
+  },
+  {
+    "category": "KURDI",
+    "logo": "https://static.radio.net/images/broadcasts/8b/db/2459/2/c175.png",
+    "name": "COSMO Bernama Kurdî",
+    "url": "https://fhe-lh.akamaihd.net/i/wdr_fhe@384699/index_3_a-b.m3u8"
+  },
+  {
+    "category": "KURDI",
+    "logo": "https://vowim.org/images/flash/jcfmapps.png",
+    "name": "Jesus Coming FM",
+    "url": "http://live.jesuscomingfm.com:8338/;"
+  },
+  {
+    "category": "KURDI",
+    "logo": "https://2.bp.blogspot.com/-4CPQohoE8iY/XMH3delGYzI/AAAAAAAACug/7nJbj4DsI8wjslasfwxoKthULG-6y5FwgCLcBGAs/w150-h150/KurdMax-Show-So.png",
+    "name": "Kurdmax Show",
+    "url": "https://5aa8c7549bfa9.streamlock.net/liveTrans/ngrp:SHOW1_all/chunklist.m3u8"
+  },
+  {
+    "category": "KURDI",
+    "logo": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/pwp8tsaw4n8a.png",
+    "name": "kurdsat.tv",
+    "url": "https://besttv520.aoslive.it.best-tv.com/egress/bhandler/ikomg/kurdsat/chunklist.m3u8"
+  },
+  {
+    "category": "KURDI",
+    "logo": "https://www.kurdipedia.org/files/photos/2014/115360.JPG",
+    "name": "Dengi Gelî KurdIstan",
+    "url": "http://51.75.66.91:8080/gksat.mp4"
+  },
+  {
+    "category": "KURDI",
+    "logo": "https://hometvkurd.com/uploads/tv_image/cihan-tv-live.png",
+    "name": "Cihan TV",
+    "url": "http://liveshell.net:1935/live/cihann/chunklist.m3u8"
+  },
+  {
+    "category": "KURDI",
+    "logo": "http://www.speda.net/images/2020/01/speda.png",
+    "name": "Speda TV",
+    "url": "http://liveshell.net:1935/live/%20speda084k/chunklist.m3u8"
+  },
+  {
+    "category": "KURDI",
+    "logo": "https://4.bp.blogspot.com/-3wlKC6Vi0Kk/XMH3eECvIsI/AAAAAAAACus/8d9l-83sMqYXHIyaXD5RwdwkpYzlW-mawCLcBGAs/w150-h150/KurdSat-News.png",
+    "name": "KurdSat News",
+    "url": "http://216.66.42.23:7777/KurdsatNews/KurdsatNews_Low.m3u8"
+  },
+  {
+    "category": "KURDI",
+    "logo": "http://www.speda.net/images/2020/01/speda.png",
+    "name": "NRT3",
+    "url": "http://216.66.42.23:7777/NRT3Kids/NRT3Kids_Low.m3u8"
+  },
+  {
+    "category": "KURDI",
+    "logo": "https://www.peyam.net/wene/logo.png",
+    "name": "Payam TV",
+    "url": "https://5ab29cc78f681.streamlock.net/PayamTV/livestream/media.m3u8"
+  },
+  {
+    "category": "KURDI",
+    "logo": "http://www.medyahaber.info/wp-content/uploads/2019/11/logo1-285x300.png",
+    "name": "Medya Haber",
+    "url": "http://137.74.205.201/live1/mh-3mbps.m3u8"
+  },
+  {
+    "category": "KURDI",
+    "logo": "http://sterktv.net/wene/2019/10/cropped-sterk-logo-1-2.png",
+    "name": "Sterk Tv",
+    "url": "http://137.74.205.201/live2/sterk-3mbps.m3u8"
+  },
+  {
+    "category": "KURDI",
+    "logo": "http://kurd.fm/wp-content/uploads/2019/01/Kurd.fm_kurdish_music_songs.jpg",
+    "name": "Ciyaye Kurmenc, Kurd Fm",
+    "url": "http://ciyaye-kurmenc.net:8000/;stream.mp3"
+  },
+  {
+    "category": "KURDI",
+    "logo": "https://is5-ssl.mzstatic.com/image/thumb/Purple127/v4/05/ae/d6/05aed6ce-08b0-802a-c168-2f44ef7ac1df/source/512x512bb.jpg",
+    "name": "Buyer FM",
+    "url": "http://s2.voscast.com:10622/;stream.mp3"
+  },
+  {
+    "category": "KURDI",
+    "logo": "https://dl.dropboxusercontent.com/s/lm3ixg57adf8eiq/kurdradio.png",
+    "name": "Kurd Radyo",
+    "url": "http://radio.kurdradio.se:1999/;"
+  },
+  {
+    "category": "KURDI",
+    "logo": "https://dl.dropboxusercontent.com/s/p2b5jdf8t0ypjga/dwarozh.png",
+    "name": "Dwarozh-Radio",
+    "url": "http://38.96.148.28:9756/;stream.mp3"
+  },
+  {
+    "category": "KURDI",
+    "logo": "https://nrttv.com/wene/nalifmlogo.png",
+    "name": "Nalia Fm Sorani",
+    "url": "http://162.244.80.52:7014/stream"
+  },
+  {
+    "category": "KURDI",
+    "logo": "https://nrttv.com/wene/nalifmlogo2.png",
+    "name": "Nalia Fm Badini",
+    "url": "http://162.244.80.52:7010/stream"
+  },
+  {
+    "category": "KURDI",
+    "logo": "https://nrttv.com/wene/nrt1logo.png",
+    "name": "Nalia Tv",
+    "url": "https://5d5e28481f3ad.streamlock.net/NRTHD/ngrp:livestream_all/media.m3u8"
+  },
   {
     "category": "ISLAMIC",
     "logo": "https://dl.dropboxusercontent.com/s/eamoncaiif635ek/saadalghamdy.png",
