@@ -1,10 +1,5 @@
 [
-  {
-    "category": "KURDI",
-    "logo": "https://dl.dropboxusercontent.com/s/ss6kuxluls4rv50/waar.png",
-    "name": "WAAR RADIO",
-    "url": "https://5cc309e93b721.streamlock.net:443/8412/8412/playlist.m3u8"
-  },
+
   {
     "category": "KURDI",
     "logo": "https://dl.dropboxusercontent.com/s/uhfunui365r3y3i/rudaw.png",
@@ -134,39 +129,14 @@
   },
   {
     "category": "KURDI",
-    "logo": "https://eu7.fastcast4u.com/proxy/radioankawa",
+    "logo": "https://babylonfm.net/wp-content/uploads/2018/02/466393_426747707354868_436621014_o-170x170.jpg",
     "name": "Ankawa Radio",
-    "url": "http://37.59.32.115:5228/index.mp3"
-  },
-
-  {
-    "category": "KURDI",
-    "logo": "https://nrttv.com/wene/nalifmlogo.png",
-    "name": "Nalia Fm Sorani",
-    "url": "http://162.244.80.52:7014/stream"
-  },
-  {
-    "category": "KURDI",
-    "logo": "https://nrttv.com/wene/nalifmlogo2.png",
-    "name": "Nalia Fm Badini",
-    "url": "http://162.244.80.52:7010/stream"
-  },
-  {
-    "category": "KURDI",
-    "logo": "https://nrttv.com/wene/nrt1logo.png",
-    "name": "Nalia Tv",
-    "url": "https://5d5e28481f3ad.streamlock.net/NRTHD/ngrp:livestream_all/media.m3u8"
-  },
-  {
-    "name": "Radio Gorran",
-    "category": "KURDI",
-    "logo": "https://static.tuneyou.com/images/logos/500_500/68/5968/RadioGorran.jpg",
-    "url": "http://162.244.80.30:8172/;stream.mp3"
+    "url": "https://eu7.fastcast4u.com/proxy/radioankawa"
   },
   {
     "name": "TRT Kurdi",
     "category": "KURDI",
-    "logo": "http://services.canlimobilradyo.com/logo/52.jpg",
+    "logo": "https://live-tv-channels.org/pt-data/uploads/logo/tr-trt-kurdi.jpg",
     "url": "https://radio-trtradyo6.live.trt.com.tr/master_128.m3u8"
   },
   {
@@ -183,7 +153,7 @@
   },
   {
     "category": "KURDI",
-    "logo": "http://app.berdan.net/ku/upload/2865-2017-10-02.png",
+    "logo": "https://canliradyodinle.web.tr/wp-content/uploads/2012/04/dicle-fm.jpg",
     "name": "Dicle FM",
     "url": "http://95.173.162.182:9988/;"
   },
@@ -357,7 +327,7 @@
   },
   {
     "category": "KURDI",
-    "logo": "http://app.berdan.net/ku/upload/9187-2016-05-01.jpg",
+    "logo": "https://d2iw5las1rjvep.cloudfront.net/rfm/stimg/uploads/blogo/300/300_radyo-piryolu.png",
     "name": "Radyo Piryolu",
     "url": "http://radyopiryolu.canliyayinda.com:8165"
   },
@@ -441,7 +411,7 @@
   },
   {
     "category": "KURDI",
-    "logo": "http://app.berdan.net/ku/upload/3127-2017-02-22.png",
+    "logo": "https://orkesfm.com/wp-content/uploads/2019/02/logo-1.png",
     "name": "Orkes FM",
     "url": "http://212.83.138.48:8257/;"
   },
@@ -472,7 +442,7 @@
   },
   {
     "category": "KURDI",
-    "logo": "http://app.berdan.net/ku/upload/8767-2016-12-16.jpg",
+    "logo": "https://kurtceradyodinle.com/wp-content/uploads/2015/12/bismil-fm-dinle.jpg",
     "name": "Radyo Bismil Denge Bismil",
     "url": "http://ip183.radyotelekom.org:9824/"
   },
