@@ -72,24 +72,6 @@
     "logo": "https://cdn.onlineradiobox.com/img/logo/8/31498.v3.png"
   },
   {
-    "name": "Radio Jadeed",
-    "logo": "https://static.wixstatic.com/media/a72f3a_2b7e64760ab04baa9a928953d3511600~mv2.png?dn=r24568.png",
-    "category": "FARSI",
-    "url": "http://50.7.70.66:8705/;"
-  },
-  {
-    "name": "Radio 70s Persian",
-    "logo": "http://www.sedaye-iran.com/images/emblems/default_music.jpg",
-    "url": "http://38.99.146.102:8000/KMspersian.mp3",
-    "category": "FARSI"
-  },
-  {
-    "name": "Radio Asheghaneh",
-    "logo": "http://www.sedaye-iran.com/images/emblems/default_music.jpg",
-    "url": "http://38.99.146.102:8000/asheghaneh.mp3",
-    "category": "FARSI"
-  },
-  {
     "name": "Nava7",
     "category": "FARSI",
     "url": "http://5.39.71.159:8578/stream",
@@ -118,12 +100,6 @@
     "logo": "",
     "name": "Radio.GL (GLWiZ) Pop",
     "url": "http://192.34.153.102:8000/RadioGL.mp3"
-  },
-  {
-    "category": "FARSI",
-    "logo": "http://www.sedaye-iran.com/images/emblems/radio_faryad.jpg",
-    "name": "Radio Faryad",
-    "url": "http://88.198.131.30:8443/live.mp3"
   },
   {
     "category": "FARSI",
@@ -159,7 +135,7 @@
     "category": "FARSI",
     "logo": "http://www.sedaye-iran.com/images/emblems/radio_tondar.jpg",
     "name": "Radio Tondar",
-    "url": "http://radio.tondar.org:8000/128"
+    "url": "http://radio.tondar.org:8000/64"
   },
   {
     "name": "SPUTNIK Persian",
@@ -262,6 +238,162 @@
     "category": "FARSI",
     "url": "http://109.169.23.22/stream.mp3?ipport=109.169.23.22_37782",
     "logo": "https://cdn-radiotime-logos.tunein.com/s51117g.png"
+  },
+  {
+    "name": "Radio Shemroon",
+    "logo": "http://api.radiosworld.info/files/radio/logo/ce6942f3265b12b21229f7540d50580421fa0850.jpeg",
+    "category": "FARSI",
+    "url": "http://usa7.fastcast4u.com:5919/;"
+  },
+  {
+    "name": "Hamsafar Radio",
+    "logo": "https://static.wixstatic.com/media/a72f3a_f89da3ce51564d5b9af8aa4c221b231b~mv2.png?dn=r24552.png",
+    "category": "FARSI",
+    "url": "http://ice2.securenetsystems.net:80/HUMSAFAR?type=.flv?type=.mp3/;stream.mp3"
+  },
+  {
+    "name": "VOA News",
+    "logo": "https://static.wixstatic.com/media/a72f3a_11cb6e02b6cd428991939f91f0d33ed0~mv2.png?dn=r24576.png",
+    "category": "FARSI",
+    "url": "http://voa-28.akacast.akamaistream.net/7/54/322040/v1/ibb.akacast.akamaistream.net/voa-28"
+  },
+  {
+    "name": "Radio Ayeneh 97",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_ayeneh.jpg",
+    "url": "http://83.251.229.97/streampath1.mp3/;",
+    "category": "FARSI"
+  },
+  {
+    "name": "Rangarang",
+    "logo": "http://www.sedaye-iran.com/images/emblems/rangarang.jpg",
+    "url": "http://198.199.127.150:8000/stream/2/",
+    "category": "FARSI"
+  },
+  {
+    "name": "Rangarang Joowalldooz",
+    "logo": "http://www.sedaye-iran.com/images/emblems/rangarang_joowaldooz.jpg",
+    "url": "http://198.199.127.150:8000/stream/3/",
+    "category": "FARSI"
+  },
+  {
+    "name": "Rangarang Political",
+    "logo": "http://www.sedaye-iran.com/images/emblems/rangarang_flashbake.jpg",
+    "url": "http://198.199.127.150:8000/stream/1/",
+    "category": "FARSI"
+  },
+  {
+    "name": "PERSIANSEDA RADIO",
+    "logo": "http://www.sedaye-iran.com/images/emblems/persianseda_radio.jpg",
+    "url": "http://icecast.commedia.org.uk:8000/allfm.mp3",
+    "category": "FARSI"
+  },
+  {
+    "name": "RADIO PARASTESH - رادیو پرستش",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_parastesh.jpg",
+    "url": "http://mohabat.streamguys1.com/Mohabat-128K",
+    "category": "FARSI"
+  },
+  {
+    "name": "ARIANA FM",
+    "logo": "http://www.sedaye-iran.com/images/emblems/ariana_fm.jpg",
+    "url": "https://streams.radio.co/sa3345aaa8/listen",
+    "category": "FARSI"
+  },
+  {
+    "name": "RADIO MA VA SHOMA",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_ma_va_shoma.jpg",
+    "url": "http://hemnos.cdnstream.com/1877_128",
+    "category": "FARSI"
+  },
+  {
+    "name": "RADIO JAVANAN",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_javanan.jpg",
+    "url": "http://5.39.71.159:8578/stream",
+    "category": "FARSI"
+  },
+  {
+    "name": "RADIO ARINA - AMG",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_arina_amg.jpg",
+    "url": "http://192.34.153.102:8000/AMGRadio.mp3",
+    "category": "FARSI"
+  },
+  {
+    "name": "STOCKHOLMIAN",
+    "logo": "http://www.sedaye-iran.com/images/emblems/stockholmian.png",
+    "url": "http://217.210.9.84:8000/;",
+    "category": "FARSI"
+  },
+  {
+    "name": "RADIO SETAREH - رادیو ستاره",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_setareh.jpg",
+    "url": "http://78.129.222.62:16743/stream",
+    "category": "FARSI"
+  },
+  {
+    "name": "RADIO RAN",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_ran.jpg",
+    "url": "http://185.80.220.12:8047/live",
+    "category": "FARSI"
+  },
+  {
+    "name": "AVAZ FARSI RADIO",
+    "logo": "http://www.sedaye-iran.com/images/emblems/avaz_farsi_radio.jpg",
+    "url": "http://108.179.220.88:9300/stream",
+    "category": "FARSI"
+  },
+  {
+    "name": "RADIO IRAN GÖTEBORG",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_iran_goeteborg.jpg",
+    "url": "http://lyssna.fnf.nu:8080/gnf102.mp3",
+    "category": "FARSI"
+  },
+  {
+    "name": "RADIO DONYA - رادیو دنیا",
+    "logo": "http://www.sedaye-iran.com/images/emblems/radio_donya.png",
+    "url": "http://ais-sa2.cdnstream1.com/1305_128.mp3",
+    "category": "FARSI"
+  },
+  {
+    "name": "Radio Romaan",
+    "logo": "https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDg556W8AoMCxIOU3RhdGlvblByb2ZpbGUYgIDgp8ax8QoMogEEemVubw/image/?resize=380x380",
+    "url": "https://node-10.zeno.fm/yqdk4q7zetzuv.aac",
+    "category": "FARSI"
+  },
+  {
+    "name": "Persian Rap",
+    "logo": "https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgs8jO1QkMCxIOU3RhdGlvblByb2ZpbGUYgIDg863P-gsMogEEemVubw/image/?resize=380x380",
+    "url": "https://node-07.zeno.fm/zux23fr0xqzuv.aac",
+    "category": "FARSI"
+  },
+  {
+    "name": "Amir Radio",
+    "logo": "https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQgKyzuwoMCxIOU3RhdGlvblByb2ZpbGUYgICQgPvP1wgMogEEemVubw/image/?resize=380x380",
+    "url": "https://node-18.zeno.fm/wn35gykq4tzuv.aac",
+    "category": "FARSI"
+  },
+  {
+    "name": "RADIO SIMORGH Original Persian Music",
+    "logo": "https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDAgabu0QgMCxIOU3RhdGlvblByb2ZpbGUYgICAgODBnAoMogEEemVubw/image/?resize=380x380",
+    "url": "https://node-14.zeno.fm/a4r7t5a6vrquv.aac",
+    "category": "FARSI"
+  },
+  {
+    "name": "Taboo",
+    "logo": "https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICg1Z2N9wkMCxIOU3RhdGlvblByb2ZpbGUYgICglfPz8wgMogEEemVubw/image/?resize=380x380",
+    "url": "https://node-17.zeno.fm/pwk3euevm8quv.aac",
+    "category": "FARSI"
+  },
+  {
+    "name": "Kamyarion",
+    "logo": "https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgj5rTnAsMCxIOU3RhdGlvblByb2ZpbGUYgIDg98aF9wsMogEEemVubw/image/?resize=380x380",
+    "url": "https://node-34.zeno.fm/ngdhbbc8qtzuv.aac",
+    "category": "FARSI"
+  },
+  {
+    "name": "Rangarang Music Persian",
+    "logo": "http://www.sedaye-iran.com/images/emblems/rangarang_music.jpg",
+    "url": "http://198.199.127.150:8000/stream/4/",
+    "category": "FARSI"
   },
   {
     "name": "Ahlulbayt TV",
@@ -382,83 +514,5 @@
     "category": "FARSI",
     "url": "https://s2.radio.co/s830691c74/listen",
     "logo": "https://cdn.onlineradiobox.com/img/logo/9/74929.v3.png"
-  },
-  {
-    "name": "Radio Shemroon",
-    "logo": "http://api.radiosworld.info/files/radio/logo/ce6942f3265b12b21229f7540d50580421fa0850.jpeg",
-    "category": "FARSI",
-    "url": "http://usa7.fastcast4u.com:5919/;"
-  },
-  {
-    "name": "Hamsafar Radio",
-    "logo": "https://static.wixstatic.com/media/a72f3a_f89da3ce51564d5b9af8aa4c221b231b~mv2.png?dn=r24552.png",
-    "category": "FARSI",
-    "url": "http://ice2.securenetsystems.net:80/HUMSAFAR?type=.flv?type=.mp3/;stream.mp3"
-  },
-  {
-    "name": "VOA News",
-    "logo": "https://static.wixstatic.com/media/a72f3a_11cb6e02b6cd428991939f91f0d33ed0~mv2.png?dn=r24576.png",
-    "category": "FARSI",
-    "url": "http://voa-28.akacast.akamaistream.net/7/54/322040/v1/ibb.akacast.akamaistream.net/voa-28"
-  },
-  {
-    "name": "Radio Ayeneh 97",
-    "logo": "http://www.sedaye-iran.com/images/emblems/radio_ayeneh.jpg",
-    "url": "http://83.251.229.97/streampath1.mp3/;",
-    "category": "FARSI"
-  },
-  {
-    "name": "Rangarang",
-    "logo": "http://www.sedaye-iran.com/images/emblems/rangarang.jpg",
-    "url": "http://198.199.127.150:8000/stream/2/",
-    "category": "FARSI"
-  },
-  {
-    "name": "Rangarang Joowalldooz",
-    "logo": "http://www.sedaye-iran.com/images/emblems/rangarang_joowaldooz.jpg",
-    "url": "http://198.199.127.150:8000/stream/3/",
-    "category": "FARSI"
-  },
-  {
-    "name": "Rangarang Political",
-    "logo": "http://www.sedaye-iran.com/images/emblems/rangarang_flashbake.jpg",
-    "url": "http://198.199.127.150:8000/stream/1/",
-    "category": "FARSI"
-  },
-  {
-    "name": "PERSIANSEDA RADIO",
-    "logo": "http://www.sedaye-iran.com/images/emblems/persianseda_radio.jpg",
-    "url": "http://icecast.commedia.org.uk:8000/allfm.mp3",
-    "category": "FARSI"
-  },
-  {
-    "name": "RADIO PARASTESH - رادیو پرستش",
-    "logo": "http://www.sedaye-iran.com/images/emblems/radio_parastesh.jpg",
-    "url": "http://mohabat.streamguys1.com/Mohabat-128K",
-    "category": "FARSI"
-  },
-  {
-    "name": "ARIANA FM",
-    "logo": "http://www.sedaye-iran.com/images/emblems/ariana_fm.jpg",
-    "url": "https://streams.radio.co/sa3345aaa8/listen",
-    "category": "FARSI"
-  },
-  {
-    "name": "RADIO MA VA SHOMA",
-    "logo": "http://www.sedaye-iran.com/images/emblems/radio_ma_va_shoma.jpg",
-    "url": "http://hemnos.cdnstream.com/1877_128",
-    "category": "FARSI"
-  },
-  {
-    "name": "RADIO JAVANAN",
-    "logo": "http://www.sedaye-iran.com/images/emblems/radio_javanan.jpg",
-    "url": "http://5.39.71.159:8578/stream",
-    "category": "FARSI"
-  },
-  {
-    "name": "Rangarang Music Persian",
-    "logo": "http://www.sedaye-iran.com/images/emblems/rangarang_music.jpg",
-    "url": "http://198.199.127.150:8000/stream/4/",
-    "category": "FARSI"
   }
 ]
