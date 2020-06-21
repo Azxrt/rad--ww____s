@@ -2070,452 +2070,320 @@
     "logo": "https://dl.dropboxusercontent.com/s/0a75sebiunhurcf/DanceRadio%20FreestyleFM.png"
   },
   {
-    "name": "US Arab Radio",
-    "category": "ARABIC - NEWS FM",
-    "url": "http://radio.oui9.com/aradio/news_radio/?id=30",
-    "logo": "http://radio.oui9mobi.com/apps/images/nws30.png"
-  },
-  {
-    "name": "CNBC ARABIA",
-    "category": "ARABIC - NEWS FM",
-    "url": "http://vod.hibridcdn.net/cnbc/liveabr/cnbc/live1/chunks.m3u8",
-    "logo": "http://radio.oui9mobi.com/apps/images/nz06.png"
-  },
-  {
-    "name": "Sky News TV",
-    "category": "ARABIC - NEWS FM",
-    "url": "https://stream.skynewsarabia.com/hls/sna.m3u8",
-    "logo": "http://radio.oui9mobi.com/apps/images/nz07.png"
-  },
-  {
-    "name": "RADIO Skynews",
-    "category": "ARABIC - NEWS FM",
-    "url": "https://radio.skynewsarabia.com/stream/radio/skynewsarabia",
-    "logo": "http://radio.oui9mobi.com/apps/images/55sky.png"
-  },
-  {
-    "name": "France 24 Arabic",
-    "category": "ARABIC - NEWS FM",
-    "url": "http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8",
-    "logo": "http://radio.oui9mobi.com/apps/images/nz04.png"
-  },
-  {
-    "name": "Radio BBC",
-    "category": "ARABIC - NEWS FM",
-    "url": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba",
-    "logo": "http://radio.oui9mobi.com/apps/images/53.png"
-  },
-  {
-    "name": "Radio Sputnik Arabic",
-    "category": "ARABIC - NEWS FM",
-    "url": "http://radio.oui9.com/aradio/news_radio/?id=34",
-    "logo": "http://radio.oui9mobi.com/apps/images/nws34a.png"
-  },
-  {
-    "name": "RADIO FRANCE MAGHREB 2",
-    "category": "ARABIC - NEWS FM",
-    "url": "http://radio.oui9.com/aradio/FR/?id=46",
-    "logo": "http://radio.oui9mobi.com/apps/images/fr23.png"
-  },
-  {
-    "name": "Radio SBS Arabic",
-    "category": "ARABIC - NEWS FM",
-    "url": "http://radio.oui9.com/aradio/news_radio/?id=6",
-    "logo": "http://radio.oui9mobi.com/apps/images/55.png"
-  },
-  {
-    "name": "Al Jazeera",
-    "category": "ARABIC - NEWS FM",
-    "url": "http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/radioaudio.m3u8",
-    "logo": "http://radio.oui9mobi.com/apps/images/nws34.png"
-  },
-  {
-    "name": "Al Arabia Alhadath",
-    "category": "ARABIC - NEWS FM",
-    "url": "http://av.alarabiya.net/alarabiapublish/alhadath_720p/playlist.m3u8",
-    "logo": "http://radio.oui9mobi.com/apps/images/nz01.png"
-  },
-  {
-    "name": "Al Arabia FM",
-    "category": "ARABIC - NEWS FM",
-    "url": "http://livecdnh3.tvanywhere.ae/hls/alarabiya/02.m3u8",
-    "logo": "http://radio.oui9mobi.com/apps/images/nz02.png"
-  },
-  {
-    "name": "Al Hadath News",
-    "category": "ARABIC - NEWS FM",
-    "url": "https://fm.alarabiya.net/fm/myStream/playlist.m3u8",
-    "logo": "http://radio.oui9mobi.com/apps/images/nz03.png"
-  },
-  {
-    "name": "Asharqiyah",
-    "category": "ARABIC - NEWS FM",
-    "url": "http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8",
-    "logo": "http://radio.oui9mobi.com/apps/images/nz05.png"
-  },
-  {
-    "name": "Syria News",
-    "category": "ARABIC - NEWS FM",
-    "url": "http://82.137.248.16:1935/Snews/stream31122019/playlist.m3u8?DVR",
-    "logo": "http://radio.oui9mobi.com/apps/images/m3u8-08.png"
-  },
-  {
-    "name": "Radio MDC",
-    "category": "ARABIC - NEWS FM",
-    "url": "http://radio.oui9.com/aradio/news_radio/?id=4",
-    "logo": "http://radio.oui9mobi.com/apps/images/54.png"
-  },
-  {
-    "name": "RADIO Orient",
-    "category": "ARABIC - NEWS FM",
-    "url": "http://radio.oui9.com/aradio/FR/?id=18",
-    "logo": "http://radio.oui9mobi.com/apps/images/fr09.png"
-  },
-  {
-    "name": "RADIO BEUR FM",
-    "category": "ARABIC - NEWS FM",
-    "url": "http://radio.oui9.com/aradio/news_radio/?id=26",
-    "logo": "http://radio.oui9mobi.com/apps/images/fr07.png"
-  },
-  {
-    "name": "RADIO AJYAL",
-    "category": "ARABIC - NEWS FM",
-    "url": "http://radio.oui9.com/aradio/ps/?id=4",
-    "logo": "http://radio.oui9mobi.com/apps/images/pal01.png"
-  },
-  {
-    "name": "Radio Mars",
-    "category": "ARABIC - NEWS FM",
-    "url": "http://radio.oui9.com/aradio/maroc/?id=4",
-    "logo": "http://radio.oui9mobi.com/apps/images/10.png"
-  },
-  {
-    "name": "Radio Med Radio",
-    "category": "ARABIC - NEWS FM",
-    "url": "http://radio.oui9.com/aradio/maroc/?id=6",
-    "logo": "http://radio.oui9mobi.com/apps/images/08.png"
-  },
-  {
-    "name": "Al-Alam News",
-    "category": "ARABIC - NEWS FM",
-    "url": "http://live2.alalamtv.net/alalam.m3u8",
-    "logo": "https://tomor.net/tvlogo/AlAlam-live.gif"
-  },
-  {
     "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-abadan/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-abadan.png",
     "name": "آبادان"
   },
   {
     "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-tabriz/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-tabriz.png",
     "name": "آذربایجان شرقی"
   },
   {
     "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-azgharbi/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-azgharbi.png",
     "name": "آذربایجان غربی"
   },
   {
     "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-ardebil/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-ardebil.png",
     "name": "اردبیل"
   },
   {
     "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-esfahan/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-esfahan.png",
     "name": "اصفهان"
   },
   {
     "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-alborz/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-alborz.png",
     "name": "البرز"
   },
   {
     "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-ilam/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-ilam.png",
     "name": "ایلام"
   },
   {
     "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-bushehr/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-booshehr.png",
     "name": "بوشهر"
   },
   {
     "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-shahrekord/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-charmahal.png",
     "name": "چهارمحال و بختیاری"
   },
   {
     "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-khorasanjonoobi/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-khorasanjonoobi.png",
     "name": "خراسان جنوبی"
   },
   {
     "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-khorasanrazavi/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-khorasanrazavi.png",
     "name": "خراسان رضوی"
   },
   {
     "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-khorsanshomali/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-khorasanshomali.png",
     "name": "خراسان شمالی"
   },
   {
     "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-bandarabas/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-khalij.png",
     "name": "خلیج فارس"
   },
   {
     "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-khoozestan/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-khoozestan.png",
     "name": "خوزستان"
   },
   {
     "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-zanjan/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-zanjan.png",
     "name": "زنجان"
   },
   {
     "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-ziarat/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-ziarat.png",
     "name": "زیارت"
   },
   {
     "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-semnan/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-semnan.png",
     "name": "سمنان"
   },
   {
     "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-zahedan/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-zahedan.png",
     "name": "سیستان و بلوچستان"
   },
   {
     "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-fars/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-fars.png",
     "name": "فارس"
   },
   {
     "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-qazvin/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-qazvin.png",
     "name": "قزوین"
   },
   {
     "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-qom/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-qom.png",
     "name": "قم"
   },
   {
     "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-kordestan/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-kordestan.png",
     "name": "کردستان"
   },
   {
     "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-kerman/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-kerman.png",
     "name": "کرمان"
   },
   {
     "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-kermanshah/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-kermanshah.png",
     "name": "کرمانشاه"
   },
   {
     "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-yasuj/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-yasuj.png",
     "name": "کهکیلویه و بویراحمد"
   },
   {
     "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-kish/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-kish.png",
     "name": "کیش"
   },
   {
     "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-gorgan/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-golestan.png",
     "name": "گلستان"
   },
   {
     "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-rasht/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-gilan.png",
     "name": "گیلان"
   },
   {
     "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-lorestan/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-lorestan.png",
     "name": "لرستان"
   },
   {
     "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-sari/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-mazandaran.png",
     "name": "مازندران"
   },
   {
     "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-markazi/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-markazi.png",
     "name": "مرکزی"
   },
   {
     "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-mahabad/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-mahabad.png",
     "name": "مهاباد"
   },
   {
     "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-hamedan/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-hamedan.png",
     "name": "همدان"
   },
   {
     "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-yazd/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-yazd.png",
     "name": "یزد"
   },
   {
     "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-avaa/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-avaa.png",
     "name": "آوا"
   },
   {
     "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-eghtesad/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-eghtesad.png",
     "name": "اقتصاد"
   },
   {
     "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-iran/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-iran.png",
     "name": "ايران"
   },
   {
     "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-payam/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-payam.png",
     "name": "پیام"
   },
   {
     "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-tartil/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-tartil.png",
     "name": "ترتیل"
   },
   {
     "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-talavat/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-talavat.png",
     "name": "تلاوت"
   },
   {
     "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-tehran/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-tehran.png",
     "name": "تهران"
   },
   {
     "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-javan/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-javan.png",
     "name": "جوان"
   },
   {
     "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-salamat/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-salamat.png",
     "name": "سلامت"
   },
   {
     "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-saba/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-saba.png",
     "name": "صبا"
   },
   {
     "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-farhang/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-farhang.png",
     "name": "فرهنگ"
   },
   {
     "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-quran/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-quran.png",
     "name": "قرآن"
   },
   {
     "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-goftego/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-goftego.png",
     "name": "گفتگو"
   },
   {
     "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-maaref/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-maaref.png",
     "name": "معارف"
   },
   {
     "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-namayesh/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-namayesh.png",
     "name": "نمایش"
   },
   {
     "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-varzesh/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-varzesh.png",
     "name": "ورزش"
   },
   {
     "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-arabic/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-arabic.png",
     "name": "عربی"
   },
   {
     "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-english/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-english.png",
     "name": "انگلیسی"
   },
   {
     "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-ziarat/chunklist.m3u8",
-    "category": "Farsi",
+    "category": "FARSI",
     "logo": " http://public.iranseda.ir/cdn/img/logo-networks/radio-ziarat.png",
     "name": "زیارت"
   },
@@ -10286,7 +10154,7 @@
   {
     "name": "Harman Radyo",
     "logo": "https://www.cepradyom.com/radyodinle/admin_pa//uploads/radios/harman-radyo.jpg",
-    "category": "Halk Müziği",
+    "category": "HALK Müziği",
     "url": "http://159.253.37.137:9888/"
   },
   {
@@ -10304,7 +10172,7 @@
   {
     "name": "Hatay Radyo Akdeniz",
     "logo": "https://www.cepradyom.com/radyodinle/admin_pa//uploads/radios/hatay-radyo-akdeniz.jpg",
-    "category": "",
+    "category": "Other",
     "url": "http://yayin.netyayin.net:7077/;stream.nsv"
   },
   {
@@ -12026,7 +11894,7 @@
   {
     "name": "Popland",
     "logo": "https://www.cepradyom.com/radyodinle/admin_pa//uploads/radios/popland.jpg",
-    "category": "",
+    "category": "Other",
     "url": "http://46.20.3.246/stream/46/"
   },
   {
@@ -12722,7 +12590,7 @@
   {
     "name": "Radyo Balkan",
     "logo": "https://www.cepradyom.com/radyodinle/admin_pa//uploads/radios/radyo-balkan.jpg",
-    "category": "",
+    "category": "Other",
     "url": "http://sesle.radyobalkan.com:8050/stream"
   },
   {
@@ -12782,7 +12650,7 @@
   {
     "name": "Radyo Boyko",
     "logo": "https://www.cepradyom.com/radyodinle/admin_pa//uploads/radios/radyo-boyko.jpg",
-    "category": "",
+    "category": "Other",
     "url": "http://server.radyoboyko.com:8050/;"
   },
   {
@@ -14505,7 +14373,7 @@
     "name": "Reklamsız Radyo Yabancı",
     "logo": "https://www.cepradyom.com/radyodinle/admin_pa//uploads/radios/reklamsiz-radyo-yabanci.jpg",
     "category": "Yabancı",
-    "url": "http://80.radyopop.com/listen.pls?sid=1"
+    "url": "http://80.radyopop.com/"
   },
   {
     "name": "Relax Home",
