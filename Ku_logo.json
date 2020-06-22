@@ -2904,6 +2904,30 @@
     "logo": "https://cdn.onlineradiobox.com/img/logo/9/74929.v3.png"
   },
   {
+    "name": "Radio Sputnik Arabic",
+    "category": "News",
+    "url": "http://radio.oui9.com/aradio/news_radio/?id=34",
+    "logo": "http://radio.oui9mobi.com/apps/images/nws34a.png"
+  },
+  {
+    "name": "RADIO AJYAL",
+    "category": "SPORTS",
+    "url": "http://radio.oui9.com/aradio/ps/?id=4",
+    "logo": "http://radio.oui9mobi.com/apps/images/pal01.png"
+  },
+  {
+    "name": "Bloomberg Radio (US)",
+    "url": "http://tunein.streamguys1.com/bloomberg991",
+    "category": "PUBLIC RADIO STATIONS",
+    "logo": "http://cdn-profiles.tunein.com/s165740/images/logoq.png"
+  },
+  {
+    "name": "Calm Radio - Classical Piano",
+    "category": "RELAXATION - MUSIC",
+    "url": "http://streams.calmradio.com:1228/stream/1/",
+    "logo": "https://static-media.streema.com/media/cache/0f/61/0f612df291090b248745ec189bc2986d.jpg"
+  },
+  {
     "name": "Radio Al Watania",
     "category": "Algerie",
     "url": "http://radio.oui9.com/aradio/algi/?id=54",
@@ -5244,26 +5268,14 @@
     "logo": "http://radio.oui9mobi.com/apps/images/fr23.png"
   },
   {
-    "name": "Radio Sputnik Arabic",
-    "category": "News",
-    "url": "http://radio.oui9.com/aradio/news_radio/?id=34",
-    "logo": "http://radio.oui9mobi.com/apps/images/nws34a.png"
-  },
-  {
-    "name": "RADIO AJYAL",
-    "category": "Sports",
-    "url": "http://radio.oui9.com/aradio/ps/?id=4",
-    "logo": "http://radio.oui9mobi.com/apps/images/pal01.png"
-  },
-  {
     "name": "Radio Mars",
-    "category": "Sports",
+    "category": "SPORTS",
     "url": "http://radio.oui9.com/aradio/maroc/?id=4",
     "logo": "http://radio.oui9mobi.com/apps/images/10.png"
   },
   {
     "name": "Radio Med Radio",
-    "category": "Sports",
+    "category": "SPORTS",
     "url": "http://radio.oui9.com/aradio/maroc/?id=6",
     "logo": "http://radio.oui9mobi.com/apps/images/08.png"
   },
@@ -5656,12 +5668,6 @@
     "category": "Palestine",
     "url": "https://cdna.streamgates.net/Ashams/Live/playlist.m3u8",
     "logo": "http://radio.oui9mobi.com/apps/images/pal56.png"
-  },
-  {
-    "name": "Bloomberg Radio (US)",
-    "url": "http://tunein.streamguys1.com/bloomberg991",
-    "category": "PUBLIC RADIO STATIONS",
-    "logo": "http://cdn-profiles.tunein.com/s165740/images/logoq.png"
   },
   {
     "name": "BBC Radio 4 (London, UK)",
@@ -6892,12 +6898,6 @@
     "category": "RELAXATION - MUSIC",
     "url": "http://streams.calmradio.com:2628/stream/1/",
     "logo": "https://static-media.streema.com/media/cache/7c/9c/7c9c3592eb004c7287ddad7b2acce1ec.jpg"
-  },
-  {
-    "name": "Calm Radio - Classical Piano",
-    "category": "RELAXATION - MUSIC",
-    "url": "http://streams.calmradio.com:1228/stream/1/",
-    "logo": "https://static-media.streema.com/media/cache/0f/61/0f612df291090b248745ec189bc2986d.jpg"
   },
   {
     "name": "Calm Radio - Sleep",
