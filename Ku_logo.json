@@ -61,7 +61,7 @@
   },
   {
     "category": "KURDI",
-    "logo": "https://raw.githubusercontent.com/lo483/RADIO_LOGO/master/kurdi/rebaz%20fm.png",
+    "logo": "https://raw.githubusercontent.com/lo483/RADIO_LOGO/master/kurdi/rebaz%20fm.jpg",
     "name": "Rebaz FM",
     "url": "http://rasti.out.airtime.pro:8000/rasti_a"
   },
@@ -265,7 +265,7 @@
   },
   {
     "category": "KURDI",
-    "logo": "https://raw.githubusercontent.com/lo483/RADIO_LOGO/master/kurdi/Radio%20Ashur.png",
+    "logo": "https://babylonfm.net/wp-content/uploads/2018/02/ashur-logo-170x170.png",
     "name": "Radio Ashur",
     "url": "https://eu7.fastcast4u.com/proxy/radioashur"
   },
@@ -397,49 +397,49 @@
   },
   {
     "name": "Amed Radyo TV",
-    "logo": "http://eminsevindi.com/uygulama/panel//uploads/radios/8753-2019-07-04.png",
+    "logo": "https://raw.githubusercontent.com/lo483/RADIO_LOGO/master/kurdi/AmedRadyoTV.jpg",
     "url": "http://radyo.amedradyotv.net:8000",
     "category": "KURDI"
   },
   {
     "name": "CEYLANPINAR FM",
-    "logo": "http://eminsevindi.com/uygulama/panel//uploads/radios/9179-2016-05-01.jpg",
+    "logo": "https://raw.githubusercontent.com/lo483/RADIO_LOGO/master/kurdi/CEYLANPINARFM.png",
     "url": "https://radyoplayer.net/listen/d83bb62f9fb0cdd6ab4189681dd364e7",
     "category": "KURDI"
   },
   {
     "name": "Med Radyo",
-    "logo": "http://eminsevindi.com/uygulama/panel//uploads/radios/5627-2018-11-09.jpg",
+    "logo": "https://raw.githubusercontent.com/lo483/RADIO_LOGO/master/kurdi/MedRadyo.jpg",
     "url": "http://medradyo.kesintisizyayin.com:8062/;",
     "category": "KURDI"
   },
   {
     "name": "Medya Fm",
-    "logo": "http://eminsevindi.com/uygulama/panel//uploads/radios/5334-2016-12-01.jpg",
+    "logo": "https://raw.githubusercontent.com/lo483/RADIO_LOGO/master/kurdi/MedyaFm.png",
     "url": "http://yayin.yayindakiler.com:4016/;",
     "category": "KURDI"
   },
   {
     "name": "Nor Radyo",
-    "logo": "http://eminsevindi.com/uygulama/panel//uploads/radios/4613-2016-05-01.jpg",
+    "logo": "https://raw.githubusercontent.com/lo483/RADIO_LOGO/master/kurdi/NorRadyo.jpg",
     "url": "http://www.norradyo.com:8000/live",
     "category": "KURDI"
   },
   {
     "name": "Radio 13",
-    "logo": "http://eminsevindi.com/uygulama/panel//uploads/radios/3127-2017-02-22.png",
+    "logo": "https://raw.githubusercontent.com/lo483/RADIO_LOGO/master/kurdi/Radio13.png",
     "url": "http://yayin1.yayindakiler.com:3050/",
     "category": "KURDI"
   },
   {
     "name": "Radyo Dengê Kurdî",
-    "logo": "http://eminsevindi.com/uygulama/panel//uploads/radios/8567-2017-01-25.png",
+    "logo": "https://raw.githubusercontent.com/lo483/RADIO_LOGO/master/kurdi/RadyoDengêKurdî.png",
     "url": "http://yayin.radiodengekurdi.com:3413/;",
     "category": "KURDI"
   },
   {
     "name": "Radyo Kilim",
-    "logo": "http://eminsevindi.com/uygulama/panel//uploads/radios/1216-2016-05-01.jpg",
+    "logo": "https://raw.githubusercontent.com/lo483/RADIO_LOGO/master/kurdi/radyo-kilim-dinle.jpg",
     "url": "http://sunucu.radyodinle.com:2727/;",
     "category": "KURDI"
   },
@@ -463,7 +463,7 @@
   },
   {
     "name": "Radyo Yüksel",
-    "logo": "http://eminsevindi.com/uygulama/panel//uploads/radios/6896-2017-10-21.png",
+    "logo": "http://eminsevindi.com/uygulama/panel//uploads/radios/RadyoYüksel.jpg",
     "url": "http://yayin2.canliyayin.org:8232/;",
     "category": "KURDI"
   },
@@ -1003,7 +1003,7 @@
   },
   {
     "category": "KURDI",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/lo483/RADIO_LOGO/master/kurdi/NRT3.jpg",
     "name": "NRT3",
     "url": "http://216.66.42.23:7777/NRT3Kids/NRT3Kids_Low.m3u8"
   },
@@ -1081,7 +1081,7 @@
   },
   {
     "category": "ISLAMIC",
-    "logo": "https://raw.githubusercontent.com/lo483/RADIO_LOGO/master/kurdi/BOZKURTLAR%20FM%20.jpg",
+    "logo": "https://raw.githubusercontent.com/lo483/RADIO_LOGO/master/kurdi/CagriFM99.0FM.jpg",
     "name": "ÇAĞRI FM DİYARBAKIR",
     "url": "http://yayin1.canliyayin.org:8202/;"
   },
@@ -2043,7 +2043,7 @@
     "name": "América Dance 90's",
     "category": "EURODANCE - MUSIC",
     "url": "http://stm8.srvstm.com:8212/1",
-    "logo": "https://static.radio.net/images/broadcasts/79/da/36411/2/c175.png"
+    "logo": "https://raw.githubusercontent.com/lo483/RADIO_LOGO/master/kurdi/América Dance 90's.png"
   },
   {
     "name": "E-Dance 90's",
@@ -2073,7 +2073,7 @@
     "name": "Eurodance 90 - Dance Anos 90",
     "category": "EURODANCE - MUSIC",
     "url": "http://stream.zeno.fm/zx9h2b61u8quv",
-    "logo": "https://static.radio.net/images/broadcasts/ae/42/34784/c175.png"
+    "logo": "https://raw.githubusercontent.com/lo483/RADIO_LOGO/master/kurdi/anos90.png"
   },
   {
     "name": "VIPradio EuroDance",
@@ -2121,7 +2121,7 @@
     "name": "Danceshow Eurodance",
     "category": "EURODANCE - MUSIC",
     "url": "https://stream.laut.fm/danceshow-eurodance",
-    "logo": "https://assets.laut.fm/cda0c7f738fb913ae9c4df26e7e18438?t=_640x640"
+    "logo": "https://raw.githubusercontent.com/lo483/RADIO_LOGO/master/kurdi/462f43fa-d2b3-421d-94ff-5a3f80298e3f.png"
   },
   {
     "name": "Eurodance radio90",
@@ -2391,7 +2391,7 @@
     "name": "Eurodance 90 - Dance Anos 90",
     "category": "EURODANCE - MUSIC",
     "url": "http://node-30.zeno.fm/g1u270e2ybruv",
-    "logo": "https://static.radio.net/images/broadcasts/ae/42/34784/c175.png"
+    "logo": "https://raw.githubusercontent.com/lo483/RADIO_LOGO/master/kurdi/euro90.png"
   },
   {
     "name": "90s90s POP",
@@ -2415,7 +2415,7 @@
     "name": "104.6 RTL 90er",
     "category": "EURODANCE - MUSIC",
     "url": "https://stream.104.6rtl.com/rtl-90er",
-    "logo": "https://static.radio.net/images/broadcasts/ed/45/40575/6/c175.png"
+    "logo": "https://raw.githubusercontent.com/lo483/RADIO_LOGO/master/kurdi/cjghzzd76r6b.png"
   },
   {
     "name": "RMI - Beach Club",
