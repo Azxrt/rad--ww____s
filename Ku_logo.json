@@ -61,7 +61,7 @@
   },
   {
     "category": "KURDI",
-    "logo": "https://raw.githubusercontent.com/lo483/RADIO_LOGO/master/kurdi/rebaz%20fm.jpg",
+    "logo": "https://raw.githubusercontent.com/lo483/RADIO_LOGO/master/kurdi/rebazfm.jpg",
     "name": "Rebaz FM",
     "url": "http://rasti.out.airtime.pro:8000/rasti_a"
   },
@@ -397,7 +397,7 @@
   },
   {
     "name": "Amed Radyo TV",
-    "logo": "https://raw.githubusercontent.com/lo483/RADIO_LOGO/master/kurdi/AmedRadyoTV.jpg",
+    "logo": "https://raw.githubusercontent.com/lo483/RADIO_LOGO/master/kurdi/AmedRadyo TV.jpg",
     "url": "http://radyo.amedradyotv.net:8000",
     "category": "KURDI"
   },
@@ -463,7 +463,7 @@
   },
   {
     "name": "Radyo Yüksel",
-    "logo": "http://eminsevindi.com/uygulama/panel//uploads/radios/RadyoYüksel.jpg",
+    "logo": "https://raw.githubusercontent.com/lo483/RADIO_LOGO/master/kurdi/RadyoYüksel.jpg",
     "url": "http://yayin2.canliyayin.org:8232/;",
     "category": "KURDI"
   },
