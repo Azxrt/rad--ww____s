@@ -4,12 +4,12 @@
   "ad_type": 0,
   "interstitial_count": 20,
   "radio_click_enable": 1,
-  "num_of_native_ad": 5,
+  "num_of_native_ad": 3,
   "admob_app": "ca-app-pub-6154328264020778~7917184200",
   "admob_banner": "ca-app-pub-6154328264020778/1351775855",
   "admob_interstitial": "ca-app-pub-6154328264020778/2521747362",
   "admob_native": "ca-app-pub-6154328264020778/4701598853",
-  "fan_banner": "298489137902429_298490281235648",
-  "fan_interstitial": "298489137902429_298492424568767",
-  "fan_native": "298489137902429_298492867902056"
+  "fan_banner": "229908271781830_229908311781826",
+  "fan_interstitial": "229908271781830_229908308448493",
+  "fan_native": "229908271781830_229908305115160"
 }
