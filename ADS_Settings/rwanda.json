@@ -1,1 +1,15 @@
-{"admob_enable":0,"fan_enable":0,"interstitial_count":20,"radio_click_enable":1}
+{
+  "force_update": 0,
+  "banner_position": 2,
+  "ad_type": 0,
+  "interstitial_count": 20,
+  "radio_click_enable": 1,
+  "num_of_native_ad": 3,
+  "admob_app": "ca-app-pub-6154328264020778~5223572253",
+  "admob_banner": "ca-app-pub-6154328264020778/5638219815",
+  "admob_interstitial": "ca-app-pub-6154328264020778/7003740243",
+  "admob_native": "ca-app-pub-6154328264020778/6342177109",
+  "fan_banner": "343520206790781_343520260124109",
+  "fan_interstitial": "343520206790781_343520256790776",
+  "fan_native": "343520206790781_343520253457443"
+}
