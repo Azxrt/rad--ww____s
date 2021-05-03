@@ -5,6 +5,7 @@
   "interstitial_count": 15,
   "radio_click_enable": 1,
   "num_of_native_ad": 5,
+  "native_ad_enable": 1,
   "admob_app": "ca-app-pub-6154328264020778~1086808708",
   "admob_app_open": "ca-app-pub-6154328264020778/8629145932",
   "admob_banner": "ca-app-pub-6154328264020778/3277857774",
