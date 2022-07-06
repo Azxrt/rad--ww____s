@@ -1,17 +1,1 @@
-{
-  "force_update": 0,
-  "banner_position": 2,
-  "ad_type": 0,
-  "interstitial_count": 5,
-  "radio_click_enable": 1,
-  "num_of_native_ad": 5,
-  "native_ad_enable": 1,
-  "admob_app": "ca-app-pub-6154328264020778~3562597107",
-  "admob_app_open": "ca-app-pub-6154328264020778/2838790874",
-  "admob_banner": "ca-app-pub-6154328264020778/9936433764",
-  "admob_interstitial": "ca-app-pub-6154328264020778/4270128058",
-  "admob_native": "ca-app-pub-6154328264020778/5568151488",
-  "fan_banner": "791264154953408_791264214953402",
-  "fan_interstitial": "791264154953408_791264218286735",
-  "fan_native": "791264154953408_791264204953403"
-}
+{"force_update":0,"banner_position":2,"ad_type":0,"interstitial_count":7,"radio_click_enable":1,"num_of_native_ad":5,"native_ad_enable":1,"native_ad_enable_country":"test","admob_app":"ca-app-pub-6154328264020778~3562597107","admob_app_open":"ca-app-pub-6154328264020778/2838790874","admob_banner":"ca-app-pub-6154328264020778/9936433764","admob_interstitial":"ca-app-pub-6154328264020778/4270128058","admob_native":"ca-app-pub-6154328264020778/5568151488","fan_banner":"791264154953408_791264214953402","fan_interstitial":"791264154953408_791264218286735","fan_native":"791264154953408_791264204953403"}
